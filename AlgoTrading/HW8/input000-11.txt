@@ -1,0 +1,52 @@
+Unnamed: 0	Ticker	Date	Time	Headline	Source	neg	neu	pos	compound
+0	FB	Mar-20-22	02:56PM	These Are The 5 Best Stocks To Buy And Watch Now	Investor's Business Daily	0	0.682	0.318	0.6369
+1	FB		09:18AM	Instagram finally has parental controls. Heres how to use them	Yahoo Finance	0	1	0	0
+2	FB		07:00AM	3 Stocks to Buy Before They Skyrocket Again	Motley Fool	0	1	0	0
+3	FB		06:30AM	Meta Platforms Stock: Bear vs. Bull	Motley Fool	0	1	0	0
+4	FB	Mar-19-22	07:11PM	Brazil Bans?Telegram Messaging Service in Crackdown on Fake News	Bloomberg	0.256	0.744	0	-0.4767
+5	FB		09:00AM	Better Buy: Meta Platforms vs. Nvidia	Motley Fool	0	0.633	0.367	0.4404
+6	FB		07:15AM	Beyond Stock Splits and Interest Rates: 3 Beaten-Down Growth Stocks to Buy Right Now	Motley Fool	0	0.663	0.337	0.6808
+7	FB		05:57AM	2 Metaverse Stocks That Could Double, According to Wall Street	Motley Fool	0	1	0	0
+8	FB	Mar-18-22	07:02PM	Facebook Is Still Struggling. TikTok Wont Be the Only Beneficiary.	Barrons.com	0.201	0.576	0.223	0.0772
+9	FB		04:40PM	Russian copycats are stealing intellectual property of American brands	Yahoo Finance Video	0.264	0.5	0.236	-0.1027
+10	FB		03:18PM	Stocks turn positive to end the week, led by megacap sectors	Yahoo Finance Video	0	0.735	0.265	0.5574
+11	AAPL	Mar-20-22	08:44PM	UPDATE 1-Foxconn 'basically' resumes normal operations in China's Shenzhen	Reuters	0	1	0	0
+12	AAPL		04:31PM	U.S. charges former Apple buyer with defrauding more than $10 million from company	Reuters	0.149	0.851	0	-0.2732
+13	AAPL		04:26PM	U.S. charges former Apple buyer with defrauding more than $10 mln from company	Reuters	0.149	0.851	0	-0.2732
+14	AAPL		09:30AM	7 fitness apps beginners may want to check out	MarketWatch	0	0.638	0.362	0.34
+15	AAPL		09:09AM	Why Hollywood's obsessed with Silicon Valley: 'Everybody loves a rise-and-fall story'	Yahoo Finance	0.127	0.597	0.276	0.4588
+16	AAPL		08:00AM	Just One More Reason to Be Bullish on Apple Stock	Motley Fool	0	1	0	0
+17	AAPL		06:10AM	Apple Stock: Bear vs. Bull	Motley Fool	0	1	0	0
+18	AAPL		05:06AM	3 Tech Stocks That Can Turn $200,000 Into $1 Million in 8 Years (or Less)	Motley Fool	0	1	0	0
+19	AAPL	Mar-19-22	03:10PM	Former Apple employee charged with defrauding $10 million	MarketWatch	0.205	0.795	0	-0.2023
+20	AAPL		10:53AM	3 Resilient Stocks to Help Solidify Your Portfolio	Motley Fool	0	0.69	0.31	0.4019
+21	AAPL		10:30AM	2 Stocks I Will "Never" Sell	Motley Fool	0	1	0	0
+22	AMZN	Mar-20-22	11:26AM	First look: Inside Amazon's Pittsburgh corporate office, where machine linguistics dictate its focus	American City Business Journals	0	1	0	0
+23	AMZN		11:15AM	Amazon Announces 20-for-1 Stock Split: Could Chipotle Be Next?	Motley Fool	0	0.825	0.175	0.1779
+24	AMZN		09:09AM	Why Hollywood's obsessed with Silicon Valley: 'Everybody loves a rise-and-fall story'	Yahoo Finance	0.127	0.597	0.276	0.4588
+25	AMZN		07:30AM	This E-Commerce Stock Just Can't Stop Growing	Motley Fool	0.181	0.595	0.225	0.0951
+26	AMZN		06:10AM	Apple Stock: Bear vs. Bull	Motley Fool	0	1	0	0
+27	AMZN		05:49AM	South African court halts construction of Amazon HQ on sacred land	Reuters	0	0.855	0.145	0.1779
+28	AMZN		05:40AM	South African court halts construction of Amazon HQ on sacred land	Reuters	0	0.855	0.145	0.1779
+29	AMZN	Mar-19-22	02:39PM	Second Amazon warehouse in New York to hold union election in April	MarketWatch	0	0.866	0.134	0.1779
+30	AMZN		12:16PM	Google Makes a Move to Take on Shopify, Amazon and Walmart	TheStreet.com	0	0.841	0.159	0.1779
+31	AMZN		10:30AM	2 Stocks I Will "Never" Sell	Motley Fool	0	1	0	0
+32	AMZN		10:21AM	10 Stocks Under $30 In Ken Fishers Portfolio	Insider Monkey	0	1	0	0
+33	NFLX	Mar-20-22	09:09AM	Why Hollywood's obsessed with Silicon Valley: 'Everybody loves a rise-and-fall story'	Yahoo Finance	0.127	0.597	0.276	0.4588
+34	NFLX		06:30AM	Disney Revenue Rebounds and Streaming Skyrockets	Motley Fool	0	1	0	0
+35	NFLX	Mar-19-22	09:30AM	Shareholders Shouldn't Worry: Netflix Is Still a Growth Stock	Motley Fool	0	0.545	0.455	0.6131
+36	NFLX		07:15AM	Beyond Stock Splits and Interest Rates: 3 Beaten-Down Growth Stocks to Buy Right Now	Motley Fool	0	0.663	0.337	0.6808
+37	NFLX	Mar-18-22	10:57AM	Forget What You Knew About the Technochasm	InvestorPlace	0.241	0.759	0	-0.2263
+38	NFLX		10:05AM	Apple (AAPL) Expands TV+ Content with First All-Spanish Series	Zacks	0	0.851	0.149	0.1027
+39	NFLX	Mar-17-22	04:52PM	Why one analyst is pushing to buy oversold tech stocks like Apple	Yahoo Finance Video	0	0.815	0.185	0.3612
+40	NFLX		04:05PM	Why Netflix is finally cracking down on password sharing	Yahoo Finance	0	0.741	0.259	0.4215
+41	NFLX		04:04PM	Netflix Hopes To Convert Freeloaders Into Members For Revenue Boost	Investor's Business Daily	0.081	0.515	0.404	0.6597
+42	NFLX		03:47PM	10 Stocks Gaining Ground on Thursday	Insider Monkey	0	0.641	0.359	0.4215
+43	NFLX		01:46PM	Here's what Warren Buffett's favorite stock market indicator is saying now	Yahoo Finance	0	0.769	0.231	0.4588
+44	GOOG	Mar-20-22	10:20PM	Dow Jones Futures Fall: Four Market Days That Changed Everything; What To Do Now	Investor's Business Daily	0	1	0	0
+45	GOOG		03:06PM	These Are The Best Robinhood Stocks To Buy Or Watch Now	Investor's Business Daily	0	0.704	0.296	0.6369
+46	GOOG		12:42PM	Why You Should Buy Cybersecurity Stocks & ETFs Now	Zacks	0	1	0	0
+47	GOOG		10:00AM	Will Pfizer Be a Trillion-Dollar Stock by 2040?	Motley Fool	0	1	0	0
+48	GOOG		06:10AM	Apple Stock: Bear vs. Bull	Motley Fool	0	1	0	0
+49	GOOG	Mar-19-22	07:11PM	Brazil Bans?Telegram Messaging Service in Crackdown on Fake News	Bloomberg	0.256	0.744	0	-0.4767
+50	GOOG		05:30PM	Former Google Employee Files Lawsuit Accusing The Tech Company Of Racial Bias Against Black Employees	Black Enterprise	0.294	0.706	0	-0.4588

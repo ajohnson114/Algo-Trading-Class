@@ -1,0 +1,3520 @@
+Symbol,Description,OrderID,Quantity,Action,Exchange,Side,Price,News
+AAL,American Airlines Group Inc,1101,455000,A,1,B,44.05,0
+AAPL,Apple Inc,1102,685000,A,1,B,128.75,0
+ADBE,Adobe Systems Inc,1103,189000,A,1,B,113.36,0
+ADI,Analog Devices Inc,1104,181000,A,1,B,76.17,0
+ADP,Automatic Data Processing Inc,1105,953000,A,1,B,95.25,0
+ADSK,Autodesk Inc,1106,191000,A,1,B,81.28,0
+AKAM,Akamai Technologies Inc,1107,285000,A,1,B,68.7,0
+ALXN,Alexion Pharmaceuticals Inc,1108,524000,A,1,B,132.32,0
+AMAT,Applied Materials Inc,1109,952000,A,1,B,30.53,50
+AMGN,Amgen Inc,1110,682000,A,1,B,159.67,0
+AMZN,Amazon.com Inc,1111,995000,A,1,B,832.35,0
+ATVI,Activision Blizzard Inc,1112,587000,A,1,B,40.47,0
+AVGO,Broadcom Ltd,1113,265000,A,1,B,208.69,100
+BBBY,Bed Bath & Beyond Inc,1114,431000,A,1,B,39.79,0
+BIDU,Baidu Inc,1115,245000,A,1,B,173.82,0
+BIIB,Biogen Inc,1116,845000,A,1,B,281.69,0
+BMRN,Biomarin Pharmaceutical Inc,1117,226000,A,1,B,88.59,0
+CA,CA Inc,1118,679000,A,1,B,24.95,100
+CELG,Celgene Corp,1119,687000,A,1,B,123.41,100
+CERN,Cerner Corp,1120,564000,A,1,B,58.86,100
+CHKP,Check Point Software Technologies Ltd,1121,646000,A,1,B,97.91,0
+CHTR,Charter Communications Inc,1122,989000,A,1,B,326.85,0
+CMCSA,Comcast Corp,1123,495000,A,1,B,75.61,0
+COST,Costco Wholesale Corp,1124,972000,A,1,B,160.86,50
+CSCO,Cisco Systems Inc,1125,812000,A,1,B,34.5,100
+CSX,CSX Corp,1126,831000,A,1,B,47.09,0
+CTRP,Ctrip.Com International Ltd,1127,563000,A,1,B,43.01,0
+CTSH,Cognizant Technology Solutions Corp,1128,416000,A,1,B,52.45,0
+CTXS,Citrix Systems Inc,1129,703000,A,1,B,71.24,0
+DISCA,Discovery Communications Inc,1130,422000,A,1,B,28.04,0
+DISCK,Discovery Communications Inc,1131,828000,A,1,B,27.4,0
+DISH,DISH Network Corp,1132,608000,A,1,B,61.14,0
+DLTR,Dollar Tree Inc,1133,423000,A,1,B,76.39,0
+EA,Electronic Arts,1134,178000,A,1,B,90,100
+EBAY,eBay Inc,1135,784000,A,1,B,32.18,0
+ESRX,Express Scripts Holding Co,1136,105000,A,1,B,69.11,0
+EXPE,Expedia Inc,1137,404000,A,1,B,120.77,0
+FAST,Fastenal Co,1138,921000,A,1,B,49.62,0
+FB,Facebook,1139,114000,A,1,B,133.23,0
+FISV,Fiserv Inc,1140,443000,A,1,B,105.38,0
+FOX,21st Century Fox Class B,1141,594000,A,1,B,31.24,0
+FOXA,21st Century Fox Class A,1142,128000,A,1,B,31.62,0
+GILD,Gilead Sciences Inc,1143,280000,A,1,B,72.82,0
+GOOG,Alphabet Class C,1144,451000,A,1,B,795.695,0
+GOOGL,Alphabet Class A,1145,346000,A,1,B,815.24,0
+HSIC,Henry Schein Inc,1146,947000,A,1,B,159.86,0
+ILMN,Illumina Inc,1147,478000,A,1,B,161.58,0
+INCY,Incyte Corp,1148,928000,A,1,B,127.27,50
+INTC,Intel Corp,1149,454000,A,1,B,36.52,0
+INTU,Intuit Inc,1150,989000,A,1,B,117.71,0
+ISRG,Intuitive Surgical Inc,1151,924000,A,1,B,697.02,0
+AAL,American Airlines Group Inc,1201,784000,A,1,S,44.2,0
+AAPL,Apple Inc,1202,169000,A,1,S,128.75,0
+ADBE,Adobe Systems Inc,1203,329000,A,1,S,118.41,50
+ADI,Analog Devices Inc,1204,254000,A,1,S,76.18,0
+ADP,Automatic Data Processing Inc,1205,286000,A,1,S,95.25,0
+ADSK,Autodesk Inc,1206,560000,A,1,S,79.45,50
+AKAM,Akamai Technologies Inc,1207,582000,A,1,S,68.73,0
+ALXN,Alexion Pharmaceuticals Inc,1208,531000,A,1,S,132.5,0
+AMAT,Applied Materials Inc,1209,291000,A,1,S,35.22,0
+AMGN,Amgen Inc,1210,331000,A,1,S,159.71,0
+AMZN,Amazon.com Inc,1211,892000,A,1,S,832.37,0
+ATVI,Activision Blizzard Inc,1212,429000,A,1,S,40.55,0
+AVGO,Broadcom Ltd,1213,971000,A,1,S,203.85,0
+BBBY,Bed Bath & Beyond Inc,1214,217000,A,1,S,34.86,50
+BIDU,Baidu Inc,1215,774000,A,1,S,178.96,50
+BIIB,Biogen Inc,1216,690000,A,1,S,281.7,0
+BMRN,Biomarin Pharmaceutical Inc,1217,963000,A,1,S,88.76,0
+CA,CA Inc,1218,232000,A,1,S,33.65,50
+CELG,Celgene Corp,1219,567000,A,1,S,117.57,0
+CERN,Cerner Corp,1220,466000,A,1,S,53.89,0
+CHKP,Check Point Software Technologies Ltd,1221,460000,A,1,S,102.04,50
+CHTR,Charter Communications Inc,1222,894000,A,1,S,326.91,50
+CMCSA,Comcast Corp,1223,532000,A,1,S,69.66,100
+COST,Costco Wholesale Corp,1224,576000,A,1,S,161,100
+CSCO,Cisco Systems Inc,1225,756000,A,1,S,40.58,100
+CSX,CSX Corp,1226,821000,A,1,S,47.09,0
+CTRP,Ctrip.Com International Ltd,1227,851000,A,1,S,43.17,0
+CTSH,Cognizant Technology Solutions Corp,1228,399000,A,1,S,52.46,0
+CTXS,Citrix Systems Inc,1229,512000,A,1,S,76.4,50
+DISCA,Discovery Communications Inc,1230,841000,A,1,S,28.12,0
+DISCK,Discovery Communications Inc,1231,178000,A,1,S,27.42,0
+DISH,DISH Network Corp,1232,727000,A,1,S,61.3,0
+DLTR,Dollar Tree Inc,1233,608000,A,1,S,76.54,0
+EA,Electronic Arts,1234,549000,A,1,S,83.09,0
+EBAY,eBay Inc,1235,282000,A,1,S,32.25,0
+ESRX,Express Scripts Holding Co,1236,667000,A,1,S,69.12,0
+EXPE,Expedia Inc,1237,801000,A,1,S,120.92,0
+FAST,Fastenal Co,1238,419000,A,1,S,49.73,0
+FB,Facebook,1239,175000,A,1,S,133.42,0
+FISV,Fiserv Inc,1240,673000,A,1,S,112.51,100
+FOX,21st Century Fox Class B,1241,871000,A,1,S,31.24,0
+FOXA,21st Century Fox Class A,1242,561000,A,1,S,31.8,0
+GILD,Gilead Sciences Inc,1243,678000,A,1,S,77.45,50
+GOOG,Alphabet Class C,1244,244000,A,1,S,795.84,0
+GOOGL,Alphabet Class A,1245,363000,A,1,S,815.43,0
+HSIC,Henry Schein Inc,1246,153000,A,1,S,159.96,0
+ILMN,Illumina Inc,1247,698000,A,1,S,161.63,0
+INCY,Incyte Corp,1248,983000,A,1,S,127.36,50
+INTC,Intel Corp,1249,822000,A,1,S,36.54,0
+INTU,Intuit Inc,1250,863000,A,1,S,117.78,0
+ISRG,Intuitive Surgical Inc,1251,834000,A,1,S,701.57,50
+AAL,American Airlines Group Inc,2101,737000,A,2,B,52.05,100
+AAPL,Apple Inc,2102,461000,A,2,B,127.75,50
+ADBE,Adobe Systems Inc,2103,403000,A,2,B,113.36,0
+ADI,Analog Devices Inc,2104,793000,A,2,B,72.17,100
+ADP,Automatic Data Processing Inc,2105,432000,A,2,B,95.25,0
+ADSK,Autodesk Inc,2106,280000,A,2,B,85.28,100
+AKAM,Akamai Technologies Inc,2107,284000,A,2,B,68.7,0
+ALXN,Alexion Pharmaceuticals Inc,2108,757000,A,2,B,132.32,0
+AMAT,Applied Materials Inc,2109,814000,A,2,B,35.03,0
+AMGN,Amgen Inc,2110,436000,A,2,B,159.67,0
+AMZN,Amazon.com Inc,2111,726000,A,2,B,832.35,0
+ATVI,Activision Blizzard Inc,2112,731000,A,2,B,40.47,0
+AVGO,Broadcom Ltd,2113,439000,A,2,B,203.69,0
+BBBY,Bed Bath & Beyond Inc,2114,542000,A,2,B,38.79,100
+BIDU,Baidu Inc,2115,863000,A,2,B,171.32,50
+BIIB,Biogen Inc,2116,742000,A,2,B,281.19,50
+BMRN,Biomarin Pharmaceutical Inc,2117,917000,A,2,B,84.09,50
+CA,CA Inc,2118,172000,A,2,B,30.95,0
+CELG,Celgene Corp,2119,112000,A,2,B,117.41,0
+CERN,Cerner Corp,2120,716000,A,2,B,55.86,100
+CHKP,Check Point Software Technologies Ltd,2121,670000,A,2,B,97.91,0
+CHTR,Charter Communications Inc,2122,120000,A,2,B,326.85,0
+CMCSA,Comcast Corp,2123,244000,A,2,B,75.61,0
+COST,Costco Wholesale Corp,2124,472000,A,2,B,161.86,0
+CSCO,Cisco Systems Inc,2125,911000,A,2,B,30.5,0
+CSX,CSX Corp,2126,468000,A,2,B,46.09,100
+CTRP,Ctrip.Com International Ltd,2127,144000,A,2,B,43.01,0
+CTSH,Cognizant Technology Solutions Corp,2128,158000,A,2,B,58.45,100
+CTXS,Citrix Systems Inc,2129,540000,A,2,B,71.24,0
+DISCA,Discovery Communications Inc,2130,759000,A,2,B,28.04,0
+DISCK,Discovery Communications Inc,2131,967000,A,2,B,22.4,50
+DISH,DISH Network Corp,2132,326000,A,2,B,61.14,0
+DLTR,Dollar Tree Inc,2133,746000,A,2,B,76.39,0
+EA,Electronic Arts,2134,264000,A,2,B,83,0
+EBAY,eBay Inc,2135,230000,A,2,B,32.18,0
+ESRX,Express Scripts Holding Co,2136,895000,A,2,B,67.11,50
+EXPE,Expedia Inc,2137,609000,A,2,B,120.77,0
+FAST,Fastenal Co,2138,265000,A,2,B,49.62,0
+FB,Facebook,2139,329000,A,2,B,133.23,0
+FISV,Fiserv Inc,2140,836000,A,2,B,105.38,0
+FOX,21st Century Fox Class B,2141,910000,A,2,B,31.24,0
+FOXA,21st Century Fox Class A,2142,461000,A,2,B,31.62,0
+GILD,Gilead Sciences Inc,2143,960000,A,2,B,72.82,0
+GOOG,Alphabet Class C,2144,857000,A,2,B,795.695,0
+GOOGL,Alphabet Class A,2145,481000,A,2,B,815.24,100
+HSIC,Henry Schein Inc,2146,190000,A,2,B,159.86,0
+ILMN,Illumina Inc,2147,517000,A,2,B,161.58,0
+INCY,Incyte Corp,2148,127000,A,2,B,121.77,50
+INTC,Intel Corp,2149,236000,A,2,B,36.52,0
+INTU,Intuit Inc,2150,129000,A,2,B,127.71,100
+ISRG,Intuitive Surgical Inc,2151,723000,A,2,B,697.02,0
+AAL,American Airlines Group Inc,2201,740000,A,2,S,46.21,100
+AAPL,Apple Inc,2202,152000,A,2,S,128.82,0
+ADBE,Adobe Systems Inc,2203,740000,A,2,S,113.41,0
+ADI,Analog Devices Inc,2204,125000,A,2,S,76.34,0
+ADP,Automatic Data Processing Inc,2205,561000,A,2,S,95.35,0
+ADSK,Autodesk Inc,2206,206000,A,2,S,81.34,0
+AKAM,Akamai Technologies Inc,2207,782000,A,2,S,70.4,50
+ALXN,Alexion Pharmaceuticals Inc,2208,758000,A,2,S,132.47,0
+AMAT,Applied Materials Inc,2209,325000,A,2,S,35.14,0
+AMGN,Amgen Inc,2210,280000,A,2,S,159.69,0
+AMZN,Amazon.com Inc,2211,203000,A,2,S,832.49,0
+ATVI,Activision Blizzard Inc,2212,660000,A,2,S,39.51,50
+AVGO,Broadcom Ltd,2213,604000,A,2,S,203.86,0
+BBBY,Bed Bath & Beyond Inc,2214,245000,A,2,S,40.83,50
+BIDU,Baidu Inc,2215,345000,A,2,S,173.87,0
+BIIB,Biogen Inc,2216,196000,A,2,S,281.78,0
+BMRN,Biomarin Pharmaceutical Inc,2217,834000,A,2,S,81.64,100
+CA,CA Inc,2218,336000,A,2,S,31.08,0
+CELG,Celgene Corp,2219,750000,A,2,S,117.45,0
+CERN,Cerner Corp,2220,330000,A,2,S,53.88,0
+CHKP,Check Point Software Technologies Ltd,2221,993000,A,2,S,98.05,0
+CHTR,Charter Communications Inc,2222,806000,A,2,S,326.96,0
+CMCSA,Comcast Corp,2223,886000,A,2,S,75.68,0
+COST,Costco Wholesale Corp,2224,104000,A,2,S,162.06,0
+CSCO,Cisco Systems Inc,2225,693000,A,2,S,30.68,0
+CSX,CSX Corp,2226,880000,A,2,S,47.27,0
+CTRP,Ctrip.Com International Ltd,2227,208000,A,2,S,43.13,0
+CTSH,Cognizant Technology Solutions Corp,2228,354000,A,2,S,52.5,0
+CTXS,Citrix Systems Inc,2229,228000,A,2,S,71.26,0
+DISCA,Discovery Communications Inc,2230,778000,A,2,S,28.2,0
+DISCK,Discovery Communications Inc,2231,636000,A,2,S,24.54,100
+DISH,DISH Network Corp,2232,170000,A,2,S,61.16,0
+DLTR,Dollar Tree Inc,2233,583000,A,2,S,76.53,0
+EA,Electronic Arts,2234,847000,A,2,S,75.02,100
+EBAY,eBay Inc,2235,279000,A,2,S,35.76,50
+ESRX,Express Scripts Holding Co,2236,491000,A,2,S,69.14,0
+EXPE,Expedia Inc,2237,941000,A,2,S,120.83,0
+FAST,Fastenal Co,2238,900000,A,2,S,49.67,0
+FB,Facebook,2239,971000,A,2,S,140.25,100
+FISV,Fiserv Inc,2240,913000,A,2,S,105.41,0
+FOX,21st Century Fox Class B,2241,714000,A,2,S,31.41,0
+FOXA,21st Century Fox Class A,2242,148000,A,2,S,31.63,0
+GILD,Gilead Sciences Inc,2243,160000,A,2,S,71.37,50
+GOOG,Alphabet Class C,2244,679000,A,2,S,795.71,0
+GOOGL,Alphabet Class A,2245,186000,A,2,S,815.44,0
+HSIC,Henry Schein Inc,2246,317000,A,2,S,160.02,0
+ILMN,Illumina Inc,2247,879000,A,2,S,161.69,0
+INCY,Incyte Corp,2248,622000,A,2,S,124.36,0
+INTC,Intel Corp,2249,936000,A,2,S,36.62,0
+INTU,Intuit Inc,2250,355000,A,2,S,117.86,0
+ISRG,Intuitive Surgical Inc,2251,692000,A,2,S,697.16,0
+AAL,American Airlines Group Inc,3101,688000,A,3,B,44.05,0
+AAPL,Apple Inc,3102,984000,A,3,B,128.75,0
+ADBE,Adobe Systems Inc,3103,761000,A,3,B,108.36,50
+ADI,Analog Devices Inc,3104,213000,A,3,B,76.17,0
+ADP,Automatic Data Processing Inc,3105,951000,A,3,B,95.25,0
+ADSK,Autodesk Inc,3106,274000,A,3,B,81.28,0
+AKAM,Akamai Technologies Inc,3107,278000,A,3,B,67.7,100
+ALXN,Alexion Pharmaceuticals Inc,3108,976000,A,3,B,134.82,50
+AMAT,Applied Materials Inc,3109,111000,A,3,B,35.03,0
+AMGN,Amgen Inc,3110,469000,A,3,B,159.67,0
+AMZN,Amazon.com Inc,3111,862000,A,3,B,832.35,0
+ATVI,Activision Blizzard Inc,3112,649000,A,3,B,40.47,0
+AVGO,Broadcom Ltd,3113,176000,A,3,B,203.69,0
+BBBY,Bed Bath & Beyond Inc,3114,680000,A,3,B,39.79,0
+BIDU,Baidu Inc,3115,295000,A,3,B,172.32,50
+BIIB,Biogen Inc,3116,143000,A,3,B,281.69,0
+BMRN,Biomarin Pharmaceutical Inc,3117,114000,A,3,B,88.59,0
+CA,CA Inc,3118,346000,A,3,B,30.95,0
+CELG,Celgene Corp,3119,365000,A,3,B,117.41,0
+CERN,Cerner Corp,3120,450000,A,3,B,53.86,0
+CHKP,Check Point Software Technologies Ltd,3121,456000,A,3,B,96.91,50
+CHTR,Charter Communications Inc,3122,531000,A,3,B,326.85,0
+CMCSA,Comcast Corp,3123,950000,A,3,B,66.61,100
+COST,Costco Wholesale Corp,3124,916000,A,3,B,161.86,0
+CSCO,Cisco Systems Inc,3125,972000,A,3,B,25.5,50
+CSX,CSX Corp,3126,668000,A,3,B,47.09,0
+CTRP,Ctrip.Com International Ltd,3127,111000,A,3,B,43.01,0
+CTSH,Cognizant Technology Solutions Corp,3128,444000,A,3,B,52.45,0
+CTXS,Citrix Systems Inc,3129,790000,A,3,B,71.24,0
+DISCA,Discovery Communications Inc,3130,872000,A,3,B,28.04,0
+DISCK,Discovery Communications Inc,3131,106000,A,3,B,27.4,0
+DISH,DISH Network Corp,3132,172000,A,3,B,59.14,100
+DLTR,Dollar Tree Inc,3133,819000,A,3,B,76.39,0
+EA,Electronic Arts,3134,761000,A,3,B,83,0
+EBAY,eBay Inc,3135,595000,A,3,B,32.18,0
+ESRX,Express Scripts Holding Co,3136,345000,A,3,B,65.61,50
+EXPE,Expedia Inc,3137,267000,A,3,B,120.77,0
+FAST,Fastenal Co,3138,932000,A,3,B,48.12,50
+FB,Facebook,3139,302000,A,3,B,133.23,0
+FISV,Fiserv Inc,3140,508000,A,3,B,105.38,0
+FOX,21st Century Fox Class B,3141,668000,A,3,B,31.24,0
+FOXA,21st Century Fox Class A,3142,134000,A,3,B,31.62,0
+GILD,Gilead Sciences Inc,3143,497000,A,3,B,72.82,0
+GOOG,Alphabet Class C,3144,938000,A,3,B,795.695,0
+GOOGL,Alphabet Class A,3145,806000,A,3,B,820.24,50
+HSIC,Henry Schein Inc,3146,691000,A,3,B,159.86,0
+ILMN,Illumina Inc,3147,253000,A,3,B,161.58,0
+INCY,Incyte Corp,3148,881000,A,3,B,124.27,0
+INTC,Intel Corp,3149,261000,A,3,B,39.52,50
+INTU,Intuit Inc,3150,281000,A,3,B,113.71,100
+ISRG,Intuitive Surgical Inc,3151,741000,A,3,B,687.02,100
+AAL,American Airlines Group Inc,3201,209000,A,3,S,41.62,50
+AAPL,Apple Inc,3202,136000,A,3,S,123.87,100
+ADBE,Adobe Systems Inc,3203,954000,A,3,S,113.43,0
+ADI,Analog Devices Inc,3204,437000,A,3,S,76.2,0
+ADP,Automatic Data Processing Inc,3205,217000,A,3,S,97.93,50
+ADSK,Autodesk Inc,3206,601000,A,3,S,80.87,50
+AKAM,Akamai Technologies Inc,3207,647000,A,3,S,62.88,100
+ALXN,Alexion Pharmaceuticals Inc,3208,790000,A,3,S,127.52,50
+AMAT,Applied Materials Inc,3209,423000,A,3,S,35.05,0
+AMGN,Amgen Inc,3210,252000,A,3,S,159.83,0
+AMZN,Amazon.com Inc,3211,535000,A,3,S,832.43,0
+ATVI,Activision Blizzard Inc,3212,729000,A,3,S,40.58,0
+AVGO,Broadcom Ltd,3213,564000,A,3,S,203.75,0
+BBBY,Bed Bath & Beyond Inc,3214,316000,A,3,S,39.9,0
+BIDU,Baidu Inc,3215,856000,A,3,S,173.84,0
+BIIB,Biogen Inc,3216,196000,A,3,S,281.77,0
+BMRN,Biomarin Pharmaceutical Inc,3217,474000,A,3,S,81.69,100
+CA,CA Inc,3218,652000,A,3,S,31.1,0
+CELG,Celgene Corp,3219,536000,A,3,S,120.58,50
+CERN,Cerner Corp,3220,926000,A,3,S,54.05,0
+CHKP,Check Point Software Technologies Ltd,3221,178000,A,3,S,98.06,0
+CHTR,Charter Communications Inc,3222,983000,A,3,S,326.9,0
+CMCSA,Comcast Corp,3223,906000,A,3,S,75.81,0
+COST,Costco Wholesale Corp,3224,885000,A,3,S,162.04,0
+CSCO,Cisco Systems Inc,3225,941000,A,3,S,35.68,50
+CSX,CSX Corp,3226,920000,A,3,S,47.23,0
+CTRP,Ctrip.Com International Ltd,3227,682000,A,3,S,43.17,0
+CTSH,Cognizant Technology Solutions Corp,3228,990000,A,3,S,52.55,0
+CTXS,Citrix Systems Inc,3229,957000,A,3,S,71.38,0
+DISCA,Discovery Communications Inc,3230,339000,A,3,S,28.12,0
+DISCK,Discovery Communications Inc,3231,801000,A,3,S,27.5,0
+DISH,DISH Network Corp,3232,380000,A,3,S,61.2,0
+DLTR,Dollar Tree Inc,3233,369000,A,3,S,76.57,0
+EA,Electronic Arts,3234,328000,A,3,S,83.15,0
+EBAY,eBay Inc,3235,193000,A,3,S,34.77,50
+ESRX,Express Scripts Holding Co,3236,193000,A,3,S,69.28,0
+EXPE,Expedia Inc,3237,628000,A,3,S,120.96,0
+FAST,Fastenal Co,3238,759000,A,3,S,49.72,0
+FB,Facebook,3239,448000,A,3,S,133.37,0
+FISV,Fiserv Inc,3240,830000,A,3,S,106.41,100
+FOX,21st Century Fox Class B,3241,430000,A,3,S,31.32,0
+FOXA,21st Century Fox Class A,3242,977000,A,3,S,27.73,100
+GILD,Gilead Sciences Inc,3243,934000,A,3,S,73.01,0
+GOOG,Alphabet Class C,3244,480000,A,3,S,794.4,50
+GOOGL,Alphabet Class A,3245,148000,A,3,S,815.34,0
+HSIC,Henry Schein Inc,3246,332000,A,3,S,159.86,0
+ILMN,Illumina Inc,3247,652000,A,3,S,161.77,0
+INCY,Incyte Corp,3248,481000,A,3,S,124.3,0
+INTC,Intel Corp,3249,770000,A,3,S,36.53,0
+INTU,Intuit Inc,3250,509000,A,3,S,117.89,0
+ISRG,Intuitive Surgical Inc,3251,278000,A,3,S,697.02,0
+AAL,American Airlines Group Inc,2101,633000,M,2,B,40.55,50
+AAPL,Apple Inc,3102,326000,M,3,B,128.75,0
+ADBE,Adobe Systems Inc,3203,605000,M,3,S,113.55,0
+ADI,Analog Devices Inc,3204,122000,M,3,S,76.37,0
+ADP,Automatic Data Processing Inc,2205,471000,M,2,S,95.27,0
+ADSK,Autodesk Inc,3206,113000,M,3,S,81.42,0
+AKAM,Akamai Technologies Inc,3107,202000,M,3,B,71.7,50
+ALXN,Alexion Pharmaceuticals Inc,2108,256000,M,2,B,136.82,50
+AMAT,Applied Materials Inc,1209,371000,M,1,S,28.05,100
+AMGN,Amgen Inc,2210,465000,M,2,S,160.81,100
+AMZN,Amazon.com Inc,2111,426000,M,2,B,832.35,0
+ATVI,Activision Blizzard Inc,3212,661000,M,3,S,31.65,100
+AVGO,Broadcom Ltd,1213,390000,M,1,S,203.85,0
+BBBY,Bed Bath & Beyond Inc,2114,760000,M,2,B,41.79,100
+BIDU,Baidu Inc,2115,829000,M,2,B,173.82,0
+BIIB,Biogen Inc,1216,766000,M,1,S,281.83,0
+BMRN,Biomarin Pharmaceutical Inc,3117,400000,M,3,B,88.59,50
+CA,CA Inc,3118,738000,M,3,B,30.95,0
+CELG,Celgene Corp,2119,868000,M,2,B,117.41,0
+CERN,Cerner Corp,3220,440000,M,3,S,61.92,100
+CHKP,Check Point Software Technologies Ltd,1121,359000,M,1,B,97.91,0
+CHTR,Charter Communications Inc,2122,988000,M,2,B,326.85,0
+CMCSA,Comcast Corp,3123,600000,M,3,B,78.61,50
+COST,Costco Wholesale Corp,1124,784000,M,1,B,165.36,50
+CSCO,Cisco Systems Inc,2225,721000,M,2,S,30.55,0
+CSX,CSX Corp,1226,583000,M,1,S,42.65,50
+CTRP,Ctrip.Com International Ltd,3227,361000,M,3,S,53.12,100
+CTSH,Cognizant Technology Solutions Corp,3128,563000,M,3,B,48.95,50
+CTXS,Citrix Systems Inc,2129,452000,M,2,B,67.74,50
+DISCA,Discovery Communications Inc,3230,170000,M,3,S,28.24,0
+DISCK,Discovery Communications Inc,3131,509000,M,3,B,27.4,0
+DISH,DISH Network Corp,2132,208000,M,2,B,66.14,50
+DLTR,Dollar Tree Inc,2133,481000,M,2,B,76.39,0
+EA,Electronic Arts,1134,960000,M,1,B,83,0
+EBAY,eBay Inc,3135,726000,M,3,B,32.18,0
+ESRX,Express Scripts Holding Co,2236,740000,M,2,S,69.14,0
+EXPE,Expedia Inc,3237,739000,M,3,S,120.77,0
+FAST,Fastenal Co,2138,402000,M,2,B,49.62,0
+FB,Facebook,1239,665000,M,1,S,133.38,0
+FISV,Fiserv Inc,2240,255000,M,2,S,105.48,0
+FOX,21st Century Fox Class B,1241,418000,M,1,S,27.79,50
+FOXA,21st Century Fox Class A,3242,907000,M,3,S,31.64,0
+GILD,Gilead Sciences Inc,2143,495000,M,2,B,72.82,0
+GOOG,Alphabet Class C,3144,874000,M,3,B,795.695,0
+GOOGL,Alphabet Class A,2245,263000,M,2,S,815.36,0
+HSIC,Henry Schein Inc,3246,985000,M,3,S,159.88,0
+ILMN,Illumina Inc,3247,612000,M,3,S,162.77,50
+INCY,Incyte Corp,1248,302000,M,1,S,129.29,50
+INTC,Intel Corp,3149,324000,M,3,B,36.52,0
+INTU,Intuit Inc,2150,768000,M,2,B,121.21,50
+ISRG,Intuitive Surgical Inc,3151,708000,M,3,B,694.02,100
+AAL,American Airlines Group Inc,1101,361000,M,1,B,40.55,0
+AAPL,Apple Inc,2202,613000,M,2,S,128.82,0
+ADBE,Adobe Systems Inc,2103,532000,M,2,B,113.39,0
+ADI,Analog Devices Inc,2104,523000,M,2,B,76.15,0
+ADP,Automatic Data Processing Inc,3105,984000,M,3,B,95.23,0
+ADSK,Autodesk Inc,3206,367000,M,3,S,81.32,0
+AKAM,Akamai Technologies Inc,3107,711000,M,3,B,71.71,0
+ALXN,Alexion Pharmaceuticals Inc,3208,232000,M,3,S,136.85,0
+AMAT,Applied Materials Inc,2109,585000,M,2,B,28.01,0
+AMGN,Amgen Inc,1210,895000,M,1,S,160.75,50
+AMZN,Amazon.com Inc,2211,648000,M,2,S,832.44,0
+ATVI,Activision Blizzard Inc,1212,589000,M,1,S,31.56,50
+AVGO,Broadcom Ltd,3113,925000,M,3,B,203.71,0
+BBBY,Bed Bath & Beyond Inc,3114,885000,M,3,B,41.79,0
+BIDU,Baidu Inc,2215,273000,M,2,S,173.84,0
+BIIB,Biogen Inc,3216,774000,M,3,S,281.92,0
+BMRN,Biomarin Pharmaceutical Inc,1217,561000,M,1,S,88.75,50
+CA,CA Inc,2118,153000,M,2,B,30.9,100
+CELG,Celgene Corp,2119,850000,M,2,B,117.4,50
+CERN,Cerner Corp,1220,362000,M,1,S,61.99,50
+CHKP,Check Point Software Technologies Ltd,3221,949000,M,3,S,97.98,0
+CHTR,Charter Communications Inc,1222,346000,M,1,S,326.89,100
+CMCSA,Comcast Corp,3123,260000,M,3,B,78.66,100
+COST,Costco Wholesale Corp,1224,523000,M,1,S,165.41,0
+CSCO,Cisco Systems Inc,3225,803000,M,3,S,30.75,0
+CSX,CSX Corp,3226,955000,M,3,S,42.63,0
+CTRP,Ctrip.Com International Ltd,1227,988000,M,1,S,53.04,0
+CTSH,Cognizant Technology Solutions Corp,2128,605000,M,2,B,48.96,0
+CTXS,Citrix Systems Inc,3129,457000,M,3,B,67.75,0
+DISCA,Discovery Communications Inc,3230,476000,M,3,S,28.11,0
+DISCK,Discovery Communications Inc,3231,423000,M,3,S,27.54,50
+DISH,DISH Network Corp,2132,524000,M,2,B,66.12,0
+DLTR,Dollar Tree Inc,2233,591000,M,2,S,76.45,0
+EA,Electronic Arts,1134,943000,M,1,B,83.05,0
+EBAY,eBay Inc,1135,785000,M,1,B,32.14,0
+ESRX,Express Scripts Holding Co,3136,229000,M,3,B,69.1,0
+EXPE,Expedia Inc,2237,850000,M,2,S,120.78,0
+FAST,Fastenal Co,2138,960000,M,2,B,49.58,0
+FB,Facebook,1239,385000,M,1,S,133.41,0
+FISV,Fiserv Inc,1140,942000,M,1,B,105.42,0
+FOX,21st Century Fox Class B,3241,599000,M,3,S,27.9,0
+FOXA,21st Century Fox Class A,2142,791000,M,2,B,31.57,0
+GILD,Gilead Sciences Inc,3143,112000,M,3,B,72.84,0
+GOOG,Alphabet Class C,2244,996000,M,2,S,795.78,0
+GOOGL,Alphabet Class A,1245,970000,M,1,S,815.31,0
+HSIC,Henry Schein Inc,1146,823000,M,1,B,159.83,0
+ILMN,Illumina Inc,1247,269000,M,1,S,162.66,0
+INCY,Incyte Corp,3148,995000,M,3,B,129.32,0
+INTC,Intel Corp,2249,884000,M,2,S,36.57,0
+INTU,Intuit Inc,1150,354000,M,1,B,121.21,50
+ISRG,Intuitive Surgical Inc,1251,333000,M,1,S,694.2,0
+AAL,American Airlines Group Inc,2201,815000,M,2,S,44.21,0
+AAPL,Apple Inc,1202,702000,M,1,S,128.91,100
+ADBE,Adobe Systems Inc,1103,940000,M,1,B,113.35,50
+ADI,Analog Devices Inc,1104,368000,M,1,B,76.13,0
+ADP,Automatic Data Processing Inc,1105,585000,M,1,B,95.26,0
+ADSK,Autodesk Inc,1106,151000,M,1,B,81.3,0
+AKAM,Akamai Technologies Inc,2207,907000,M,2,S,68.79,0
+ALXN,Alexion Pharmaceuticals Inc,1108,400000,M,1,B,132.25,0
+AMAT,Applied Materials Inc,1209,851000,M,1,S,35.19,0
+AMGN,Amgen Inc,3210,138000,M,3,S,160.44,0
+AMZN,Amazon.com Inc,2211,276000,M,2,S,832.38,0
+ATVI,Activision Blizzard Inc,2212,871000,M,2,S,35.89,100
+AVGO,Broadcom Ltd,3113,873000,M,3,B,203.67,0
+BBBY,Bed Bath & Beyond Inc,2214,521000,M,2,S,40,0
+BIDU,Baidu Inc,2215,284000,M,2,S,173.89,0
+BIIB,Biogen Inc,1116,598000,M,1,B,281.76,100
+BMRN,Biomarin Pharmaceutical Inc,2117,164000,M,2,B,88.6,0
+CA,CA Inc,2218,875000,M,2,S,37.96,0
+CELG,Celgene Corp,3119,199000,M,3,B,119.4,0
+CERN,Cerner Corp,3120,801000,M,3,B,57.89,0
+CHKP,Check Point Software Technologies Ltd,1121,931000,M,1,B,97.91,0
+CHTR,Charter Communications Inc,2122,103000,M,2,B,316.88,0
+CMCSA,Comcast Corp,3123,524000,M,3,B,81.64,0
+COST,Costco Wholesale Corp,3124,187000,M,3,B,161.83,50
+CSCO,Cisco Systems Inc,2225,989000,M,2,S,30.57,100
+CSX,CSX Corp,2226,733000,M,2,S,47.09,0
+CTRP,Ctrip.Com International Ltd,2227,144000,M,2,S,43.13,0
+CTSH,Cognizant Technology Solutions Corp,2228,175000,M,2,S,52.48,0
+CTXS,Citrix Systems Inc,1229,879000,M,1,S,71.4,0
+DISCA,Discovery Communications Inc,3230,386000,M,3,S,28.17,0
+DISCK,Discovery Communications Inc,1231,552000,M,1,S,26.9,0
+DISH,DISH Network Corp,2132,807000,M,2,B,61.15,50
+DLTR,Dollar Tree Inc,3133,393000,M,3,B,76.4,0
+EA,Electronic Arts,2234,144000,M,2,S,83.17,0
+EBAY,eBay Inc,2135,848000,M,2,B,32.17,100
+ESRX,Express Scripts Holding Co,1136,177000,M,1,B,69.1,0
+EXPE,Expedia Inc,1237,763000,M,1,S,120.74,0
+FAST,Fastenal Co,2238,367000,M,2,S,49.6,0
+FB,Facebook,1239,762000,M,1,S,133.33,0
+FISV,Fiserv Inc,2240,521000,M,2,S,105.51,100
+FOX,21st Century Fox Class B,2141,963000,M,2,B,31.27,0
+FOXA,21st Century Fox Class A,3142,467000,M,3,B,31.6,50
+GILD,Gilead Sciences Inc,3143,406000,M,3,B,72.89,0
+GOOG,Alphabet Class C,2244,615000,M,2,S,795.77,0
+GOOGL,Alphabet Class A,1245,258000,M,1,S,815.35,0
+HSIC,Henry Schein Inc,1146,646000,M,1,B,159.86,0
+ILMN,Illumina Inc,3147,807000,M,3,B,161.58,0
+INCY,Incyte Corp,2148,204000,M,2,B,124.32,100
+INTC,Intel Corp,1249,760000,M,1,S,36.52,100
+INTU,Intuit Inc,1150,120000,M,1,B,121.19,100
+ISRG,Intuitive Surgical Inc,3251,567000,M,3,S,697.08,50
+AAL,American Airlines Group Inc,3101,441000,M,3,B,44.01,0
+AAPL,Apple Inc,2202,503000,M,2,S,120.9,0
+ADBE,Adobe Systems Inc,1103,682000,M,1,B,109.89,0
+ADI,Analog Devices Inc,3104,815000,M,3,B,76.12,0
+ADP,Automatic Data Processing Inc,3105,220000,M,3,B,95.24,0
+ADSK,Autodesk Inc,2106,480000,M,2,B,81.33,0
+AKAM,Akamai Technologies Inc,1207,763000,M,1,S,68.76,50
+ALXN,Alexion Pharmaceuticals Inc,1208,256000,M,1,S,132.31,0
+AMAT,Applied Materials Inc,3109,544000,M,3,B,35.04,0
+AMGN,Amgen Inc,2210,223000,M,2,S,159.93,0
+AMZN,Amazon.com Inc,3111,571000,M,3,B,832.34,0
+ATVI,Activision Blizzard Inc,2212,216000,M,2,S,31.5,0
+AVGO,Broadcom Ltd,3213,701000,M,3,S,203.69,0
+BBBY,Bed Bath & Beyond Inc,1214,936000,M,1,S,39.98,100
+BIDU,Baidu Inc,1115,291000,M,1,B,173.82,0
+BIIB,Biogen Inc,2116,882000,M,2,B,288.79,0
+BMRN,Biomarin Pharmaceutical Inc,2217,318000,M,2,S,88.73,50
+CA,CA Inc,2218,389000,M,2,S,30.87,0
+CELG,Celgene Corp,3219,740000,M,3,S,117.43,0
+CERN,Cerner Corp,3120,511000,M,3,B,53.89,50
+CHKP,Check Point Software Technologies Ltd,1121,179000,M,1,B,97.91,0
+CHTR,Charter Communications Inc,1122,208000,M,1,B,326.85,0
+CMCSA,Comcast Corp,1123,202000,M,1,B,75.62,0
+COST,Costco Wholesale Corp,3224,416000,M,3,S,165.52,0
+CSCO,Cisco Systems Inc,1125,622000,M,1,B,37.54,50
+CSX,CSX Corp,2126,955000,M,2,B,46.98,0
+CTRP,Ctrip.Com International Ltd,1127,166000,M,1,B,42.97,0
+CTSH,Cognizant Technology Solutions Corp,3128,903000,M,3,B,52.37,100
+CTXS,Citrix Systems Inc,1129,998000,M,1,B,71.25,100
+DISCA,Discovery Communications Inc,3230,201000,M,3,S,28.1,0
+DISCK,Discovery Communications Inc,2131,440000,M,2,B,27.4,0
+DISH,DISH Network Corp,2132,613000,M,2,B,66.13,0
+DLTR,Dollar Tree Inc,3133,797000,M,3,B,76.45,0
+EA,Electronic Arts,3134,963000,M,3,B,83.05,0
+EBAY,eBay Inc,2235,796000,M,2,S,24.25,0
+ESRX,Express Scripts Holding Co,1136,854000,M,1,B,69.09,0
+EXPE,Expedia Inc,2237,503000,M,2,S,120.85,0
+FAST,Fastenal Co,1238,632000,M,1,S,49.73,0
+FB,Facebook,3239,566000,M,3,S,133.35,50
+FISV,Fiserv Inc,3140,467000,M,3,B,99.45,0
+FOX,21st Century Fox Class B,3241,300000,M,3,S,31.42,0
+FOXA,21st Century Fox Class A,3242,149000,M,3,S,27.66,0
+GILD,Gilead Sciences Inc,2143,819000,M,2,B,72.87,0
+GOOG,Alphabet Class C,1244,520000,M,1,S,795.83,100
+GOOGL,Alphabet Class A,1245,625000,M,1,S,815.44,0
+HSIC,Henry Schein Inc,2146,704000,M,2,B,159.81,0
+ILMN,Illumina Inc,3247,411000,M,3,S,161.67,50
+INCY,Incyte Corp,2248,290000,M,2,S,134.51,50
+INTC,Intel Corp,2149,980000,M,2,B,31.51,0
+INTU,Intuit Inc,3250,685000,M,3,S,124.85,0
+ISRG,Intuitive Surgical Inc,2251,486000,M,2,S,695.61,0
+AAL,American Airlines Group Inc,2201,660000,M,2,S,44.04,0
+AAPL,Apple Inc,1102,512000,M,1,B,128.79,0
+ADBE,Adobe Systems Inc,3103,872000,M,3,B,113.36,50
+ADI,Analog Devices Inc,1204,586000,M,1,S,76.25,0
+ADP,Automatic Data Processing Inc,3205,233000,M,3,S,95.36,0
+ADSK,Autodesk Inc,3206,581000,M,3,S,81.46,0
+AKAM,Akamai Technologies Inc,3207,519000,M,3,S,71.9,0
+ALXN,Alexion Pharmaceuticals Inc,2108,954000,M,2,B,132.28,0
+AMAT,Applied Materials Inc,3209,424000,M,3,S,35.03,0
+AMGN,Amgen Inc,2110,966000,M,2,B,159.72,50
+AMZN,Amazon.com Inc,2211,547000,M,2,S,832.55,100
+ATVI,Activision Blizzard Inc,3112,307000,M,3,B,40.31,0
+AVGO,Broadcom Ltd,3213,952000,M,3,S,203.75,0
+BBBY,Bed Bath & Beyond Inc,2214,697000,M,2,S,41.99,0
+BIDU,Baidu Inc,3115,839000,M,3,B,173.84,0
+BIIB,Biogen Inc,1116,873000,M,1,B,281.75,0
+BMRN,Biomarin Pharmaceutical Inc,2217,845000,M,2,S,88.59,0
+CA,CA Inc,3218,240000,M,3,S,31.09,0
+CELG,Celgene Corp,1219,313000,M,1,S,117.47,100
+CERN,Cerner Corp,2120,519000,M,2,B,57.88,0
+CHKP,Check Point Software Technologies Ltd,1121,308000,M,1,B,97.93,0
+CHTR,Charter Communications Inc,3222,324000,M,3,S,327.03,0
+CMCSA,Comcast Corp,2123,824000,M,2,B,75.66,0
+COST,Costco Wholesale Corp,1124,840000,M,1,B,161.85,100
+CSCO,Cisco Systems Inc,2225,652000,M,2,S,34.11,0
+CSX,CSX Corp,2126,968000,M,2,B,47.01,100
+CTRP,Ctrip.Com International Ltd,3127,827000,M,3,B,42.93,0
+CTSH,Cognizant Technology Solutions Corp,2128,980000,M,2,B,45.38,0
+CTXS,Citrix Systems Inc,1129,139000,M,1,B,64.29,0
+DISCA,Discovery Communications Inc,1130,225000,M,1,B,27.96,0
+DISCK,Discovery Communications Inc,3131,778000,M,3,B,27.37,0
+DISH,DISH Network Corp,2132,902000,M,2,B,61.1,0
+DLTR,Dollar Tree Inc,3233,284000,M,3,S,76.54,0
+EA,Electronic Arts,1134,129000,M,1,B,83.09,0
+EBAY,eBay Inc,3235,668000,M,3,S,32.15,0
+ESRX,Express Scripts Holding Co,3236,448000,M,3,S,69.25,0
+EXPE,Expedia Inc,2137,578000,M,2,B,120.77,100
+FAST,Fastenal Co,2238,602000,M,2,S,49.75,50
+FB,Facebook,3239,465000,M,3,S,133.45,50
+FISV,Fiserv Inc,2240,147000,M,2,S,105.54,0
+FOX,21st Century Fox Class B,2141,774000,M,2,B,31.24,0
+FOXA,21st Century Fox Class A,1242,745000,M,1,S,31.63,0
+GILD,Gilead Sciences Inc,2243,957000,M,2,S,72.9,0
+GOOG,Alphabet Class C,1144,815000,M,1,B,789.7,0
+GOOGL,Alphabet Class A,2145,268000,M,2,B,815.27,0
+HSIC,Henry Schein Inc,1246,480000,M,1,S,159.97,0
+ILMN,Illumina Inc,1147,610000,M,1,B,162.62,0
+INCY,Incyte Corp,2248,864000,M,2,S,129.51,0
+INTC,Intel Corp,3149,897000,M,3,B,36.48,0
+INTU,Intuit Inc,2150,597000,M,2,B,117.7,50
+ISRG,Intuitive Surgical Inc,1251,875000,M,1,S,697.22,0
+AAL,American Airlines Group Inc,1101,832000,M,1,B,43.99,50
+AAPL,Apple Inc,1202,907000,M,1,S,128.84,50
+ADBE,Adobe Systems Inc,2103,344000,M,2,B,109.9,0
+ADI,Analog Devices Inc,3204,940000,M,3,S,76.31,0
+ADP,Automatic Data Processing Inc,1105,379000,M,1,B,95.19,0
+ADSK,Autodesk Inc,3206,194000,M,3,S,81.39,0
+AKAM,Akamai Technologies Inc,3107,203000,M,3,B,68.74,0
+ALXN,Alexion Pharmaceuticals Inc,1108,591000,M,1,B,132.24,0
+AMAT,Applied Materials Inc,2209,913000,M,2,S,35.17,0
+AMGN,Amgen Inc,2110,860000,M,2,B,160.23,0
+AMZN,Amazon.com Inc,3111,206000,M,3,B,826.39,0
+ATVI,Activision Blizzard Inc,3112,596000,M,3,B,40.27,0
+AVGO,Broadcom Ltd,2213,716000,M,2,S,203.8,50
+BBBY,Bed Bath & Beyond Inc,3214,950000,M,3,S,39.86,0
+BIDU,Baidu Inc,1215,213000,M,1,S,173.9,0
+BIIB,Biogen Inc,1216,712000,M,1,S,282,50
+BMRN,Biomarin Pharmaceutical Inc,1117,788000,M,1,B,88.57,0
+CA,CA Inc,2218,944000,M,2,S,30.93,50
+CELG,Celgene Corp,1119,597000,M,1,B,121.31,0
+CERN,Cerner Corp,3220,125000,M,3,S,54.02,0
+CHKP,Check Point Software Technologies Ltd,1221,428000,M,1,S,97.98,0
+CHTR,Charter Communications Inc,2122,737000,M,2,B,326.82,50
+CMCSA,Comcast Corp,2123,788000,M,2,B,75.62,100
+COST,Costco Wholesale Corp,2224,696000,M,2,S,168.92,0
+CSCO,Cisco Systems Inc,1125,317000,M,1,B,30.48,0
+CSX,CSX Corp,2226,445000,M,2,S,38.03,0
+CTRP,Ctrip.Com International Ltd,3127,859000,M,3,B,42.96,0
+CTSH,Cognizant Technology Solutions Corp,2128,431000,M,2,B,52.35,0
+CTXS,Citrix Systems Inc,2129,363000,M,2,B,71.32,100
+DISCA,Discovery Communications Inc,1130,672000,M,1,B,27.93,0
+DISCK,Discovery Communications Inc,1231,454000,M,1,S,27.57,0
+DISH,DISH Network Corp,1132,985000,M,1,B,61.09,0
+DLTR,Dollar Tree Inc,2133,615000,M,2,B,76.53,50
+EA,Electronic Arts,3134,687000,M,3,B,83.09,0
+EBAY,eBay Inc,2235,990000,M,2,S,32.29,50
+ESRX,Express Scripts Holding Co,3236,897000,M,3,S,69.22,100
+EXPE,Expedia Inc,3137,928000,M,3,B,114.8,0
+FAST,Fastenal Co,3138,491000,M,3,B,52.59,0
+FB,Facebook,2239,495000,M,2,S,133.5,0
+FISV,Fiserv Inc,3240,748000,M,3,S,105.43,100
+FOX,21st Century Fox Class B,3241,515000,M,3,S,31.47,0
+FOXA,21st Century Fox Class A,2142,325000,M,2,B,31.66,0
+GILD,Gilead Sciences Inc,1143,144000,M,1,B,72.92,0
+GOOG,Alphabet Class C,2244,225000,M,2,S,795.9,0
+GOOGL,Alphabet Class A,3145,389000,M,3,B,815.25,100
+HSIC,Henry Schein Inc,2246,221000,M,2,S,159.94,0
+ILMN,Illumina Inc,2147,683000,M,2,B,161.6,0
+INCY,Incyte Corp,1148,514000,M,1,B,124.42,0
+INTC,Intel Corp,2249,319000,M,2,S,36.52,100
+INTU,Intuit Inc,1150,821000,M,1,B,121.16,0
+ISRG,Intuitive Surgical Inc,2151,385000,M,2,B,697.08,0
+AAL,American Airlines Group Inc,1201,297000,M,1,S,40.51,100
+AAPL,Apple Inc,1102,602000,M,1,B,124.8,100
+ADBE,Adobe Systems Inc,2103,632000,M,2,B,113.43,100
+ADI,Analog Devices Inc,1104,771000,M,1,B,76.15,0
+ADP,Automatic Data Processing Inc,1205,271000,M,1,S,95.33,0
+ADSK,Autodesk Inc,2206,985000,M,2,S,81.41,0
+AKAM,Akamai Technologies Inc,1207,734000,M,1,S,68.89,0
+ALXN,Alexion Pharmaceuticals Inc,3108,992000,M,3,B,132.25,0
+AMAT,Applied Materials Inc,1109,353000,M,1,B,35.05,0
+AMGN,Amgen Inc,1210,988000,M,1,S,159.94,0
+AMZN,Amazon.com Inc,3111,303000,M,3,B,832.35,50
+ATVI,Activision Blizzard Inc,3112,197000,M,3,B,40.31,0
+AVGO,Broadcom Ltd,3113,582000,M,3,B,208.7,0
+BBBY,Bed Bath & Beyond Inc,2114,505000,M,2,B,39.75,50
+BIDU,Baidu Inc,3115,574000,M,3,B,173.87,100
+BIIB,Biogen Inc,2116,880000,M,2,B,285.3,0
+BMRN,Biomarin Pharmaceutical Inc,2117,342000,M,2,B,88.56,50
+CA,CA Inc,2118,462000,M,2,B,34.46,0
+CELG,Celgene Corp,3219,749000,M,3,S,117.44,0
+CERN,Cerner Corp,2220,418000,M,2,S,54,0
+CHKP,Check Point Software Technologies Ltd,2121,299000,M,2,B,97.95,100
+CHTR,Charter Communications Inc,3222,932000,M,3,S,321.98,0
+CMCSA,Comcast Corp,2123,113000,M,2,B,81.62,100
+COST,Costco Wholesale Corp,1224,911000,M,1,S,161.88,0
+CSCO,Cisco Systems Inc,3125,586000,M,3,B,30.52,0
+CSX,CSX Corp,2126,946000,M,2,B,47.05,0
+CTRP,Ctrip.Com International Ltd,3127,991000,M,3,B,42.95,0
+CTSH,Cognizant Technology Solutions Corp,3128,467000,M,3,B,52.34,100
+CTXS,Citrix Systems Inc,2229,465000,M,2,S,64.43,100
+DISCA,Discovery Communications Inc,3230,244000,M,3,S,27.99,100
+DISCK,Discovery Communications Inc,1231,816000,M,1,S,27.5,0
+DISH,DISH Network Corp,2232,760000,M,2,S,61.18,0
+DLTR,Dollar Tree Inc,2133,738000,M,2,B,72,0
+EA,Electronic Arts,1234,593000,M,1,S,83.27,100
+EBAY,eBay Inc,3135,191000,M,3,B,28.1,0
+ESRX,Express Scripts Holding Co,2236,282000,M,2,S,71.13,0
+EXPE,Expedia Inc,3237,728000,M,3,S,120.85,0
+FAST,Fastenal Co,2238,319000,M,2,S,49.76,0
+FB,Facebook,2239,224000,M,2,S,133.47,0
+FISV,Fiserv Inc,3140,896000,M,3,B,99.4,100
+FOX,21st Century Fox Class B,2141,574000,M,2,B,31.29,100
+FOXA,21st Century Fox Class A,1142,667000,M,1,B,31.62,0
+GILD,Gilead Sciences Inc,1243,506000,M,1,S,73.02,0
+GOOG,Alphabet Class C,1244,978000,M,1,S,795.83,0
+GOOGL,Alphabet Class A,3245,892000,M,3,S,816.24,0
+HSIC,Henry Schein Inc,2246,858000,M,2,S,160.02,0
+ILMN,Illumina Inc,3247,703000,M,3,S,161.72,0
+INCY,Incyte Corp,1148,108000,M,1,B,124.43,0
+INTC,Intel Corp,1249,805000,M,1,S,31.51,50
+INTU,Intuit Inc,3150,129000,M,3,B,117.67,100
+ISRG,Intuitive Surgical Inc,3251,519000,M,3,S,697.15,0
+AAL,American Airlines Group Inc,3201,439000,M,3,S,37.08,0
+AAPL,Apple Inc,1202,198000,M,1,S,120.85,50
+ADBE,Adobe Systems Inc,3103,533000,M,3,B,106.45,0
+ADI,Analog Devices Inc,2104,146000,M,2,B,76.18,0
+ADP,Automatic Data Processing Inc,3205,604000,M,3,S,95.33,0
+ADSK,Autodesk Inc,3206,245000,M,3,S,81.4,100
+AKAM,Akamai Technologies Inc,1107,611000,M,1,B,68.72,0
+ALXN,Alexion Pharmaceuticals Inc,1108,967000,M,1,B,132.25,0
+AMAT,Applied Materials Inc,1209,367000,M,1,S,35.17,0
+AMGN,Amgen Inc,2110,338000,M,2,B,159.83,50
+AMZN,Amazon.com Inc,1211,422000,M,1,S,829.51,0
+ATVI,Activision Blizzard Inc,1212,739000,M,1,S,40.37,0
+AVGO,Broadcom Ltd,1113,422000,M,1,B,203.7,50
+BBBY,Bed Bath & Beyond Inc,2214,204000,M,2,S,40.95,0
+BIDU,Baidu Inc,3115,559000,M,3,B,171.89,0
+BIIB,Biogen Inc,2116,841000,M,2,B,281.79,100
+BMRN,Biomarin Pharmaceutical Inc,2117,826000,M,2,B,88.56,0
+CA,CA Inc,1118,630000,M,1,B,31,0
+CELG,Celgene Corp,3119,249000,M,3,B,117.21,50
+CERN,Cerner Corp,3220,596000,M,3,S,54.05,50
+CHKP,Check Point Software Technologies Ltd,3121,813000,M,3,B,100.94,0
+CHTR,Charter Communications Inc,2222,828000,M,2,S,327.03,0
+CMCSA,Comcast Corp,1123,158000,M,1,B,81.61,0
+COST,Costco Wholesale Corp,3124,246000,M,3,B,161.83,0
+CSCO,Cisco Systems Inc,1125,347000,M,1,B,30.55,100
+CSX,CSX Corp,3226,305000,M,3,S,47.1,50
+CTRP,Ctrip.Com International Ltd,3127,939000,M,3,B,42.95,100
+CTSH,Cognizant Technology Solutions Corp,3228,392000,M,3,S,45.47,0
+CTXS,Citrix Systems Inc,2129,331000,M,2,B,64.37,0
+DISCA,Discovery Communications Inc,1230,952000,M,1,S,36.97,0
+DISCK,Discovery Communications Inc,2131,357000,M,2,B,27.41,0
+DISH,DISH Network Corp,3232,380000,M,3,S,61.29,0
+DLTR,Dollar Tree Inc,1133,153000,M,1,B,76.52,0
+EA,Electronic Arts,1134,325000,M,1,B,86.09,0
+EBAY,eBay Inc,1235,542000,M,1,S,32.16,50
+ESRX,Express Scripts Holding Co,2136,709000,M,2,B,68.97,0
+EXPE,Expedia Inc,1137,337000,M,1,B,120.81,0
+FAST,Fastenal Co,3138,558000,M,3,B,49.65,0
+FB,Facebook,3239,650000,M,3,S,133.36,0
+FISV,Fiserv Inc,3240,133000,M,3,S,99.58,0
+FOX,21st Century Fox Class B,2141,903000,M,2,B,24.34,50
+FOXA,21st Century Fox Class A,2142,465000,M,2,B,31.62,0
+GILD,Gilead Sciences Inc,1143,301000,M,1,B,72.95,0
+GOOG,Alphabet Class C,3144,865000,M,3,B,795.69,0
+GOOGL,Alphabet Class A,1245,518000,M,1,S,815.39,0
+HSIC,Henry Schein Inc,2146,208000,M,2,B,159.92,0
+ILMN,Illumina Inc,1147,389000,M,1,B,161.65,0
+INCY,Incyte Corp,1248,755000,M,1,S,124.45,0
+INTC,Intel Corp,2149,239000,M,2,B,34.03,0
+INTU,Intuit Inc,1150,404000,M,1,B,124.65,0
+ISRG,Intuitive Surgical Inc,2151,120000,M,2,B,697.06,0
+AAL,American Airlines Group Inc,1101,997000,M,1,B,43.91,0
+AAPL,Apple Inc,2202,368000,M,2,S,124.85,100
+ADBE,Adobe Systems Inc,3103,821000,M,3,B,113.46,0
+ADI,Analog Devices Inc,3104,395000,M,3,B,76.22,0
+ADP,Automatic Data Processing Inc,3205,144000,M,3,S,95.35,0
+ADSK,Autodesk Inc,3106,237000,M,3,B,81.25,100
+AKAM,Akamai Technologies Inc,2107,966000,M,2,B,68.68,0
+ALXN,Alexion Pharmaceuticals Inc,3108,630000,M,3,B,132.21,0
+AMAT,Applied Materials Inc,3109,103000,M,3,B,35.05,0
+AMGN,Amgen Inc,1210,861000,M,1,S,160.37,0
+AMZN,Amazon.com Inc,3211,115000,M,3,S,832.37,0
+ATVI,Activision Blizzard Inc,2212,125000,M,2,S,40.45,0
+AVGO,Broadcom Ltd,1213,386000,M,1,S,208.74,0
+BBBY,Bed Bath & Beyond Inc,1114,667000,M,1,B,39.76,0
+BIDU,Baidu Inc,2215,807000,M,2,S,173.88,0
+BIIB,Biogen Inc,3216,549000,M,3,S,288.86,0
+BMRN,Biomarin Pharmaceutical Inc,2117,429000,M,2,B,88.55,0
+CA,CA Inc,2118,186000,M,2,B,31.03,0
+CELG,Celgene Corp,3219,382000,M,3,S,119.46,0
+CERN,Cerner Corp,3220,490000,M,3,S,58.01,50
+CHKP,Check Point Software Technologies Ltd,1221,296000,M,1,S,98.04,0
+CHTR,Charter Communications Inc,2222,333000,M,2,S,326.92,0
+CMCSA,Comcast Corp,1123,555000,M,1,B,75.61,0
+COST,Costco Wholesale Corp,2224,371000,M,2,S,161.85,100
+CSCO,Cisco Systems Inc,2125,427000,M,2,B,37.59,100
+CSX,CSX Corp,2126,623000,M,2,B,42.65,0
+CTRP,Ctrip.Com International Ltd,1227,562000,M,1,S,52.96,0
+CTSH,Cognizant Technology Solutions Corp,3228,905000,M,3,S,52.35,0
+CTXS,Citrix Systems Inc,3129,299000,M,3,B,71.38,0
+DISCA,Discovery Communications Inc,2230,380000,M,2,S,28.13,0
+DISCK,Discovery Communications Inc,2131,981000,M,2,B,27.46,0
+DISH,DISH Network Corp,2232,447000,M,2,S,61.22,50
+DLTR,Dollar Tree Inc,1233,476000,M,1,S,76.58,0
+EA,Electronic Arts,2234,818000,M,2,S,83.18,50
+EBAY,eBay Inc,2235,904000,M,2,S,28.16,0
+ESRX,Express Scripts Holding Co,3236,620000,M,3,S,69.13,50
+EXPE,Expedia Inc,3137,925000,M,3,B,120.86,0
+FAST,Fastenal Co,1138,300000,M,1,B,49.65,0
+FB,Facebook,3139,123000,M,3,B,133.29,0
+FISV,Fiserv Inc,3240,507000,M,3,S,105.58,0
+FOX,21st Century Fox Class B,3141,742000,M,3,B,27.87,0
+FOXA,21st Century Fox Class A,2142,352000,M,2,B,31.62,0
+GILD,Gilead Sciences Inc,3143,217000,M,3,B,72.93,50
+GOOG,Alphabet Class C,2244,133000,M,2,S,795.72,0
+GOOGL,Alphabet Class A,3245,749000,M,3,S,815.37,0
+HSIC,Henry Schein Inc,3146,578000,M,3,B,159.88,0
+ILMN,Illumina Inc,1247,688000,M,1,S,161.81,0
+INCY,Incyte Corp,1148,818000,M,1,B,124.44,100
+INTC,Intel Corp,3149,870000,M,3,B,36.55,0
+INTU,Intuit Inc,2250,574000,M,2,S,117.89,0
+ISRG,Intuitive Surgical Inc,2151,559000,M,2,B,697.07,0
+AAL,American Airlines Group Inc,2101,202000,M,2,B,43.89,0
+AAPL,Apple Inc,2102,283000,M,2,B,120.85,0
+ADBE,Adobe Systems Inc,3203,401000,M,3,S,113.49,0
+ADI,Analog Devices Inc,2104,642000,M,2,B,76.21,0
+ADP,Automatic Data Processing Inc,3205,434000,M,3,S,95.51,50
+ADSK,Autodesk Inc,1106,280000,M,1,B,81.22,0
+AKAM,Akamai Technologies Inc,3207,200000,M,3,S,68.7,0
+ALXN,Alexion Pharmaceuticals Inc,2208,463000,M,2,S,132.21,0
+AMAT,Applied Materials Inc,3209,200000,M,3,S,35.13,0
+AMGN,Amgen Inc,2210,359000,M,2,S,160.03,50
+AMZN,Amazon.com Inc,2111,301000,M,2,B,832.37,0
+ATVI,Activision Blizzard Inc,1212,192000,M,1,S,40.46,0
+AVGO,Broadcom Ltd,2213,483000,M,2,S,203.69,0
+BBBY,Bed Bath & Beyond Inc,2214,633000,M,2,S,39.85,50
+BIDU,Baidu Inc,2215,270000,M,2,S,173.92,50
+BIIB,Biogen Inc,1216,713000,M,1,S,281.97,100
+BMRN,Biomarin Pharmaceutical Inc,2117,220000,M,2,B,88.52,0
+CA,CA Inc,3118,438000,M,3,B,31.08,100
+CELG,Celgene Corp,3119,953000,M,3,B,117.24,0
+CERN,Cerner Corp,3220,861000,M,3,S,58.09,0
+CHKP,Check Point Software Technologies Ltd,2121,906000,M,2,B,97.95,100
+CHTR,Charter Communications Inc,2222,513000,M,2,S,327.1,50
+CMCSA,Comcast Corp,1123,694000,M,1,B,75.58,0
+COST,Costco Wholesale Corp,1124,755000,M,1,B,168.82,0
+CSCO,Cisco Systems Inc,2225,531000,M,2,S,37.76,50
+CSX,CSX Corp,1126,407000,M,1,B,47.2,100
+CTRP,Ctrip.Com International Ltd,2227,414000,M,2,S,42.96,0
+CTSH,Cognizant Technology Solutions Corp,3128,234000,M,3,B,52.36,0
+CTXS,Citrix Systems Inc,2229,258000,M,2,S,71.41,0
+DISCA,Discovery Communications Inc,1230,643000,M,1,S,28.13,50
+DISCK,Discovery Communications Inc,3131,709000,M,3,B,27.43,0
+DISH,DISH Network Corp,3132,240000,M,3,B,66.14,0
+DLTR,Dollar Tree Inc,3133,748000,M,3,B,76.52,0
+EA,Electronic Arts,1134,197000,M,1,B,84.6,100
+EBAY,eBay Inc,2135,919000,M,2,B,32.06,0
+ESRX,Express Scripts Holding Co,1236,806000,M,1,S,70.06,0
+EXPE,Expedia Inc,1137,675000,M,1,B,120.88,0
+FAST,Fastenal Co,3138,102000,M,3,B,49.62,0
+FB,Facebook,3139,507000,M,3,B,133.29,100
+FISV,Fiserv Inc,3140,951000,M,3,B,105.44,100
+FOX,21st Century Fox Class B,3141,719000,M,3,B,31.36,100
+FOXA,21st Century Fox Class A,1242,218000,M,1,S,31.66,0
+GILD,Gilead Sciences Inc,2143,330000,M,2,B,75.88,0
+GOOG,Alphabet Class C,2244,948000,M,2,S,795.78,0
+GOOGL,Alphabet Class A,2145,434000,M,2,B,815.2,0
+HSIC,Henry Schein Inc,3146,671000,M,3,B,159.88,100
+ILMN,Illumina Inc,2147,908000,M,2,B,161.59,100
+INCY,Incyte Corp,2148,958000,M,2,B,134.43,0
+INTC,Intel Corp,3249,946000,M,3,S,36.65,0
+INTU,Intuit Inc,2250,141000,M,2,S,117.8,0
+ISRG,Intuitive Surgical Inc,1151,716000,M,1,B,697.04,0
+AAL,American Airlines Group Inc,2201,751000,M,2,S,44.01,0
+AAPL,Apple Inc,2102,130000,M,2,B,128.87,0
+ADBE,Adobe Systems Inc,3103,959000,M,3,B,113.52,0
+ADI,Analog Devices Inc,3104,666000,M,3,B,76.21,0
+ADP,Automatic Data Processing Inc,3205,888000,M,3,S,99.91,0
+ADSK,Autodesk Inc,3106,388000,M,3,B,81.18,100
+AKAM,Akamai Technologies Inc,2207,588000,M,2,S,68.86,0
+ALXN,Alexion Pharmaceuticals Inc,1108,428000,M,1,B,132.19,0
+AMAT,Applied Materials Inc,1209,413000,M,1,S,35.08,0
+AMGN,Amgen Inc,1210,224000,M,1,S,160.45,50
+AMZN,Amazon.com Inc,1111,194000,M,1,B,832.35,0
+ATVI,Activision Blizzard Inc,3112,565000,M,3,B,40.35,0
+AVGO,Broadcom Ltd,3213,252000,M,3,S,203.85,0
+BBBY,Bed Bath & Beyond Inc,3114,603000,M,3,B,40.73,0
+BIDU,Baidu Inc,3115,454000,M,3,B,172.88,50
+BIIB,Biogen Inc,2116,232000,M,2,B,288.82,0
+BMRN,Biomarin Pharmaceutical Inc,3117,370000,M,3,B,88.54,0
+CA,CA Inc,2118,645000,M,2,B,38.11,100
+CELG,Celgene Corp,3119,827000,M,3,B,117.21,0
+CERN,Cerner Corp,3120,879000,M,3,B,54.02,0
+CHKP,Check Point Software Technologies Ltd,1221,717000,M,1,S,101,50
+CHTR,Charter Communications Inc,2122,299000,M,2,B,321.89,0
+CMCSA,Comcast Corp,3223,525000,M,3,S,75.72,50
+COST,Costco Wholesale Corp,2124,207000,M,2,B,161.85,0
+CSCO,Cisco Systems Inc,1125,360000,M,1,B,34.09,0
+CSX,CSX Corp,1126,205000,M,1,B,38.22,0
+CTRP,Ctrip.Com International Ltd,3127,625000,M,3,B,42.91,0
+CTSH,Cognizant Technology Solutions Corp,1228,562000,M,1,S,52.5,0
+CTXS,Citrix Systems Inc,2129,645000,M,2,B,71.4,0
+DISCA,Discovery Communications Inc,1230,307000,M,1,S,32.6,0
+DISCK,Discovery Communications Inc,2131,749000,M,2,B,27.44,0
+DISH,DISH Network Corp,1232,805000,M,1,S,61.21,0
+DLTR,Dollar Tree Inc,3133,151000,M,3,B,76.48,0
+EA,Electronic Arts,1134,970000,M,1,B,86.07,0
+EBAY,eBay Inc,1235,372000,M,1,S,32.1,0
+ESRX,Express Scripts Holding Co,2136,748000,M,2,B,69.01,100
+EXPE,Expedia Inc,1137,442000,M,1,B,120.86,50
+FAST,Fastenal Co,3138,954000,M,3,B,49.58,0
+FB,Facebook,2139,886000,M,2,B,133.24,0
+FISV,Fiserv Inc,2140,498000,M,2,B,99.45,0
+FOX,21st Century Fox Class B,2141,868000,M,2,B,24.36,0
+FOXA,21st Century Fox Class A,2242,339000,M,2,S,31.76,50
+GILD,Gilead Sciences Inc,3143,664000,M,3,B,72.89,0
+GOOG,Alphabet Class C,2244,654000,M,2,S,795.74,0
+GOOGL,Alphabet Class A,2245,459000,M,2,S,815.29,0
+HSIC,Henry Schein Inc,1246,820000,M,1,S,160.86,0
+ILMN,Illumina Inc,1247,662000,M,1,S,163.73,0
+INCY,Incyte Corp,1148,269000,M,1,B,124.43,0
+INTC,Intel Corp,3149,597000,M,3,B,36.55,0
+INTU,Intuit Inc,3150,127000,M,3,B,117.7,0
+ISRG,Intuitive Surgical Inc,3251,800000,M,3,S,697.13,100
+AAL,American Airlines Group Inc,2201,683000,M,2,S,44,0
+AAPL,Apple Inc,2102,684000,M,2,B,128.86,0
+ADBE,Adobe Systems Inc,1203,362000,M,1,S,113.76,0
+ADI,Analog Devices Inc,3204,849000,M,3,S,76.4,0
+ADP,Automatic Data Processing Inc,3105,482000,M,3,B,95.43,50
+ADSK,Autodesk Inc,3206,969000,M,3,S,81.4,0
+AKAM,Akamai Technologies Inc,2207,810000,M,2,S,68.79,50
+ALXN,Alexion Pharmaceuticals Inc,1108,371000,M,1,B,132.23,100
+AMAT,Applied Materials Inc,2209,442000,M,2,S,35.25,0
+AMGN,Amgen Inc,1210,747000,M,1,S,160.45,0
+AMZN,Amazon.com Inc,3111,950000,M,3,B,832.32,0
+ATVI,Activision Blizzard Inc,1212,220000,M,1,S,40.52,0
+AVGO,Broadcom Ltd,1113,832000,M,1,B,203.68,50
+BBBY,Bed Bath & Beyond Inc,3114,629000,M,3,B,39.7,0
+BIDU,Baidu Inc,1115,354000,M,1,B,172.88,0
+BIIB,Biogen Inc,1216,946000,M,1,S,281.87,100
+BMRN,Biomarin Pharmaceutical Inc,1117,643000,M,1,B,88.59,100
+CA,CA Inc,3218,344000,M,3,S,38.28,0
+CELG,Celgene Corp,2219,699000,M,2,S,117.29,0
+CERN,Cerner Corp,2220,577000,M,2,S,54.13,100
+CHKP,Check Point Software Technologies Ltd,3221,294000,M,3,S,99.66,0
+CHTR,Charter Communications Inc,1122,797000,M,1,B,326.89,0
+CMCSA,Comcast Corp,3223,231000,M,3,S,78.59,100
+COST,Costco Wholesale Corp,2124,646000,M,2,B,161.87,0
+CSCO,Cisco Systems Inc,3125,913000,M,3,B,30.63,0
+CSX,CSX Corp,2226,697000,M,2,S,47.43,0
+CTRP,Ctrip.Com International Ltd,3127,977000,M,3,B,42.89,50
+CTSH,Cognizant Technology Solutions Corp,3128,542000,M,3,B,52.4,0
+CTXS,Citrix Systems Inc,2129,466000,M,2,B,71.43,0
+DISCA,Discovery Communications Inc,1230,483000,M,1,S,28.02,0
+DISCK,Discovery Communications Inc,2231,343000,M,2,S,27.63,0
+DISH,DISH Network Corp,2132,825000,M,2,B,61.09,0
+DLTR,Dollar Tree Inc,1133,191000,M,1,B,76.49,0
+EA,Electronic Arts,3134,275000,M,3,B,83.08,0
+EBAY,eBay Inc,1135,169000,M,1,B,32,0
+ESRX,Express Scripts Holding Co,1136,795000,M,1,B,70.96,0
+EXPE,Expedia Inc,1137,166000,M,1,B,117.88,0
+FAST,Fastenal Co,2138,962000,M,2,B,49.55,0
+FB,Facebook,2239,151000,M,2,S,133.26,50
+FISV,Fiserv Inc,2240,170000,M,2,S,105.59,0
+FOX,21st Century Fox Class B,2141,258000,M,2,B,31.37,50
+FOXA,21st Century Fox Class A,3142,863000,M,3,B,27.68,0
+GILD,Gilead Sciences Inc,3143,358000,M,3,B,72.93,0
+GOOG,Alphabet Class C,1144,391000,M,1,B,795.73,0
+GOOGL,Alphabet Class A,3145,325000,M,3,B,815.18,100
+HSIC,Henry Schein Inc,3246,470000,M,3,S,159.89,0
+ILMN,Illumina Inc,2147,228000,M,2,B,161.63,0
+INCY,Incyte Corp,1148,429000,M,1,B,124.46,0
+INTC,Intel Corp,2249,713000,M,2,S,36.69,100
+INTU,Intuit Inc,2250,610000,M,2,S,117.85,0
+ISRG,Intuitive Surgical Inc,1251,927000,M,1,S,694.2,0
+AAL,American Airlines Group Inc,3101,337000,M,3,B,43.85,100
+AAPL,Apple Inc,2202,203000,M,2,S,128.92,100
+ADBE,Adobe Systems Inc,2103,252000,M,2,B,113.51,0
+ADI,Analog Devices Inc,3104,989000,M,3,B,76.26,0
+ADP,Automatic Data Processing Inc,3105,627000,M,3,B,99.9,0
+ADSK,Autodesk Inc,1106,103000,M,1,B,81.22,0
+AKAM,Akamai Technologies Inc,1107,906000,M,1,B,71.77,50
+ALXN,Alexion Pharmaceuticals Inc,2208,998000,M,2,S,141.44,0
+AMAT,Applied Materials Inc,2109,969000,M,2,B,35.13,0
+AMGN,Amgen Inc,3110,412000,M,3,B,159.9,0
+AMZN,Amazon.com Inc,3211,114000,M,3,S,832.39,50
+ATVI,Activision Blizzard Inc,3212,905000,M,3,S,40.54,0
+AVGO,Broadcom Ltd,1113,375000,M,1,B,208.66,50
+BBBY,Bed Bath & Beyond Inc,3114,582000,M,3,B,39.71,0
+BIDU,Baidu Inc,3215,694000,M,3,S,173.85,0
+BIIB,Biogen Inc,3216,922000,M,3,S,288.99,0
+BMRN,Biomarin Pharmaceutical Inc,1117,591000,M,1,B,88.59,0
+CA,CA Inc,2118,916000,M,2,B,31.13,0
+CELG,Celgene Corp,1219,905000,M,1,S,117.33,100
+CERN,Cerner Corp,2220,119000,M,2,S,62.07,0
+CHKP,Check Point Software Technologies Ltd,1221,808000,M,1,S,98.11,0
+CHTR,Charter Communications Inc,3222,202000,M,3,S,327.06,0
+CMCSA,Comcast Corp,3223,362000,M,3,S,81.79,100
+COST,Costco Wholesale Corp,2124,383000,M,2,B,161.82,0
+CSCO,Cisco Systems Inc,2225,731000,M,2,S,30.83,0
+CSX,CSX Corp,3226,886000,M,3,S,47.41,0
+CTRP,Ctrip.Com International Ltd,3127,378000,M,3,B,47.85,50
+CTSH,Cognizant Technology Solutions Corp,3128,614000,M,3,B,52.44,0
+CTXS,Citrix Systems Inc,2229,366000,M,2,S,71.54,0
+DISCA,Discovery Communications Inc,2130,142000,M,2,B,27.93,100
+DISCK,Discovery Communications Inc,3131,173000,M,3,B,27.44,0
+DISH,DISH Network Corp,1132,777000,M,1,B,61.1,50
+DLTR,Dollar Tree Inc,3133,844000,M,3,B,76.46,100
+EA,Electronic Arts,2134,964000,M,2,B,83.07,0
+EBAY,eBay Inc,3135,466000,M,3,B,32.03,0
+ESRX,Express Scripts Holding Co,2236,858000,M,2,S,69.02,0
+EXPE,Expedia Inc,1237,996000,M,1,S,120.98,100
+FAST,Fastenal Co,1138,221000,M,1,B,49.55,0
+FB,Facebook,3139,207000,M,3,B,133.2,0
+FISV,Fiserv Inc,1140,588000,M,1,B,105.43,100
+FOX,21st Century Fox Class B,3141,539000,M,3,B,27.86,0
+FOXA,21st Century Fox Class A,3142,598000,M,3,B,31.69,0
+GILD,Gilead Sciences Inc,2143,319000,M,2,B,72.89,0
+GOOG,Alphabet Class C,1244,932000,M,1,S,795.85,0
+GOOGL,Alphabet Class A,3245,943000,M,3,S,816.29,0
+HSIC,Henry Schein Inc,1246,613000,M,1,S,159.81,0
+ILMN,Illumina Inc,2147,184000,M,2,B,161.68,0
+INCY,Incyte Corp,2248,450000,M,2,S,124.59,0
+INTC,Intel Corp,3149,536000,M,3,B,31.48,0
+INTU,Intuit Inc,3150,951000,M,3,B,117.66,0
+ISRG,Intuitive Surgical Inc,3251,722000,M,3,S,697.11,0
+AAL,American Airlines Group Inc,2101,879000,M,2,B,36.89,0
+AAPL,Apple Inc,2102,312000,M,2,B,120.87,0
+ADBE,Adobe Systems Inc,3103,337000,M,3,B,113.48,0
+ADI,Analog Devices Inc,3104,403000,M,3,B,76.31,0
+ADP,Automatic Data Processing Inc,3205,219000,M,3,S,95.51,0
+ADSK,Autodesk Inc,3106,105000,M,3,B,81.25,0
+AKAM,Akamai Technologies Inc,2107,808000,M,2,B,71.8,0
+ALXN,Alexion Pharmaceuticals Inc,1108,120000,M,1,B,132.26,0
+AMAT,Applied Materials Inc,1109,847000,M,1,B,35.1,0
+AMGN,Amgen Inc,2110,442000,M,2,B,159.93,0
+AMZN,Amazon.com Inc,3211,397000,M,3,S,829.37,0
+ATVI,Activision Blizzard Inc,2112,862000,M,2,B,40.35,0
+AVGO,Broadcom Ltd,1213,876000,M,1,S,208.77,0
+BBBY,Bed Bath & Beyond Inc,2114,970000,M,2,B,39.76,0
+BIDU,Baidu Inc,3215,109000,M,3,S,173.96,100
+BIIB,Biogen Inc,1116,676000,M,1,B,281.81,0
+BMRN,Biomarin Pharmaceutical Inc,1117,456000,M,1,B,88.62,0
+CA,CA Inc,2218,685000,M,2,S,31.35,0
+CELG,Celgene Corp,2119,251000,M,2,B,121.15,0
+CERN,Cerner Corp,1220,129000,M,1,S,54.11,100
+CHKP,Check Point Software Technologies Ltd,3121,631000,M,3,B,97.93,100
+CHTR,Charter Communications Inc,1222,663000,M,1,S,327.01,50
+CMCSA,Comcast Corp,3123,782000,M,3,B,81.61,0
+COST,Costco Wholesale Corp,1124,934000,M,1,B,161.85,0
+CSCO,Cisco Systems Inc,3125,529000,M,3,B,30.6,0
+CSX,CSX Corp,3126,906000,M,3,B,47.22,0
+CTRP,Ctrip.Com International Ltd,3227,568000,M,3,S,48,100
+CTSH,Cognizant Technology Solutions Corp,1228,974000,M,1,S,52.6,50
+CTXS,Citrix Systems Inc,2229,824000,M,2,S,71.55,100
+DISCA,Discovery Communications Inc,2230,937000,M,2,S,37.08,100
+DISCK,Discovery Communications Inc,1131,612000,M,1,B,27.49,0
+DISH,DISH Network Corp,2132,214000,M,2,B,66.11,50
+DLTR,Dollar Tree Inc,3233,845000,M,3,S,67.54,50
+EA,Electronic Arts,1234,406000,M,1,S,83.1,0
+EBAY,eBay Inc,3135,808000,M,3,B,32.02,0
+ESRX,Express Scripts Holding Co,1136,519000,M,1,B,68.96,0
+EXPE,Expedia Inc,2137,227000,M,2,B,114.87,0
+FAST,Fastenal Co,3138,720000,M,3,B,49.51,0
+FB,Facebook,3139,553000,M,3,B,133.21,0
+FISV,Fiserv Inc,3140,512000,M,3,B,99.47,100
+FOX,21st Century Fox Class B,1241,616000,M,1,S,31.47,0
+FOXA,21st Century Fox Class A,2142,504000,M,2,B,31.7,0
+GILD,Gilead Sciences Inc,3143,208000,M,3,B,72.87,100
+GOOG,Alphabet Class C,1244,855000,M,1,S,795.87,0
+GOOGL,Alphabet Class A,1145,986000,M,1,B,815.24,0
+HSIC,Henry Schein Inc,2246,185000,M,2,S,159.83,0
+ILMN,Illumina Inc,2147,828000,M,2,B,161.71,100
+INCY,Incyte Corp,2248,494000,M,2,S,124.49,0
+INTC,Intel Corp,2149,191000,M,2,B,36.43,100
+INTU,Intuit Inc,3150,399000,M,3,B,117.64,100
+ISRG,Intuitive Surgical Inc,3251,346000,M,3,S,696.98,0
+AAL,American Airlines Group Inc,2201,437000,M,2,S,44,0
+AAPL,Apple Inc,3102,459000,M,3,B,128.86,0
+ADBE,Adobe Systems Inc,1103,930000,M,1,B,113.48,0
+ADI,Analog Devices Inc,3104,463000,M,3,B,76.3,0
+ADP,Automatic Data Processing Inc,3105,168000,M,3,B,95.32,0
+ADSK,Autodesk Inc,2206,606000,M,2,S,81.41,0
+AKAM,Akamai Technologies Inc,3107,907000,M,3,B,68.75,0
+ALXN,Alexion Pharmaceuticals Inc,3108,628000,M,3,B,132.28,50
+AMAT,Applied Materials Inc,1209,489000,M,1,S,35.29,0
+AMGN,Amgen Inc,1110,760000,M,1,B,159.93,100
+AMZN,Amazon.com Inc,3211,514000,M,3,S,832.38,0
+ATVI,Activision Blizzard Inc,2112,201000,M,2,B,40.39,0
+AVGO,Broadcom Ltd,1113,708000,M,1,B,203.74,0
+BBBY,Bed Bath & Beyond Inc,2214,154000,M,2,S,39.96,0
+BIDU,Baidu Inc,2115,329000,M,2,B,171.88,0
+BIIB,Biogen Inc,3116,692000,M,3,B,281.83,0
+BMRN,Biomarin Pharmaceutical Inc,3117,234000,M,3,B,88.59,100
+CA,CA Inc,1218,196000,M,1,S,31.35,0
+CELG,Celgene Corp,3219,701000,M,3,S,117.19,0
+CERN,Cerner Corp,2220,182000,M,2,S,62,50
+CHKP,Check Point Software Technologies Ltd,3121,897000,M,3,B,100.9,0
+CHTR,Charter Communications Inc,2122,869000,M,2,B,321.88,0
+CMCSA,Comcast Corp,2223,838000,M,2,S,75.79,100
+COST,Costco Wholesale Corp,2224,107000,M,2,S,161.93,0
+CSCO,Cisco Systems Inc,3225,260000,M,3,S,30.61,50
+CSX,CSX Corp,2226,636000,M,2,S,47.39,0
+CTRP,Ctrip.Com International Ltd,1227,888000,M,1,S,52.99,0
+CTSH,Cognizant Technology Solutions Corp,1228,598000,M,1,S,49.01,50
+CTXS,Citrix Systems Inc,3129,411000,M,3,B,64.43,0
+DISCA,Discovery Communications Inc,3230,251000,M,3,S,37.07,0
+DISCK,Discovery Communications Inc,1131,135000,M,1,B,27.46,0
+DISH,DISH Network Corp,1232,199000,M,1,S,66.15,0
+DLTR,Dollar Tree Inc,3133,746000,M,3,B,72.03,0
+EA,Electronic Arts,1134,914000,M,1,B,83.03,100
+EBAY,eBay Inc,3135,838000,M,3,B,32.03,50
+ESRX,Express Scripts Holding Co,1236,958000,M,1,S,69.05,0
+EXPE,Expedia Inc,3137,927000,M,3,B,120.84,0
+FAST,Fastenal Co,1138,118000,M,1,B,49.56,0
+FB,Facebook,1239,537000,M,1,S,133.31,0
+FISV,Fiserv Inc,1240,109000,M,1,S,99.47,100
+FOX,21st Century Fox Class B,3141,973000,M,3,B,31.36,0
+FOXA,21st Century Fox Class A,1142,720000,M,1,B,31.72,0
+GILD,Gilead Sciences Inc,3143,441000,M,3,B,78.87,100
+GOOG,Alphabet Class C,1144,732000,M,1,B,795.78,0
+GOOGL,Alphabet Class A,2145,426000,M,2,B,815.29,0
+HSIC,Henry Schein Inc,2246,593000,M,2,S,159.87,100
+ILMN,Illumina Inc,1247,445000,M,1,S,163.85,0
+INCY,Incyte Corp,1148,982000,M,1,B,124.41,0
+INTC,Intel Corp,2249,530000,M,2,S,31.61,0
+INTU,Intuit Inc,1250,700000,M,1,S,124.8,0
+ISRG,Intuitive Surgical Inc,2251,636000,M,2,S,697.13,0
+AAL,American Airlines Group Inc,3101,531000,M,3,B,43.93,0
+AAPL,Apple Inc,1202,346000,M,1,S,129.02,0
+ADBE,Adobe Systems Inc,2203,921000,M,2,S,113.54,0
+ADI,Analog Devices Inc,2204,958000,M,2,S,76.32,50
+ADP,Automatic Data Processing Inc,1205,465000,M,1,S,95.4,0
+ADSK,Autodesk Inc,3206,670000,M,3,S,81.36,100
+AKAM,Akamai Technologies Inc,2107,443000,M,2,B,68.75,0
+ALXN,Alexion Pharmaceuticals Inc,3108,792000,M,3,B,136.78,0
+AMAT,Applied Materials Inc,1209,240000,M,1,S,35.13,100
+AMGN,Amgen Inc,3110,737000,M,3,B,160.91,0
+AMZN,Amazon.com Inc,2111,512000,M,2,B,832.29,0
+ATVI,Activision Blizzard Inc,3112,956000,M,3,B,40.38,0
+AVGO,Broadcom Ltd,3213,151000,M,3,S,203.73,50
+BBBY,Bed Bath & Beyond Inc,1114,747000,M,1,B,39.78,0
+BIDU,Baidu Inc,2115,558000,M,2,B,173.88,0
+BIIB,Biogen Inc,3216,322000,M,3,S,282.05,0
+BMRN,Biomarin Pharmaceutical Inc,3117,555000,M,3,B,88.57,0
+CA,CA Inc,2118,394000,M,2,B,31.13,50
+CELG,Celgene Corp,1119,587000,M,1,B,117.16,0
+CERN,Cerner Corp,3120,532000,M,3,B,58.03,0
+CHKP,Check Point Software Technologies Ltd,2221,726000,M,2,S,98.04,0
+CHTR,Charter Communications Inc,1222,631000,M,1,S,326.97,100
+CMCSA,Comcast Corp,2223,388000,M,2,S,81.69,100
+COST,Costco Wholesale Corp,2124,595000,M,2,B,161.86,100
+CSCO,Cisco Systems Inc,1125,123000,M,1,B,34.1,0
+CSX,CSX Corp,2126,632000,M,2,B,47.2,100
+CTRP,Ctrip.Com International Ltd,3227,837000,M,3,S,43.03,0
+CTSH,Cognizant Technology Solutions Corp,1128,106000,M,1,B,49,0
+CTXS,Citrix Systems Inc,1229,963000,M,1,S,71.57,100
+DISCA,Discovery Communications Inc,1130,155000,M,1,B,27.87,0
+DISCK,Discovery Communications Inc,1131,489000,M,1,B,27.49,0
+DISH,DISH Network Corp,3132,182000,M,3,B,61.14,0
+DLTR,Dollar Tree Inc,2133,704000,M,2,B,76.5,0
+EA,Electronic Arts,3234,605000,M,3,S,86.06,0
+EBAY,eBay Inc,1135,431000,M,1,B,28.06,0
+ESRX,Express Scripts Holding Co,2236,497000,M,2,S,69.03,100
+EXPE,Expedia Inc,3137,301000,M,3,B,120.83,0
+FAST,Fastenal Co,3238,115000,M,3,S,49.63,0
+FB,Facebook,3139,145000,M,3,B,133.17,0
+FISV,Fiserv Inc,3140,702000,M,3,B,99.38,0
+FOX,21st Century Fox Class B,1241,255000,M,1,S,31.49,0
+FOXA,21st Century Fox Class A,3242,420000,M,3,S,31.79,50
+GILD,Gilead Sciences Inc,3143,693000,M,3,B,78.83,0
+GOOG,Alphabet Class C,3244,881000,M,3,S,795.94,0
+GOOGL,Alphabet Class A,1145,820000,M,1,B,815.3,0
+HSIC,Henry Schein Inc,1246,299000,M,1,S,160.8,0
+ILMN,Illumina Inc,1147,999000,M,1,B,161.76,0
+INCY,Incyte Corp,2148,423000,M,2,B,124.44,0
+INTC,Intel Corp,3249,983000,M,3,S,36.44,100
+INTU,Intuit Inc,1150,227000,M,1,B,117.62,0
+ISRG,Intuitive Surgical Inc,1251,275000,M,1,S,697.13,0
+AAL,American Airlines Group Inc,2101,499000,M,2,B,43.88,0
+AAPL,Apple Inc,3202,758000,M,3,S,128.92,0
+ADBE,Adobe Systems Inc,1203,291000,M,1,S,113.68,0
+ADI,Analog Devices Inc,2104,416000,M,2,B,74.78,100
+ADP,Automatic Data Processing Inc,2105,590000,M,2,B,95.25,0
+ADSK,Autodesk Inc,3206,641000,M,3,S,81.37,0
+AKAM,Akamai Technologies Inc,1107,435000,M,1,B,68.79,100
+ALXN,Alexion Pharmaceuticals Inc,2108,321000,M,2,B,132.27,0
+AMAT,Applied Materials Inc,3209,932000,M,3,S,28.15,0
+AMGN,Amgen Inc,2110,445000,M,2,B,159.86,0
+AMZN,Amazon.com Inc,2111,560000,M,2,B,832.26,0
+ATVI,Activision Blizzard Inc,3112,115000,M,3,B,40.37,0
+AVGO,Broadcom Ltd,1213,273000,M,1,S,208.89,0
+BBBY,Bed Bath & Beyond Inc,1214,260000,M,1,S,39.83,50
+BIDU,Baidu Inc,3115,190000,M,3,B,173.83,0
+BIIB,Biogen Inc,2116,207000,M,2,B,281.91,50
+BMRN,Biomarin Pharmaceutical Inc,2117,423000,M,2,B,88.57,100
+CA,CA Inc,3218,845000,M,3,S,34.68,0
+CELG,Celgene Corp,1119,780000,M,1,B,117.16,0
+CERN,Cerner Corp,1220,156000,M,1,S,54.18,0
+CHKP,Check Point Software Technologies Ltd,1221,504000,M,1,S,98,0
+CHTR,Charter Communications Inc,3222,425000,M,3,S,316.91,100
+CMCSA,Comcast Corp,2223,579000,M,2,S,81.71,0
+COST,Costco Wholesale Corp,2124,102000,M,2,B,168.87,0
+CSCO,Cisco Systems Inc,3125,346000,M,3,B,30.56,0
+CSX,CSX Corp,3226,164000,M,3,S,38.34,100
+CTRP,Ctrip.Com International Ltd,3127,347000,M,3,B,42.85,0
+CTSH,Cognizant Technology Solutions Corp,2128,587000,M,2,B,52.48,0
+CTXS,Citrix Systems Inc,3229,801000,M,3,S,64.43,0
+DISCA,Discovery Communications Inc,3130,753000,M,3,B,27.89,100
+DISCK,Discovery Communications Inc,2131,913000,M,2,B,27.53,50
+DISH,DISH Network Corp,3132,680000,M,3,B,61.12,50
+DLTR,Dollar Tree Inc,3233,872000,M,3,S,76.51,0
+EA,Electronic Arts,1234,732000,M,1,S,83.11,50
+EBAY,eBay Inc,2235,386000,M,2,S,32.16,0
+ESRX,Express Scripts Holding Co,1236,124000,M,1,S,71.07,0
+EXPE,Expedia Inc,3237,149000,M,3,S,120.97,0
+FAST,Fastenal Co,3138,955000,M,3,B,49.55,0
+FB,Facebook,2239,785000,M,2,S,133.24,0
+FISV,Fiserv Inc,2240,341000,M,2,S,105.43,100
+FOX,21st Century Fox Class B,2141,676000,M,2,B,31.34,0
+FOXA,21st Century Fox Class A,2242,576000,M,2,S,27.74,0
+GILD,Gilead Sciences Inc,2143,520000,M,2,B,72.87,0
+GOOG,Alphabet Class C,1244,109000,M,1,S,795.92,100
+GOOGL,Alphabet Class A,3245,270000,M,3,S,815.36,0
+HSIC,Henry Schein Inc,3246,706000,M,3,S,159.81,0
+ILMN,Illumina Inc,2247,285000,M,2,S,161.92,0
+INCY,Incyte Corp,1148,111000,M,1,B,124.4,0
+INTC,Intel Corp,1149,502000,M,1,B,31.47,0
+INTU,Intuit Inc,3250,677000,M,3,S,117.66,50
+ISRG,Intuitive Surgical Inc,2251,313000,M,2,S,697.26,0
+AAL,American Airlines Group Inc,3201,988000,M,3,S,44.08,0
+AAPL,Apple Inc,2202,259000,M,2,S,129.09,50
+ADBE,Adobe Systems Inc,2103,341000,M,2,B,113.51,0
+ADI,Analog Devices Inc,3204,200000,M,3,S,73.28,0
+ADP,Automatic Data Processing Inc,2105,852000,M,2,B,95.22,0
+ADSK,Autodesk Inc,2206,562000,M,2,S,81.31,0
+AKAM,Akamai Technologies Inc,1207,561000,M,1,S,74.82,100
+ALXN,Alexion Pharmaceuticals Inc,1208,312000,M,1,S,132.4,0
+AMAT,Applied Materials Inc,3209,328000,M,3,S,35.08,100
+AMGN,Amgen Inc,3210,488000,M,3,S,160,100
+AMZN,Amazon.com Inc,3211,634000,M,3,S,832.39,0
+ATVI,Activision Blizzard Inc,1112,692000,M,1,B,40.37,0
+AVGO,Broadcom Ltd,2113,187000,M,2,B,203.68,0
+BBBY,Bed Bath & Beyond Inc,2214,136000,M,2,S,40.84,0
+BIDU,Baidu Inc,2215,333000,M,2,S,174.04,100
+BIIB,Biogen Inc,2116,963000,M,2,B,285.45,0
+BMRN,Biomarin Pharmaceutical Inc,2117,526000,M,2,B,88.58,0
+CA,CA Inc,2218,989000,M,2,S,31.29,50
+CELG,Celgene Corp,1219,967000,M,1,S,117.37,0
+CERN,Cerner Corp,2220,906000,M,2,S,54.17,100
+CHKP,Check Point Software Technologies Ltd,1121,173000,M,1,B,97.86,0
+CHTR,Charter Communications Inc,2222,757000,M,2,S,316.99,0
+CMCSA,Comcast Corp,2223,681000,M,2,S,75.89,50
+COST,Costco Wholesale Corp,2124,924000,M,2,B,161.84,0
+CSCO,Cisco Systems Inc,1125,223000,M,1,B,30.6,0
+CSX,CSX Corp,1226,631000,M,1,S,38.24,50
+CTRP,Ctrip.Com International Ltd,2127,529000,M,2,B,42.81,0
+CTSH,Cognizant Technology Solutions Corp,2228,547000,M,2,S,52.58,0
+CTXS,Citrix Systems Inc,3229,717000,M,3,S,71.48,0
+DISCA,Discovery Communications Inc,2230,706000,M,2,S,36.9,0
+DISCK,Discovery Communications Inc,3131,996000,M,3,B,27.03,0
+DISH,DISH Network Corp,1132,568000,M,1,B,66.17,0
+DLTR,Dollar Tree Inc,2233,318000,M,2,S,76.63,0
+EA,Electronic Arts,3134,888000,M,3,B,84.56,50
+EBAY,eBay Inc,3135,194000,M,3,B,32.09,100
+ESRX,Express Scripts Holding Co,3136,215000,M,3,B,68.97,100
+EXPE,Expedia Inc,2237,536000,M,2,S,121.06,0
+FAST,Fastenal Co,2138,215000,M,2,B,49.57,50
+FB,Facebook,1239,988000,M,1,S,133.34,0
+FISV,Fiserv Inc,3240,482000,M,3,S,99.35,50
+FOX,21st Century Fox Class B,1141,511000,M,1,B,31.39,0
+FOXA,21st Century Fox Class A,3142,621000,M,3,B,31.69,0
+GILD,Gilead Sciences Inc,1243,684000,M,1,S,73.04,50
+GOOG,Alphabet Class C,3144,406000,M,3,B,789.8,100
+GOOGL,Alphabet Class A,3145,857000,M,3,B,815.26,100
+HSIC,Henry Schein Inc,1246,841000,M,1,S,159.82,0
+ILMN,Illumina Inc,3147,638000,M,3,B,161.78,0
+INCY,Incyte Corp,1148,655000,M,1,B,124.36,0
+INTC,Intel Corp,2149,230000,M,2,B,36.45,0
+INTU,Intuit Inc,2250,233000,M,2,S,121.17,0
+ISRG,Intuitive Surgical Inc,2151,299000,M,2,B,697.08,0
+AAL,American Airlines Group Inc,1201,803000,M,1,S,44.01,0
+AAPL,Apple Inc,3202,220000,M,3,S,125.05,0
+ADBE,Adobe Systems Inc,3103,148000,M,3,B,113.47,0
+ADI,Analog Devices Inc,2204,809000,M,2,S,76.36,0
+ADP,Automatic Data Processing Inc,2105,891000,M,2,B,95.27,0
+ADSK,Autodesk Inc,1206,196000,M,1,S,81.28,100
+AKAM,Akamai Technologies Inc,2107,581000,M,2,B,74.81,0
+ALXN,Alexion Pharmaceuticals Inc,2208,102000,M,2,S,132.39,0
+AMAT,Applied Materials Inc,2209,293000,M,2,S,28.28,0
+AMGN,Amgen Inc,1210,431000,M,1,S,160.77,0
+AMZN,Amazon.com Inc,1211,459000,M,1,S,832.5,0
+ATVI,Activision Blizzard Inc,3212,176000,M,3,S,40.54,0
+AVGO,Broadcom Ltd,2213,321000,M,2,S,203.75,100
+BBBY,Bed Bath & Beyond Inc,2214,990000,M,2,S,39.86,0
+BIDU,Baidu Inc,2115,167000,M,2,B,171.86,0
+BIIB,Biogen Inc,1216,964000,M,1,S,282.03,0
+BMRN,Biomarin Pharmaceutical Inc,1217,460000,M,1,S,88.78,0
+CA,CA Inc,2118,928000,M,2,B,34.56,0
+CELG,Celgene Corp,1219,989000,M,1,S,117.4,0
+CERN,Cerner Corp,1220,714000,M,1,S,62.13,100
+CHKP,Check Point Software Technologies Ltd,1221,699000,M,1,S,98.06,0
+CHTR,Charter Communications Inc,2222,685000,M,2,S,327.01,0
+CMCSA,Comcast Corp,3223,858000,M,3,S,78.73,0
+COST,Costco Wholesale Corp,2224,863000,M,2,S,161.86,0
+CSCO,Cisco Systems Inc,2225,621000,M,2,S,30.64,0
+CSX,CSX Corp,3126,132000,M,3,B,42.64,0
+CTRP,Ctrip.Com International Ltd,1127,277000,M,1,B,42.77,0
+CTSH,Cognizant Technology Solutions Corp,2228,284000,M,2,S,52.49,0
+CTXS,Citrix Systems Inc,3229,104000,M,3,S,71.5,50
+DISCA,Discovery Communications Inc,1230,331000,M,1,S,28.09,0
+DISCK,Discovery Communications Inc,3131,916000,M,3,B,27.51,0
+DISH,DISH Network Corp,2232,817000,M,2,S,61.32,0
+DLTR,Dollar Tree Inc,2233,163000,M,2,S,76.69,50
+EA,Electronic Arts,1134,923000,M,1,B,84.55,0
+EBAY,eBay Inc,3135,179000,M,3,B,24.05,100
+ESRX,Express Scripts Holding Co,2136,669000,M,2,B,70.99,0
+EXPE,Expedia Inc,1237,481000,M,1,S,120.92,0
+FAST,Fastenal Co,1138,281000,M,1,B,52.58,50
+FB,Facebook,1139,918000,M,1,B,133.14,0
+FISV,Fiserv Inc,1240,924000,M,1,S,102.48,0
+FOX,21st Century Fox Class B,3241,714000,M,3,S,31.42,0
+FOXA,21st Century Fox Class A,2242,115000,M,2,S,31.9,50
+GILD,Gilead Sciences Inc,3243,658000,M,3,S,76.04,0
+GOOG,Alphabet Class C,2244,277000,M,2,S,789.85,0
+GOOGL,Alphabet Class A,1145,725000,M,1,B,816.22,0
+HSIC,Henry Schein Inc,2146,473000,M,2,B,159.75,0
+ILMN,Illumina Inc,2147,878000,M,2,B,161.83,50
+INCY,Incyte Corp,2248,351000,M,2,S,124.45,0
+INTC,Intel Corp,1249,477000,M,1,S,36.52,0
+INTU,Intuit Inc,3150,694000,M,3,B,117.65,0
+ISRG,Intuitive Surgical Inc,2251,266000,M,2,S,697.3,0
+AAL,American Airlines Group Inc,3101,890000,M,3,B,43.9,0
+AAPL,Apple Inc,1102,417000,M,1,B,128.89,0
+ADBE,Adobe Systems Inc,2203,319000,M,2,S,113.55,0
+ADI,Analog Devices Inc,3204,677000,M,3,S,76.41,0
+ADP,Automatic Data Processing Inc,3105,327000,M,3,B,95.27,0
+ADSK,Autodesk Inc,1206,636000,M,1,S,81.26,0
+AKAM,Akamai Technologies Inc,3207,605000,M,3,S,68.9,0
+ALXN,Alexion Pharmaceuticals Inc,1208,300000,M,1,S,132.37,0
+AMAT,Applied Materials Inc,1109,283000,M,1,B,35.04,100
+AMGN,Amgen Inc,1210,373000,M,1,S,159.83,0
+AMZN,Amazon.com Inc,1211,492000,M,1,S,832.48,0
+ATVI,Activision Blizzard Inc,3112,427000,M,3,B,40.4,0
+AVGO,Broadcom Ltd,1213,182000,M,1,S,213.77,0
+BBBY,Bed Bath & Beyond Inc,3114,595000,M,3,B,39.81,0
+BIDU,Baidu Inc,1215,691000,M,1,S,174.02,100
+BIIB,Biogen Inc,3216,282000,M,3,S,282.01,100
+BMRN,Biomarin Pharmaceutical Inc,1217,694000,M,1,S,88.67,0
+CA,CA Inc,3118,662000,M,3,B,31.1,0
+CELG,Celgene Corp,3119,247000,M,3,B,117.19,0
+CERN,Cerner Corp,3220,479000,M,3,S,62.16,0
+CHKP,Check Point Software Technologies Ltd,1121,527000,M,1,B,97.96,0
+CHTR,Charter Communications Inc,2122,843000,M,2,B,326.94,0
+CMCSA,Comcast Corp,3123,257000,M,3,B,75.67,50
+COST,Costco Wholesale Corp,2124,680000,M,2,B,161.89,0
+CSCO,Cisco Systems Inc,1125,268000,M,1,B,30.54,50
+CSX,CSX Corp,1226,766000,M,1,S,47.36,0
+CTRP,Ctrip.Com International Ltd,2227,769000,M,2,S,42.86,0
+CTSH,Cognizant Technology Solutions Corp,1128,987000,M,1,B,52.46,100
+CTXS,Citrix Systems Inc,1229,918000,M,1,S,67.93,0
+DISCA,Discovery Communications Inc,2230,502000,M,2,S,27.94,0
+DISCK,Discovery Communications Inc,1231,605000,M,1,S,27.59,100
+DISH,DISH Network Corp,3132,231000,M,3,B,61.22,50
+DLTR,Dollar Tree Inc,3133,583000,M,3,B,72,50
+EA,Electronic Arts,2134,113000,M,2,B,83.1,0
+EBAY,eBay Inc,1235,370000,M,1,S,24.22,0
+ESRX,Express Scripts Holding Co,2136,946000,M,2,B,68.95,50
+EXPE,Expedia Inc,3237,633000,M,3,S,120.89,0
+FAST,Fastenal Co,3138,346000,M,3,B,52.63,0
+FB,Facebook,3239,696000,M,3,S,133.23,0
+FISV,Fiserv Inc,1240,235000,M,1,S,105.49,0
+FOX,21st Century Fox Class B,2141,748000,M,2,B,31.41,100
+FOXA,21st Century Fox Class A,2142,571000,M,2,B,27.68,0
+GILD,Gilead Sciences Inc,2143,421000,M,2,B,72.82,0
+GOOG,Alphabet Class C,3244,355000,M,3,S,795.87,0
+GOOGL,Alphabet Class A,3145,621000,M,3,B,815.19,0
+HSIC,Henry Schein Inc,2246,147000,M,2,S,159.73,0
+ILMN,Illumina Inc,2247,857000,M,2,S,163.03,50
+INCY,Incyte Corp,2248,100000,M,2,S,124.36,50
+INTC,Intel Corp,2249,936000,M,2,S,36.6,0
+INTU,Intuit Inc,1250,145000,M,1,S,117.72,0
+ISRG,Intuitive Surgical Inc,2151,344000,M,2,B,697.05,0
+AAL,American Airlines Group Inc,3201,971000,M,3,S,44.11,0
+AAPL,Apple Inc,2202,918000,M,2,S,128.93,100
+ADBE,Adobe Systems Inc,2203,381000,M,2,S,113.59,0
+ADI,Analog Devices Inc,1104,725000,M,1,B,76.28,0
+ADP,Automatic Data Processing Inc,1205,898000,M,1,S,95.27,0
+ADSK,Autodesk Inc,3106,372000,M,3,B,81.25,0
+AKAM,Akamai Technologies Inc,3107,203000,M,3,B,68.88,0
+ALXN,Alexion Pharmaceuticals Inc,2108,413000,M,2,B,132.28,0
+AMAT,Applied Materials Inc,2109,313000,M,2,B,28.01,0
+AMGN,Amgen Inc,3210,197000,M,3,S,159.82,0
+AMZN,Amazon.com Inc,1111,202000,M,1,B,832.27,0
+ATVI,Activision Blizzard Inc,1112,218000,M,1,B,40.42,50
+AVGO,Broadcom Ltd,2213,981000,M,2,S,203.76,50
+BBBY,Bed Bath & Beyond Inc,2114,481000,M,2,B,39.82,0
+BIDU,Baidu Inc,3215,914000,M,3,S,172.02,50
+BIIB,Biogen Inc,3116,776000,M,3,B,288.86,100
+BMRN,Biomarin Pharmaceutical Inc,2217,281000,M,2,S,88.7,0
+CA,CA Inc,3218,853000,M,3,S,31.1,0
+CELG,Celgene Corp,1219,320000,M,1,S,117.41,0
+CERN,Cerner Corp,3120,161000,M,3,B,53.95,0
+CHKP,Check Point Software Technologies Ltd,3121,646000,M,3,B,97.95,0
+CHTR,Charter Communications Inc,2122,563000,M,2,B,326.97,0
+CMCSA,Comcast Corp,2123,722000,M,2,B,78.71,100
+COST,Costco Wholesale Corp,3224,681000,M,3,S,161.99,0
+CSCO,Cisco Systems Inc,2225,341000,M,2,S,34.09,100
+CSX,CSX Corp,3126,698000,M,3,B,47.22,50
+CTRP,Ctrip.Com International Ltd,1227,492000,M,1,S,42.85,0
+CTSH,Cognizant Technology Solutions Corp,1128,786000,M,1,B,45.48,100
+CTXS,Citrix Systems Inc,3129,398000,M,3,B,71.31,0
+DISCA,Discovery Communications Inc,1130,957000,M,1,B,27.94,0
+DISCK,Discovery Communications Inc,3131,675000,M,3,B,26.49,0
+DISH,DISH Network Corp,3232,181000,M,3,S,66.25,0
+DLTR,Dollar Tree Inc,2133,636000,M,2,B,72.01,0
+EA,Electronic Arts,2134,497000,M,2,B,83.08,0
+EBAY,eBay Inc,3135,407000,M,3,B,32.05,100
+ESRX,Express Scripts Holding Co,1136,715000,M,1,B,69.99,0
+EXPE,Expedia Inc,3237,350000,M,3,S,120.97,0
+FAST,Fastenal Co,1138,634000,M,1,B,49.67,0
+FB,Facebook,1139,777000,M,1,B,133.14,0
+FISV,Fiserv Inc,1140,235000,M,1,B,105.35,100
+FOX,21st Century Fox Class B,2241,720000,M,2,S,24.44,0
+FOXA,21st Century Fox Class A,3242,132000,M,3,S,31.78,0
+GILD,Gilead Sciences Inc,3243,116000,M,3,S,72.98,0
+GOOG,Alphabet Class C,3144,226000,M,3,B,795.81,0
+GOOGL,Alphabet Class A,2145,271000,M,2,B,815.21,0
+HSIC,Henry Schein Inc,1146,544000,M,1,B,159.74,50
+ILMN,Illumina Inc,2247,231000,M,2,S,162.96,0
+INCY,Incyte Corp,1148,583000,M,1,B,129.37,0
+INTC,Intel Corp,2149,415000,M,2,B,36.44,50
+INTU,Intuit Inc,1150,155000,M,1,B,117.59,100
+ISRG,Intuitive Surgical Inc,2251,599000,M,2,S,697.18,0
+AAL,American Airlines Group Inc,1201,274000,M,1,S,43.94,50
+AAPL,Apple Inc,2102,790000,M,2,B,120.92,0
+ADBE,Adobe Systems Inc,2203,874000,M,2,S,113.7,50
+ADI,Analog Devices Inc,2204,756000,M,2,S,76.35,0
+ADP,Automatic Data Processing Inc,2105,467000,M,2,B,95.25,0
+ADSK,Autodesk Inc,1206,903000,M,1,S,81.33,0
+AKAM,Akamai Technologies Inc,1207,725000,M,1,S,68.96,0
+ALXN,Alexion Pharmaceuticals Inc,1108,809000,M,1,B,132.3,50
+AMAT,Applied Materials Inc,2109,155000,M,2,B,35.03,50
+AMGN,Amgen Inc,1210,430000,M,1,S,159.81,0
+AMZN,Amazon.com Inc,2111,532000,M,2,B,832.22,0
+ATVI,Activision Blizzard Inc,3212,256000,M,3,S,36.03,0
+AVGO,Broadcom Ltd,2213,438000,M,2,S,208.72,0
+BBBY,Bed Bath & Beyond Inc,2114,539000,M,2,B,39.84,100
+BIDU,Baidu Inc,2115,758000,M,2,B,172.91,0
+BIIB,Biogen Inc,1116,183000,M,1,B,288.87,50
+BMRN,Biomarin Pharmaceutical Inc,3117,772000,M,3,B,88.62,0
+CA,CA Inc,3118,144000,M,3,B,31.1,100
+CELG,Celgene Corp,2219,192000,M,2,S,117.38,100
+CERN,Cerner Corp,2120,734000,M,2,B,53.98,0
+CHKP,Check Point Software Technologies Ltd,3121,330000,M,3,B,98,0
+CHTR,Charter Communications Inc,2122,157000,M,2,B,326.94,0
+CMCSA,Comcast Corp,2223,331000,M,2,S,81.77,0
+COST,Costco Wholesale Corp,2224,308000,M,2,S,161.96,0
+CSCO,Cisco Systems Inc,2225,233000,M,2,S,37.73,0
+CSX,CSX Corp,3226,500000,M,3,S,42.78,0
+CTRP,Ctrip.Com International Ltd,3127,951000,M,3,B,42.86,0
+CTSH,Cognizant Technology Solutions Corp,1128,270000,M,1,B,45.53,50
+CTXS,Citrix Systems Inc,3229,567000,M,3,S,71.38,0
+DISCA,Discovery Communications Inc,2230,188000,M,2,S,28.16,100
+DISCK,Discovery Communications Inc,1131,791000,M,1,B,27.49,100
+DISH,DISH Network Corp,1232,293000,M,1,S,61.38,0
+DLTR,Dollar Tree Inc,2133,378000,M,2,B,76.52,0
+EA,Electronic Arts,3134,364000,M,3,B,83.12,100
+EBAY,eBay Inc,1135,449000,M,1,B,24.03,0
+ESRX,Express Scripts Holding Co,3236,282000,M,3,S,69.06,100
+EXPE,Expedia Inc,2137,277000,M,2,B,120.87,0
+FAST,Fastenal Co,1138,114000,M,1,B,49.71,0
+FB,Facebook,1139,548000,M,1,B,133.19,50
+FISV,Fiserv Inc,3240,145000,M,3,S,99.42,50
+FOX,21st Century Fox Class B,3241,337000,M,3,S,31.48,50
+FOXA,21st Century Fox Class A,2242,237000,M,2,S,31.78,0
+GILD,Gilead Sciences Inc,3143,421000,M,3,B,72.8,0
+GOOG,Alphabet Class C,2144,641000,M,2,B,795.79,0
+GOOGL,Alphabet Class A,3145,321000,M,3,B,815.19,100
+HSIC,Henry Schein Inc,3246,632000,M,3,S,160.3,0
+ILMN,Illumina Inc,2247,429000,M,2,S,161.97,0
+INCY,Incyte Corp,2248,879000,M,2,S,124.39,0
+INTC,Intel Corp,3249,122000,M,3,S,33.93,0
+INTU,Intuit Inc,1150,687000,M,1,B,124.61,0
+ISRG,Intuitive Surgical Inc,3251,574000,M,3,S,697.23,0
+AAL,American Airlines Group Inc,3201,982000,M,3,S,40.47,0
+AAPL,Apple Inc,2202,481000,M,2,S,129.13,0
+ADBE,Adobe Systems Inc,1203,155000,M,1,S,110.17,0
+ADI,Analog Devices Inc,2204,377000,M,2,S,76.43,0
+ADP,Automatic Data Processing Inc,1205,413000,M,1,S,95.35,0
+ADSK,Autodesk Inc,2206,596000,M,2,S,81.37,100
+AKAM,Akamai Technologies Inc,2207,422000,M,2,S,69,0
+ALXN,Alexion Pharmaceuticals Inc,2208,420000,M,2,S,136.89,0
+AMAT,Applied Materials Inc,1209,176000,M,1,S,31.68,0
+AMGN,Amgen Inc,2210,257000,M,2,S,159.68,0
+AMZN,Amazon.com Inc,2211,172000,M,2,S,832.36,0
+ATVI,Activision Blizzard Inc,2212,935000,M,2,S,40.52,0
+AVGO,Broadcom Ltd,2113,920000,M,2,B,203.62,0
+BBBY,Bed Bath & Beyond Inc,2114,697000,M,2,B,41.8,0
+BIDU,Baidu Inc,3215,336000,M,3,S,174.03,0
+BIIB,Biogen Inc,2216,624000,M,2,S,285.37,100
+BMRN,Biomarin Pharmaceutical Inc,3217,998000,M,3,S,88.8,0
+CA,CA Inc,1118,332000,M,1,B,38.09,0
+CELG,Celgene Corp,3119,348000,M,3,B,121.3,0
+CERN,Cerner Corp,1220,514000,M,1,S,54.05,0
+CHKP,Check Point Software Technologies Ltd,2121,785000,M,2,B,97.99,0
+CHTR,Charter Communications Inc,2222,851000,M,2,S,327.08,0
+CMCSA,Comcast Corp,3223,427000,M,3,S,75.76,100
+COST,Costco Wholesale Corp,1224,343000,M,1,S,161.89,0
+CSCO,Cisco Systems Inc,3225,985000,M,3,S,30.54,0
+CSX,CSX Corp,1126,836000,M,1,B,47.3,0
+CTRP,Ctrip.Com International Ltd,2127,689000,M,2,B,42.84,0
+CTSH,Cognizant Technology Solutions Corp,1128,277000,M,1,B,49.07,0
+CTXS,Citrix Systems Inc,2129,647000,M,2,B,71.29,0
+DISCA,Discovery Communications Inc,1130,971000,M,1,B,37.01,100
+DISCK,Discovery Communications Inc,3131,906000,M,3,B,26.5,0
+DISH,DISH Network Corp,3132,278000,M,3,B,61.27,100
+DLTR,Dollar Tree Inc,3233,397000,M,3,S,76.68,0
+EA,Electronic Arts,1234,928000,M,1,S,86.23,0
+EBAY,eBay Inc,1135,393000,M,1,B,32.04,0
+ESRX,Express Scripts Holding Co,1236,867000,M,1,S,71.08,0
+EXPE,Expedia Inc,3137,981000,M,3,B,120.82,0
+FAST,Fastenal Co,2138,431000,M,2,B,49.67,0
+FB,Facebook,3239,923000,M,3,S,133.39,50
+FISV,Fiserv Inc,2240,711000,M,2,S,102.45,0
+FOX,21st Century Fox Class B,3141,187000,M,3,B,27.93,0
+FOXA,21st Century Fox Class A,2142,215000,M,2,B,31.75,0
+GILD,Gilead Sciences Inc,2243,795000,M,2,S,72.88,0
+GOOG,Alphabet Class C,1244,928000,M,1,S,795.95,0
+GOOGL,Alphabet Class A,1145,440000,M,1,B,816.21,0
+HSIC,Henry Schein Inc,3246,738000,M,3,S,159.75,0
+ILMN,Illumina Inc,1247,522000,M,1,S,161.99,0
+INCY,Incyte Corp,3148,860000,M,3,B,124.34,0
+INTC,Intel Corp,2149,985000,M,2,B,36.44,0
+INTU,Intuit Inc,1250,837000,M,1,S,117.72,0
+ISRG,Intuitive Surgical Inc,2251,513000,M,2,S,697.06,0
+AAL,American Airlines Group Inc,2201,141000,M,2,S,44.04,0
+AAPL,Apple Inc,3202,686000,M,3,S,129.15,0
+ADBE,Adobe Systems Inc,3103,752000,M,3,B,113.48,0
+ADI,Analog Devices Inc,2204,487000,M,2,S,76.26,0
+ADP,Automatic Data Processing Inc,1105,651000,M,1,B,95.24,0
+ADSK,Autodesk Inc,1206,273000,M,1,S,81.39,0
+AKAM,Akamai Technologies Inc,2107,873000,M,2,B,68.87,100
+ALXN,Alexion Pharmaceuticals Inc,2208,435000,M,2,S,132.35,50
+AMAT,Applied Materials Inc,2109,691000,M,2,B,35.03,100
+AMGN,Amgen Inc,3210,860000,M,3,S,159.7,0
+AMZN,Amazon.com Inc,2211,479000,M,2,S,832.32,50
+ATVI,Activision Blizzard Inc,3212,738000,M,3,S,40.57,0
+AVGO,Broadcom Ltd,2113,647000,M,2,B,203.57,0
+BBBY,Bed Bath & Beyond Inc,1214,766000,M,1,S,40.02,0
+BIDU,Baidu Inc,2215,708000,M,2,S,173.97,0
+BIIB,Biogen Inc,1216,463000,M,1,S,289.01,0
+BMRN,Biomarin Pharmaceutical Inc,1117,641000,M,1,B,88.65,0
+CA,CA Inc,3118,348000,M,3,B,31.09,50
+CELG,Celgene Corp,1219,821000,M,1,S,117.53,0
+CERN,Cerner Corp,1120,879000,M,1,B,53.97,0
+CHKP,Check Point Software Technologies Ltd,3121,144000,M,3,B,97.94,0
+CHTR,Charter Communications Inc,3122,375000,M,3,B,326.93,100
+CMCSA,Comcast Corp,1223,630000,M,1,S,81.78,0
+COST,Costco Wholesale Corp,1124,325000,M,1,B,161.93,0
+CSCO,Cisco Systems Inc,1125,327000,M,1,B,30.54,0
+CSX,CSX Corp,3226,409000,M,3,S,47.54,100
+CTRP,Ctrip.Com International Ltd,2127,920000,M,2,B,42.88,0
+CTSH,Cognizant Technology Solutions Corp,3128,942000,M,3,B,52.58,50
+CTXS,Citrix Systems Inc,3129,869000,M,3,B,71.24,0
+DISCA,Discovery Communications Inc,1230,723000,M,1,S,37.26,0
+DISCK,Discovery Communications Inc,1231,138000,M,1,S,27.62,0
+DISH,DISH Network Corp,1132,412000,M,1,B,71.31,0
+DLTR,Dollar Tree Inc,3233,637000,M,3,S,76.56,0
+EA,Electronic Arts,3234,259000,M,3,S,83.28,0
+EBAY,eBay Inc,2135,987000,M,2,B,32,0
+ESRX,Express Scripts Holding Co,2236,935000,M,2,S,69.14,50
+EXPE,Expedia Inc,1237,910000,M,1,S,120.95,100
+FAST,Fastenal Co,3238,303000,M,3,S,49.78,0
+FB,Facebook,1139,823000,M,1,B,133.23,100
+FISV,Fiserv Inc,3240,184000,M,3,S,105.4,0
+FOX,21st Century Fox Class B,2241,914000,M,2,S,31.6,100
+FOXA,21st Century Fox Class A,1142,782000,M,1,B,31.76,0
+GILD,Gilead Sciences Inc,2143,361000,M,2,B,72.78,0
+GOOG,Alphabet Class C,2144,716000,M,2,B,795.75,0
+GOOGL,Alphabet Class A,1245,375000,M,1,S,815.23,0
+HSIC,Henry Schein Inc,1146,688000,M,1,B,159.76,100
+ILMN,Illumina Inc,1147,721000,M,1,B,161.89,0
+INCY,Incyte Corp,1148,572000,M,1,B,124.32,0
+INTC,Intel Corp,1249,239000,M,1,S,36.48,0
+INTU,Intuit Inc,2150,697000,M,2,B,117.6,0
+ISRG,Intuitive Surgical Inc,3151,415000,M,3,B,697.09,0
+AAL,American Airlines Group Inc,1101,920000,M,1,B,43.99,100
+AAPL,Apple Inc,1202,120000,M,1,S,129.19,0
+ADBE,Adobe Systems Inc,1103,668000,M,1,B,113.53,0
+ADI,Analog Devices Inc,1104,835000,M,1,B,76.24,0
+ADP,Automatic Data Processing Inc,2205,588000,M,2,S,95.26,0
+ADSK,Autodesk Inc,3106,247000,M,3,B,81.18,0
+AKAM,Akamai Technologies Inc,1207,859000,M,1,S,75.02,100
+ALXN,Alexion Pharmaceuticals Inc,3208,659000,M,3,S,136.82,0
+AMAT,Applied Materials Inc,1109,541000,M,1,B,28.04,0
+AMGN,Amgen Inc,3110,212000,M,3,B,159.63,100
+AMZN,Amazon.com Inc,3111,374000,M,3,B,829.23,0
+ATVI,Activision Blizzard Inc,1112,937000,M,1,B,40.5,50
+AVGO,Broadcom Ltd,3113,194000,M,3,B,203.61,0
+BBBY,Bed Bath & Beyond Inc,3214,713000,M,3,S,39.97,0
+BIDU,Baidu Inc,2115,392000,M,2,B,173.92,0
+BIIB,Biogen Inc,3216,780000,M,3,S,282.05,0
+BMRN,Biomarin Pharmaceutical Inc,3217,623000,M,3,S,88.81,0
+CA,CA Inc,3218,710000,M,3,S,34.65,100
+CELG,Celgene Corp,3119,605000,M,3,B,117.32,0
+CERN,Cerner Corp,2120,176000,M,2,B,53.92,50
+CHKP,Check Point Software Technologies Ltd,1221,443000,M,1,S,98.17,0
+CHTR,Charter Communications Inc,3222,231000,M,3,S,317.05,0
+CMCSA,Comcast Corp,3123,907000,M,3,B,75.76,0
+COST,Costco Wholesale Corp,3124,161000,M,3,B,161.89,100
+CSCO,Cisco Systems Inc,3125,819000,M,3,B,30.54,0
+CSX,CSX Corp,1126,887000,M,1,B,38.39,100
+CTRP,Ctrip.Com International Ltd,2127,330000,M,2,B,42.92,100
+CTSH,Cognizant Technology Solutions Corp,3228,559000,M,3,S,49.18,0
+CTXS,Citrix Systems Inc,1229,615000,M,1,S,71.25,0
+DISCA,Discovery Communications Inc,3230,195000,M,3,S,28.12,0
+DISCK,Discovery Communications Inc,2231,606000,M,2,S,27.47,0
+DISH,DISH Network Corp,1132,745000,M,1,B,61.28,0
+DLTR,Dollar Tree Inc,1233,184000,M,1,S,76.49,0
+EA,Electronic Arts,2134,567000,M,2,B,83.11,0
+EBAY,eBay Inc,1235,997000,M,1,S,32.06,50
+ESRX,Express Scripts Holding Co,2136,147000,M,2,B,70.06,0
+EXPE,Expedia Inc,2137,647000,M,2,B,114.9,0
+FAST,Fastenal Co,2238,924000,M,2,S,49.82,0
+FB,Facebook,1239,168000,M,1,S,133.22,50
+FISV,Fiserv Inc,1240,134000,M,1,S,105.5,100
+FOX,21st Century Fox Class B,1141,609000,M,1,B,24.42,0
+FOXA,21st Century Fox Class A,1142,112000,M,1,B,31.75,0
+GILD,Gilead Sciences Inc,2143,193000,M,2,B,72.77,100
+GOOG,Alphabet Class C,2244,547000,M,2,S,795.78,100
+GOOGL,Alphabet Class A,1145,210000,M,1,B,815.22,0
+HSIC,Henry Schein Inc,3246,510000,M,3,S,160.87,0
+ILMN,Illumina Inc,3247,557000,M,3,S,162.02,0
+INCY,Incyte Corp,2148,795000,M,2,B,124.3,0
+INTC,Intel Corp,3249,661000,M,3,S,36.41,0
+INTU,Intuit Inc,1250,840000,M,1,S,117.79,0
+ISRG,Intuitive Surgical Inc,3251,606000,M,3,S,697.13,100
+AAL,American Airlines Group Inc,2101,876000,M,2,B,36.98,50
+AAPL,Apple Inc,3102,404000,M,3,B,129.05,100
+ADBE,Adobe Systems Inc,2203,959000,M,2,S,113.69,50
+ADI,Analog Devices Inc,2104,515000,M,2,B,76.28,0
+ADP,Automatic Data Processing Inc,1105,314000,M,1,B,95.26,0
+ADSK,Autodesk Inc,1106,586000,M,1,B,81.15,0
+AKAM,Akamai Technologies Inc,1207,757000,M,1,S,74.99,0
+ALXN,Alexion Pharmaceuticals Inc,1208,614000,M,1,S,132.29,0
+AMAT,Applied Materials Inc,3209,846000,M,3,S,35.2,0
+AMGN,Amgen Inc,1110,926000,M,1,B,160.63,0
+AMZN,Amazon.com Inc,2111,769000,M,2,B,832.19,0
+ATVI,Activision Blizzard Inc,2212,948000,M,2,S,36.1,0
+AVGO,Broadcom Ltd,1113,806000,M,1,B,203.57,50
+BBBY,Bed Bath & Beyond Inc,2114,140000,M,2,B,39.84,0
+BIDU,Baidu Inc,2215,655000,M,2,S,174.06,50
+BIIB,Biogen Inc,2216,620000,M,2,S,281.97,0
+BMRN,Biomarin Pharmaceutical Inc,1217,553000,M,1,S,88.79,0
+CA,CA Inc,3218,855000,M,3,S,38.16,0
+CELG,Celgene Corp,3119,616000,M,3,B,117.3,0
+CERN,Cerner Corp,2220,512000,M,2,S,57.99,0
+CHKP,Check Point Software Technologies Ltd,3121,865000,M,3,B,98.03,100
+CHTR,Charter Communications Inc,1122,327000,M,1,B,326.92,0
+CMCSA,Comcast Corp,1123,643000,M,1,B,75.78,0
+COST,Costco Wholesale Corp,1224,775000,M,1,S,169.07,0
+CSCO,Cisco Systems Inc,2125,793000,M,2,B,30.57,0
+CSX,CSX Corp,3226,891000,M,3,S,38.64,0
+CTRP,Ctrip.Com International Ltd,3127,249000,M,3,B,52.94,0
+CTSH,Cognizant Technology Solutions Corp,3128,260000,M,3,B,52.55,0
+CTXS,Citrix Systems Inc,3129,880000,M,3,B,71.19,0
+DISCA,Discovery Communications Inc,3230,782000,M,3,S,28.27,0
+DISCK,Discovery Communications Inc,3131,928000,M,3,B,27.45,0
+DISH,DISH Network Corp,1132,345000,M,1,B,61.3,50
+DLTR,Dollar Tree Inc,1233,953000,M,1,S,76.59,0
+EA,Electronic Arts,3134,367000,M,3,B,83.07,100
+EBAY,eBay Inc,1135,783000,M,1,B,28.09,0
+ESRX,Express Scripts Holding Co,1236,541000,M,1,S,69.12,0
+EXPE,Expedia Inc,2237,687000,M,2,S,120.93,0
+FAST,Fastenal Co,1138,851000,M,1,B,49.62,0
+FB,Facebook,2239,167000,M,2,S,133.39,0
+FISV,Fiserv Inc,2240,513000,M,2,S,99.42,0
+FOX,21st Century Fox Class B,3141,311000,M,3,B,31.43,0
+FOXA,21st Century Fox Class A,3142,814000,M,3,B,31.72,0
+GILD,Gilead Sciences Inc,1243,942000,M,1,S,78.78,0
+GOOG,Alphabet Class C,1144,571000,M,1,B,789.78,0
+GOOGL,Alphabet Class A,1145,166000,M,1,B,815.18,0
+HSIC,Henry Schein Inc,2246,994000,M,2,S,159.92,50
+ILMN,Illumina Inc,3247,128000,M,3,S,162.08,0
+INCY,Incyte Corp,2148,687000,M,2,B,124.27,0
+INTC,Intel Corp,1249,764000,M,1,S,36.44,0
+INTU,Intuit Inc,2150,364000,M,2,B,117.67,0
+ISRG,Intuitive Surgical Inc,1151,308000,M,1,B,694.08,0
+AAL,American Airlines Group Inc,3101,441000,M,3,B,40.48,0
+AAPL,Apple Inc,2102,400000,M,2,B,121.06,50
+ADBE,Adobe Systems Inc,2203,513000,M,2,S,110.1,100
+ADI,Analog Devices Inc,2204,874000,M,2,S,76.43,0
+ADP,Automatic Data Processing Inc,2205,761000,M,2,S,95.34,50
+ADSK,Autodesk Inc,2106,657000,M,2,B,81.18,0
+AKAM,Akamai Technologies Inc,2207,236000,M,2,S,69.02,0
+ALXN,Alexion Pharmaceuticals Inc,1108,653000,M,1,B,132.18,0
+AMAT,Applied Materials Inc,1209,657000,M,1,S,35.18,0
+AMGN,Amgen Inc,1110,333000,M,1,B,159.6,50
+AMZN,Amazon.com Inc,3111,711000,M,3,B,832.19,0
+ATVI,Activision Blizzard Inc,1112,817000,M,1,B,40.53,0
+AVGO,Broadcom Ltd,1213,373000,M,1,S,208.7,100
+BBBY,Bed Bath & Beyond Inc,3214,826000,M,3,S,39.94,0
+BIDU,Baidu Inc,3115,177000,M,3,B,172.85,100
+BIIB,Biogen Inc,3216,905000,M,3,S,282.1,0
+BMRN,Biomarin Pharmaceutical Inc,1217,611000,M,1,S,88.7,0
+CA,CA Inc,2118,570000,M,2,B,31.12,0
+CELG,Celgene Corp,2119,308000,M,2,B,117.34,0
+CERN,Cerner Corp,3220,202000,M,3,S,54.08,0
+CHKP,Check Point Software Technologies Ltd,2121,583000,M,2,B,101.03,50
+CHTR,Charter Communications Inc,3222,671000,M,3,S,326.94,50
+CMCSA,Comcast Corp,3223,465000,M,3,S,75.88,0
+COST,Costco Wholesale Corp,2124,334000,M,2,B,161.96,0
+CSCO,Cisco Systems Inc,2125,361000,M,2,B,30.61,0
+CSX,CSX Corp,2226,684000,M,2,S,47.57,100
+CTRP,Ctrip.Com International Ltd,2227,580000,M,2,S,42.98,0
+CTSH,Cognizant Technology Solutions Corp,2128,424000,M,2,B,52.58,0
+CTXS,Citrix Systems Inc,3129,638000,M,3,B,71.24,0
+DISCA,Discovery Communications Inc,1230,848000,M,1,S,28.21,0
+DISCK,Discovery Communications Inc,1231,513000,M,1,S,27.52,0
+DISH,DISH Network Corp,2132,180000,M,2,B,66.3,0
+DLTR,Dollar Tree Inc,3133,618000,M,3,B,76.53,0
+EA,Electronic Arts,2134,350000,M,2,B,86.07,100
+EBAY,eBay Inc,2235,366000,M,2,S,32.14,0
+ESRX,Express Scripts Holding Co,1136,279000,M,1,B,69.07,0
+EXPE,Expedia Inc,3237,714000,M,3,S,120.89,0
+FAST,Fastenal Co,2138,956000,M,2,B,49.66,0
+FB,Facebook,2239,125000,M,2,S,133.45,0
+FISV,Fiserv Inc,1140,562000,M,1,B,105.34,100
+FOX,21st Century Fox Class B,3241,489000,M,3,S,31.52,0
+FOXA,21st Century Fox Class A,3142,902000,M,3,B,31.69,0
+GILD,Gilead Sciences Inc,2143,809000,M,2,B,72.79,0
+GOOG,Alphabet Class C,3144,505000,M,3,B,795.75,100
+GOOGL,Alphabet Class A,2145,816000,M,2,B,815.23,0
+HSIC,Henry Schein Inc,2146,203000,M,2,B,160.32,0
+ILMN,Illumina Inc,1147,262000,M,1,B,161.9,0
+INCY,Incyte Corp,2148,146000,M,2,B,124.3,50
+INTC,Intel Corp,3149,633000,M,3,B,36.4,100
+INTU,Intuit Inc,1250,497000,M,1,S,117.68,50
+ISRG,Intuitive Surgical Inc,3251,813000,M,3,S,697.09,0
+AAL,American Airlines Group Inc,2101,841000,M,2,B,44,0
+AAPL,Apple Inc,3102,698000,M,3,B,125.07,0
+ADBE,Adobe Systems Inc,2203,173000,M,2,S,106.66,0
+ADI,Analog Devices Inc,3104,828000,M,3,B,76.3,0
+ADP,Automatic Data Processing Inc,2205,841000,M,2,S,99.78,0
+ADSK,Autodesk Inc,2206,370000,M,2,S,81.26,0
+AKAM,Akamai Technologies Inc,3107,999000,M,3,B,68.87,0
+ALXN,Alexion Pharmaceuticals Inc,3208,646000,M,3,S,132.41,0
+AMAT,Applied Materials Inc,1109,251000,M,1,B,35.08,0
+AMGN,Amgen Inc,2210,992000,M,2,S,160.09,100
+AMZN,Amazon.com Inc,2111,859000,M,2,B,832.17,0
+ATVI,Activision Blizzard Inc,3112,880000,M,3,B,40.56,50
+AVGO,Broadcom Ltd,3213,557000,M,3,S,213.68,50
+BBBY,Bed Bath & Beyond Inc,1214,461000,M,1,S,40,0
+BIDU,Baidu Inc,2115,583000,M,2,B,171.82,0
+BIIB,Biogen Inc,3116,435000,M,3,B,281.91,0
+BMRN,Biomarin Pharmaceutical Inc,3117,815000,M,3,B,88.72,0
+CA,CA Inc,3118,174000,M,3,B,31.16,0
+CELG,Celgene Corp,1219,956000,M,1,S,117.54,0
+CERN,Cerner Corp,3220,920000,M,3,S,54.09,0
+CHKP,Check Point Software Technologies Ltd,1121,763000,M,1,B,99.58,0
+CHTR,Charter Communications Inc,1222,159000,M,1,S,321.96,0
+CMCSA,Comcast Corp,2223,818000,M,2,S,75.86,50
+COST,Costco Wholesale Corp,3124,255000,M,3,B,161.99,0
+CSCO,Cisco Systems Inc,3225,811000,M,3,S,30.73,0
+CSX,CSX Corp,3126,763000,M,3,B,38.42,0
+CTRP,Ctrip.Com International Ltd,1227,613000,M,1,S,43.06,50
+CTSH,Cognizant Technology Solutions Corp,2228,398000,M,2,S,52.64,100
+CTXS,Citrix Systems Inc,2129,795000,M,2,B,71.23,0
+DISCA,Discovery Communications Inc,1130,938000,M,1,B,28.14,0
+DISCK,Discovery Communications Inc,1131,589000,M,1,B,27.44,0
+DISH,DISH Network Corp,2232,869000,M,2,S,61.5,0
+DLTR,Dollar Tree Inc,1233,861000,M,1,S,76.57,0
+EA,Electronic Arts,2234,591000,M,2,S,86.06,0
+EBAY,eBay Inc,3135,526000,M,3,B,32.06,100
+ESRX,Express Scripts Holding Co,2236,238000,M,2,S,69.14,0
+EXPE,Expedia Inc,2137,819000,M,2,B,120.91,0
+FAST,Fastenal Co,1138,877000,M,1,B,49.69,0
+FB,Facebook,1239,261000,M,1,S,133.39,0
+FISV,Fiserv Inc,2140,933000,M,2,B,99.39,0
+FOX,21st Century Fox Class B,3141,623000,M,3,B,31.47,0
+FOXA,21st Century Fox Class A,1242,226000,M,1,S,31.89,0
+GILD,Gilead Sciences Inc,3143,583000,M,3,B,72.76,0
+GOOG,Alphabet Class C,1244,991000,M,1,S,789.8,100
+GOOGL,Alphabet Class A,2245,521000,M,2,S,815.4,0
+HSIC,Henry Schein Inc,3146,359000,M,3,B,159.87,0
+ILMN,Illumina Inc,3247,807000,M,3,S,162.09,0
+INCY,Incyte Corp,2248,941000,M,2,S,129.43,0
+INTC,Intel Corp,1249,852000,M,1,S,31.42,0
+INTU,Intuit Inc,1150,796000,M,1,B,121.16,0
+ISRG,Intuitive Surgical Inc,3151,348000,M,3,B,697.08,50
+AAL,American Airlines Group Inc,3101,133000,M,3,B,44.04,0
+AAPL,Apple Inc,3102,864000,M,3,B,129.04,0
+ADBE,Adobe Systems Inc,2203,978000,M,2,S,113.58,0
+ADI,Analog Devices Inc,3104,303000,M,3,B,76.35,0
+ADP,Automatic Data Processing Inc,3105,805000,M,3,B,95.24,0
+ADSK,Autodesk Inc,2106,435000,M,2,B,81.13,0
+AKAM,Akamai Technologies Inc,3207,537000,M,3,S,69.1,50
+ALXN,Alexion Pharmaceuticals Inc,2208,394000,M,2,S,132.32,0
+AMAT,Applied Materials Inc,1209,874000,M,1,S,35.28,0
+AMGN,Amgen Inc,3110,409000,M,3,B,160.59,100
+AMZN,Amazon.com Inc,3111,950000,M,3,B,832.17,50
+ATVI,Activision Blizzard Inc,1212,450000,M,1,S,36.17,0
+AVGO,Broadcom Ltd,2113,801000,M,2,B,208.57,0
+BBBY,Bed Bath & Beyond Inc,2214,930000,M,2,S,39.95,0
+BIDU,Baidu Inc,2115,563000,M,2,B,173.77,0
+BIIB,Biogen Inc,3116,201000,M,3,B,281.96,100
+BMRN,Biomarin Pharmaceutical Inc,2117,510000,M,2,B,88.76,0
+CA,CA Inc,1118,965000,M,1,B,31.14,0
+CELG,Celgene Corp,3119,511000,M,3,B,117.36,0
+CERN,Cerner Corp,3120,495000,M,3,B,53.96,0
+CHKP,Check Point Software Technologies Ltd,1121,245000,M,1,B,98.08,0
+CHTR,Charter Communications Inc,1222,181000,M,1,S,327.01,0
+CMCSA,Comcast Corp,3223,741000,M,3,S,78.95,0
+COST,Costco Wholesale Corp,3124,661000,M,3,B,161.97,50
+CSCO,Cisco Systems Inc,2225,785000,M,2,S,30.6,100
+CSX,CSX Corp,2126,208000,M,2,B,47.39,100
+CTRP,Ctrip.Com International Ltd,1127,568000,M,1,B,47.9,0
+CTSH,Cognizant Technology Solutions Corp,1228,138000,M,1,S,45.77,50
+CTXS,Citrix Systems Inc,1129,821000,M,1,B,71.24,0
+DISCA,Discovery Communications Inc,3130,687000,M,3,B,28.1,0
+DISCK,Discovery Communications Inc,1231,536000,M,1,S,27.56,50
+DISH,DISH Network Corp,2132,143000,M,2,B,61.27,0
+DLTR,Dollar Tree Inc,2233,175000,M,2,S,76.7,0
+EA,Electronic Arts,2134,332000,M,2,B,83.03,50
+EBAY,eBay Inc,1135,203000,M,1,B,24.05,0
+ESRX,Express Scripts Holding Co,2236,767000,M,2,S,69.29,100
+EXPE,Expedia Inc,3137,734000,M,3,B,120.94,50
+FAST,Fastenal Co,2238,415000,M,2,S,49.76,0
+FB,Facebook,2139,125000,M,2,B,133.35,0
+FISV,Fiserv Inc,2140,742000,M,2,B,105.37,0
+FOX,21st Century Fox Class B,2141,395000,M,2,B,31.44,0
+FOXA,21st Century Fox Class A,1242,852000,M,1,S,31.8,0
+GILD,Gilead Sciences Inc,2143,946000,M,2,B,72.77,0
+GOOG,Alphabet Class C,3144,475000,M,3,B,789.74,0
+GOOGL,Alphabet Class A,2245,897000,M,2,S,815.36,0
+HSIC,Henry Schein Inc,1246,614000,M,1,S,159.96,0
+ILMN,Illumina Inc,1247,220000,M,1,S,162.08,0
+INCY,Incyte Corp,1248,992000,M,1,S,124.45,0
+INTC,Intel Corp,3149,207000,M,3,B,36.34,0
+INTU,Intuit Inc,2150,985000,M,2,B,117.63,0
+ISRG,Intuitive Surgical Inc,1151,472000,M,1,B,695.56,0
+AAL,American Airlines Group Inc,1201,954000,M,1,S,44.26,0
+AAPL,Apple Inc,3202,990000,M,3,S,129.28,100
+ADBE,Adobe Systems Inc,2103,110000,M,2,B,113.52,50
+ADI,Analog Devices Inc,1204,773000,M,1,S,76.42,0
+ADP,Automatic Data Processing Inc,3205,498000,M,3,S,95.44,100
+ADSK,Autodesk Inc,2106,124000,M,2,B,81.16,50
+AKAM,Akamai Technologies Inc,3207,311000,M,3,S,72.01,0
+ALXN,Alexion Pharmaceuticals Inc,3108,837000,M,3,B,132.2,0
+AMAT,Applied Materials Inc,3209,407000,M,3,S,35.09,100
+AMGN,Amgen Inc,1110,206000,M,1,B,160.59,100
+AMZN,Amazon.com Inc,2111,508000,M,2,B,829.21,0
+ATVI,Activision Blizzard Inc,3212,542000,M,3,S,40.64,0
+AVGO,Broadcom Ltd,1113,381000,M,1,B,203.62,50
+BBBY,Bed Bath & Beyond Inc,2214,992000,M,2,S,39.94,50
+BIDU,Baidu Inc,2215,370000,M,2,S,173.89,0
+BIIB,Biogen Inc,3116,815000,M,3,B,288.96,0
+BMRN,Biomarin Pharmaceutical Inc,1217,125000,M,1,S,88.89,0
+CA,CA Inc,2218,579000,M,2,S,31.22,100
+CELG,Celgene Corp,2219,294000,M,2,S,117.49,0
+CERN,Cerner Corp,3120,983000,M,3,B,53.96,0
+CHKP,Check Point Software Technologies Ltd,1121,339000,M,1,B,98.06,0
+CHTR,Charter Communications Inc,2222,702000,M,2,S,326.95,0
+CMCSA,Comcast Corp,3223,370000,M,3,S,75.87,100
+COST,Costco Wholesale Corp,3224,328000,M,3,S,165.62,0
+CSCO,Cisco Systems Inc,2125,403000,M,2,B,37.59,0
+CSX,CSX Corp,2126,628000,M,2,B,38.43,0
+CTRP,Ctrip.Com International Ltd,3127,667000,M,3,B,42.88,0
+CTSH,Cognizant Technology Solutions Corp,2228,634000,M,2,S,49.21,0
+CTXS,Citrix Systems Inc,2229,175000,M,2,S,71.45,0
+DISCA,Discovery Communications Inc,1230,820000,M,1,S,28.27,100
+DISCK,Discovery Communications Inc,2231,487000,M,2,S,27.02,0
+DISH,DISH Network Corp,2132,185000,M,2,B,61.29,50
+DLTR,Dollar Tree Inc,3133,411000,M,3,B,76.5,0
+EA,Electronic Arts,2234,276000,M,2,S,84.56,100
+EBAY,eBay Inc,1235,291000,M,1,S,32.23,0
+ESRX,Express Scripts Holding Co,1136,269000,M,1,B,71.11,0
+EXPE,Expedia Inc,1137,539000,M,1,B,117.95,50
+FAST,Fastenal Co,1238,569000,M,1,S,49.83,0
+FB,Facebook,3239,698000,M,3,S,133.45,0
+FISV,Fiserv Inc,2140,747000,M,2,B,105.33,50
+FOX,21st Century Fox Class B,3141,477000,M,3,B,31.41,0
+FOXA,21st Century Fox Class A,3242,779000,M,3,S,31.77,0
+GILD,Gilead Sciences Inc,1243,712000,M,1,S,72.87,100
+GOOG,Alphabet Class C,1144,368000,M,1,B,795.74,50
+GOOGL,Alphabet Class A,1245,420000,M,1,S,815.34,0
+HSIC,Henry Schein Inc,1246,761000,M,1,S,160.03,100
+ILMN,Illumina Inc,3247,824000,M,3,S,162.01,0
+INCY,Incyte Corp,1248,664000,M,1,S,124.4,50
+INTC,Intel Corp,3249,459000,M,3,S,36.53,100
+INTU,Intuit Inc,3150,226000,M,3,B,117.59,0
+ISRG,Intuitive Surgical Inc,1251,144000,M,1,S,697.11,0
+AAL,American Airlines Group Inc,1101,360000,M,1,B,44.08,50
+AAPL,Apple Inc,3202,505000,M,3,S,121.21,0
+ADBE,Adobe Systems Inc,1203,897000,M,1,S,110.16,100
+ADI,Analog Devices Inc,1204,903000,M,1,S,76.54,0
+ADP,Automatic Data Processing Inc,3105,682000,M,3,B,104.34,0
+ADSK,Autodesk Inc,1106,323000,M,1,B,81.15,100
+AKAM,Akamai Technologies Inc,3207,721000,M,3,S,69.05,0
+ALXN,Alexion Pharmaceuticals Inc,2208,258000,M,2,S,132.33,100
+AMAT,Applied Materials Inc,1109,723000,M,1,B,28.07,0
+AMGN,Amgen Inc,2110,710000,M,2,B,160.61,0
+AMZN,Amazon.com Inc,1211,450000,M,1,S,832.36,0
+ATVI,Activision Blizzard Inc,1212,970000,M,1,S,40.78,50
+AVGO,Broadcom Ltd,3113,477000,M,3,B,208.6,50
+BBBY,Bed Bath & Beyond Inc,3114,157000,M,3,B,40.88,100
+BIDU,Baidu Inc,1115,693000,M,1,B,173.83,0
+BIIB,Biogen Inc,2116,110000,M,2,B,281.94,0
+BMRN,Biomarin Pharmaceutical Inc,2117,151000,M,2,B,88.77,50
+CA,CA Inc,2218,887000,M,2,S,38.31,0
+CELG,Celgene Corp,1119,587000,M,1,B,117.29,0
+CERN,Cerner Corp,1220,791000,M,1,S,54.06,0
+CHKP,Check Point Software Technologies Ltd,3121,270000,M,3,B,98.07,0
+CHTR,Charter Communications Inc,1222,995000,M,1,S,326.88,0
+CMCSA,Comcast Corp,2123,710000,M,2,B,81.85,0
+COST,Costco Wholesale Corp,3224,374000,M,3,S,162.21,0
+CSCO,Cisco Systems Inc,3125,334000,M,3,B,30.59,0
+CSX,CSX Corp,2226,971000,M,2,S,47.49,0
+CTRP,Ctrip.Com International Ltd,2227,246000,M,2,S,42.97,0
+CTSH,Cognizant Technology Solutions Corp,2228,813000,M,2,S,52.61,0
+CTXS,Citrix Systems Inc,1129,904000,M,1,B,71.25,0
+DISCA,Discovery Communications Inc,2230,463000,M,2,S,37.26,100
+DISCK,Discovery Communications Inc,1131,607000,M,1,B,27.42,50
+DISH,DISH Network Corp,3232,157000,M,3,S,66.34,50
+DLTR,Dollar Tree Inc,2133,512000,M,2,B,76.45,50
+EA,Electronic Arts,1234,410000,M,1,S,86.08,0
+EBAY,eBay Inc,3135,970000,M,3,B,32.09,50
+ESRX,Express Scripts Holding Co,3136,412000,M,3,B,69.12,100
+EXPE,Expedia Inc,1237,155000,M,1,S,118.04,100
+FAST,Fastenal Co,1138,528000,M,1,B,49.67,0
+FB,Facebook,1239,467000,M,1,S,133.41,0
+FISV,Fiserv Inc,1140,474000,M,1,B,102.3,0
+FOX,21st Century Fox Class B,2241,173000,M,2,S,31.43,0
+FOXA,21st Century Fox Class A,1242,732000,M,1,S,31.83,100
+GILD,Gilead Sciences Inc,2143,810000,M,2,B,78.8,0
+GOOG,Alphabet Class C,1144,324000,M,1,B,792.77,0
+GOOGL,Alphabet Class A,2145,478000,M,2,B,815.15,0
+HSIC,Henry Schein Inc,1246,115000,M,1,S,160.86,0
+ILMN,Illumina Inc,2147,185000,M,2,B,161.82,50
+INCY,Incyte Corp,2148,895000,M,2,B,129.31,0
+INTC,Intel Corp,2249,124000,M,2,S,31.44,0
+INTU,Intuit Inc,1250,990000,M,1,S,117.64,0
+ISRG,Intuitive Surgical Inc,3151,718000,M,3,B,697.12,0
+AAL,American Airlines Group Inc,2201,854000,M,2,S,40.73,0
+AAPL,Apple Inc,1202,215000,M,1,S,129.14,50
+ADBE,Adobe Systems Inc,1103,395000,M,1,B,106.48,0
+ADI,Analog Devices Inc,1104,406000,M,1,B,76.29,100
+ADP,Automatic Data Processing Inc,3105,999000,M,3,B,95.34,0
+ADSK,Autodesk Inc,3106,815000,M,3,B,81.16,0
+AKAM,Akamai Technologies Inc,2107,462000,M,2,B,68.88,0
+ALXN,Alexion Pharmaceuticals Inc,2108,614000,M,2,B,141.18,0
+AMAT,Applied Materials Inc,2109,493000,M,2,B,35.03,0
+AMGN,Amgen Inc,3110,868000,M,3,B,159.57,0
+AMZN,Amazon.com Inc,1211,101000,M,1,S,832.41,0
+ATVI,Activision Blizzard Inc,1212,774000,M,1,S,36.16,0
+AVGO,Broadcom Ltd,1213,377000,M,1,S,208.58,100
+BBBY,Bed Bath & Beyond Inc,3114,833000,M,3,B,41.85,0
+BIDU,Baidu Inc,3215,243000,M,3,S,173.8,0
+BIIB,Biogen Inc,1216,350000,M,1,S,282.08,50
+BMRN,Biomarin Pharmaceutical Inc,2217,763000,M,2,S,88.85,0
+CA,CA Inc,2118,150000,M,2,B,31.1,0
+CELG,Celgene Corp,3119,457000,M,3,B,117.3,100
+CERN,Cerner Corp,3120,480000,M,3,B,53.9,0
+CHKP,Check Point Software Technologies Ltd,3221,774000,M,3,S,98.22,0
+CHTR,Charter Communications Inc,2122,439000,M,2,B,326.82,0
+CMCSA,Comcast Corp,1123,250000,M,1,B,75.84,0
+COST,Costco Wholesale Corp,1124,396000,M,1,B,162.01,50
+CSCO,Cisco Systems Inc,2125,387000,M,2,B,30.6,0
+CSX,CSX Corp,1226,179000,M,1,S,47.53,0
+CTRP,Ctrip.Com International Ltd,2127,740000,M,2,B,42.97,0
+CTSH,Cognizant Technology Solutions Corp,1128,582000,M,1,B,52.61,0
+CTXS,Citrix Systems Inc,3229,605000,M,3,S,71.4,100
+DISCA,Discovery Communications Inc,3230,977000,M,3,S,37.17,0
+DISCK,Discovery Communications Inc,3231,219000,M,3,S,27.09,0
+DISH,DISH Network Corp,1232,457000,M,1,S,66.43,100
+DLTR,Dollar Tree Inc,3233,361000,M,3,S,72.13,0
+EA,Electronic Arts,2134,899000,M,2,B,83.03,100
+EBAY,eBay Inc,2135,460000,M,2,B,28.08,0
+ESRX,Express Scripts Holding Co,2136,672000,M,2,B,71.09,0
+EXPE,Expedia Inc,1237,374000,M,1,S,115.01,0
+FAST,Fastenal Co,2138,958000,M,2,B,49.64,0
+FB,Facebook,2239,399000,M,2,S,133.48,0
+FISV,Fiserv Inc,1140,386000,M,1,B,105.3,0
+FOX,21st Century Fox Class B,2141,517000,M,2,B,31.47,100
+FOXA,21st Century Fox Class A,1142,850000,M,1,B,23.8,50
+GILD,Gilead Sciences Inc,2243,924000,M,2,S,73.04,100
+GOOG,Alphabet Class C,1144,477000,M,1,B,795.75,0
+GOOGL,Alphabet Class A,2145,905000,M,2,B,815.15,0
+HSIC,Henry Schein Inc,2146,846000,M,2,B,159.8,100
+ILMN,Illumina Inc,3247,801000,M,3,S,162.78,0
+INCY,Incyte Corp,2148,497000,M,2,B,124.35,0
+INTC,Intel Corp,1149,321000,M,1,B,36.33,50
+INTU,Intuit Inc,1150,242000,M,1,B,117.64,0
+ISRG,Intuitive Surgical Inc,1151,684000,M,1,B,697.13,100
+AAL,American Airlines Group Inc,2201,369000,M,2,S,44.07,100
+AAPL,Apple Inc,2202,733000,M,2,S,125.19,100
+ADBE,Adobe Systems Inc,1203,861000,M,1,S,113.64,100
+ADI,Analog Devices Inc,3104,693000,M,3,B,73.27,50
+ADP,Automatic Data Processing Inc,1105,658000,M,1,B,95.39,0
+ADSK,Autodesk Inc,3206,633000,M,3,S,81.18,0
+AKAM,Akamai Technologies Inc,1107,772000,M,1,B,68.89,100
+ALXN,Alexion Pharmaceuticals Inc,1208,732000,M,1,S,132.32,50
+AMAT,Applied Materials Inc,1109,899000,M,1,B,35.05,100
+AMGN,Amgen Inc,1110,620000,M,1,B,159.53,0
+AMZN,Amazon.com Inc,1111,107000,M,1,B,832.28,100
+ATVI,Activision Blizzard Inc,1112,469000,M,1,B,40.62,0
+AVGO,Broadcom Ltd,3213,764000,M,3,S,213.61,0
+BBBY,Bed Bath & Beyond Inc,2214,241000,M,2,S,40.03,0
+BIDU,Baidu Inc,1115,768000,M,1,B,173.74,100
+BIIB,Biogen Inc,3116,213000,M,3,B,285.4,0
+BMRN,Biomarin Pharmaceutical Inc,3217,419000,M,3,S,88.94,0
+CA,CA Inc,2118,484000,M,2,B,31.07,0
+CELG,Celgene Corp,2219,801000,M,2,S,121.49,100
+CERN,Cerner Corp,2120,167000,M,2,B,53.85,100
+CHKP,Check Point Software Technologies Ltd,2121,903000,M,2,B,98.09,100
+CHTR,Charter Communications Inc,1122,246000,M,1,B,326.85,0
+CMCSA,Comcast Corp,2123,294000,M,2,B,75.85,0
+COST,Costco Wholesale Corp,1224,174000,M,1,S,165.62,0
+CSCO,Cisco Systems Inc,3125,597000,M,3,B,30.63,0
+CSX,CSX Corp,1226,675000,M,1,S,47.59,0
+CTRP,Ctrip.Com International Ltd,3127,986000,M,3,B,43.02,0
+CTSH,Cognizant Technology Solutions Corp,3228,654000,M,3,S,52.7,50
+CTXS,Citrix Systems Inc,1129,926000,M,1,B,64.31,0
+DISCA,Discovery Communications Inc,2230,363000,M,2,S,28.2,0
+DISCK,Discovery Communications Inc,2131,661000,M,2,B,27.41,0
+DISH,DISH Network Corp,3232,310000,M,3,S,71.41,0
+DLTR,Dollar Tree Inc,1133,349000,M,1,B,76.46,0
+EA,Electronic Arts,3134,467000,M,3,B,86.08,0
+EBAY,eBay Inc,1135,607000,M,1,B,32.09,0
+ESRX,Express Scripts Holding Co,2136,718000,M,2,B,69.09,0
+EXPE,Expedia Inc,3137,751000,M,3,B,120.84,0
+FAST,Fastenal Co,3238,708000,M,3,S,49.78,50
+FB,Facebook,2139,182000,M,2,B,133.32,50
+FISV,Fiserv Inc,2240,267000,M,2,S,105.35,0
+FOX,21st Century Fox Class B,2241,227000,M,2,S,24.5,100
+FOXA,21st Century Fox Class A,1142,955000,M,1,B,27.77,0
+GILD,Gilead Sciences Inc,3243,378000,M,3,S,78.94,0
+GOOG,Alphabet Class C,1144,165000,M,1,B,795.78,0
+GOOGL,Alphabet Class A,3145,402000,M,3,B,815.15,0
+HSIC,Henry Schein Inc,2246,493000,M,2,S,160.85,100
+ILMN,Illumina Inc,3247,480000,M,3,S,161.83,0
+INCY,Incyte Corp,1148,503000,M,1,B,124.37,0
+INTC,Intel Corp,2149,604000,M,2,B,33.81,0
+INTU,Intuit Inc,1250,946000,M,1,S,117.66,100
+ISRG,Intuitive Surgical Inc,2151,782000,M,2,B,694.17,0
+AAL,American Airlines Group Inc,2101,186000,M,2,B,37.09,0
+AAPL,Apple Inc,2102,993000,M,2,B,121.05,0
+ADBE,Adobe Systems Inc,2203,892000,M,2,S,106.49,0
+ADI,Analog Devices Inc,2204,299000,M,2,S,74.78,0
+ADP,Automatic Data Processing Inc,2105,318000,M,2,B,95.35,0
+ADSK,Autodesk Inc,3206,781000,M,3,S,81.25,0
+AKAM,Akamai Technologies Inc,2207,976000,M,2,S,74.99,0
+ALXN,Alexion Pharmaceuticals Inc,3108,218000,M,3,B,136.68,100
+AMAT,Applied Materials Inc,2109,431000,M,2,B,28.01,50
+AMGN,Amgen Inc,1210,458000,M,1,S,159.59,50
+AMZN,Amazon.com Inc,2111,504000,M,2,B,826.32,0
+ATVI,Activision Blizzard Inc,1212,283000,M,1,S,40.6,0
+AVGO,Broadcom Ltd,3113,614000,M,3,B,203.56,0
+BBBY,Bed Bath & Beyond Inc,3214,545000,M,3,S,40.05,0
+BIDU,Baidu Inc,2115,213000,M,2,B,171.76,0
+BIIB,Biogen Inc,1216,334000,M,1,S,282.07,0
+BMRN,Biomarin Pharmaceutical Inc,3217,323000,M,3,S,88.91,50
+CA,CA Inc,1218,264000,M,1,S,31.2,0
+CELG,Celgene Corp,2119,373000,M,2,B,121.29,0
+CERN,Cerner Corp,3120,857000,M,3,B,61.81,0
+CHKP,Check Point Software Technologies Ltd,2221,642000,M,2,S,101.19,0
+CHTR,Charter Communications Inc,1222,293000,M,1,S,326.93,0
+CMCSA,Comcast Corp,3123,378000,M,3,B,75.8,100
+COST,Costco Wholesale Corp,3224,566000,M,3,S,162,50
+CSCO,Cisco Systems Inc,1125,999000,M,1,B,30.62,100
+CSX,CSX Corp,1226,191000,M,1,S,47.53,0
+CTRP,Ctrip.Com International Ltd,2227,215000,M,2,S,43.21,0
+CTSH,Cognizant Technology Solutions Corp,3228,863000,M,3,S,49.28,50
+CTXS,Citrix Systems Inc,1229,627000,M,1,S,71.43,50
+DISCA,Discovery Communications Inc,3130,907000,M,3,B,28.13,100
+DISCK,Discovery Communications Inc,2231,253000,M,2,S,27.56,0
+DISH,DISH Network Corp,3232,401000,M,3,S,61.42,0
+DLTR,Dollar Tree Inc,1133,519000,M,1,B,76.51,0
+EA,Electronic Arts,2134,156000,M,2,B,83.09,0
+EBAY,eBay Inc,3135,254000,M,3,B,32.11,0
+ESRX,Express Scripts Holding Co,3236,678000,M,3,S,69.33,100
+EXPE,Expedia Inc,2237,717000,M,2,S,120.88,100
+FAST,Fastenal Co,1238,234000,M,1,S,52.72,100
+FB,Facebook,2239,193000,M,2,S,133.49,0
+FISV,Fiserv Inc,2240,565000,M,2,S,105.42,100
+FOX,21st Century Fox Class B,2141,262000,M,2,B,24.48,0
+FOXA,21st Century Fox Class A,3142,837000,M,3,B,31.82,0
+GILD,Gilead Sciences Inc,2243,835000,M,2,S,72.99,100
+GOOG,Alphabet Class C,3144,157000,M,3,B,795.82,50
+GOOGL,Alphabet Class A,1145,561000,M,1,B,815.18,50
+HSIC,Henry Schein Inc,1146,592000,M,1,B,160.86,0
+ILMN,Illumina Inc,1147,144000,M,1,B,161.81,0
+INCY,Incyte Corp,2148,613000,M,2,B,124.4,0
+INTC,Intel Corp,1249,764000,M,1,S,36.31,0
+INTU,Intuit Inc,1250,207000,M,1,S,124.79,0
+ISRG,Intuitive Surgical Inc,1251,945000,M,1,S,697.28,0
+AAL,American Airlines Group Inc,1101,455000,M,1,B,44.1,0
+AAPL,Apple Inc,3102,496000,M,3,B,129.04,0
+ADBE,Adobe Systems Inc,3203,298000,M,3,S,113.54,0
+ADI,Analog Devices Inc,2204,284000,M,2,S,76.31,0
+ADP,Automatic Data Processing Inc,3105,961000,M,3,B,95.35,0
+ADSK,Autodesk Inc,1106,261000,M,1,B,81.1,0
+AKAM,Akamai Technologies Inc,2107,572000,M,2,B,68.81,0
+ALXN,Alexion Pharmaceuticals Inc,2208,129000,M,2,S,141.22,0
+AMAT,Applied Materials Inc,2109,581000,M,2,B,31.55,50
+AMGN,Amgen Inc,3210,702000,M,3,S,160.2,0
+AMZN,Amazon.com Inc,3111,859000,M,3,B,832.34,0
+ATVI,Activision Blizzard Inc,3212,607000,M,3,S,40.75,50
+AVGO,Broadcom Ltd,2213,675000,M,2,S,203.6,100
+BBBY,Bed Bath & Beyond Inc,3214,654000,M,3,S,40.1,0
+BIDU,Baidu Inc,2115,673000,M,2,B,173.79,0
+BIIB,Biogen Inc,2216,195000,M,2,S,281.91,0
+BMRN,Biomarin Pharmaceutical Inc,2217,793000,M,2,S,88.8,0
+CA,CA Inc,2218,168000,M,2,S,31.11,0
+CELG,Celgene Corp,1219,574000,M,1,S,117.35,0
+CERN,Cerner Corp,3120,766000,M,3,B,53.82,0
+CHKP,Check Point Software Technologies Ltd,3121,168000,M,3,B,98.06,0
+CHTR,Charter Communications Inc,1222,908000,M,1,S,327.06,0
+CMCSA,Comcast Corp,1223,468000,M,1,S,82,0
+COST,Costco Wholesale Corp,1224,244000,M,1,S,165.46,0
+CSCO,Cisco Systems Inc,3225,536000,M,3,S,37.8,0
+CSX,CSX Corp,1126,469000,M,1,B,47.44,0
+CTRP,Ctrip.Com International Ltd,3127,765000,M,3,B,43.09,50
+CTSH,Cognizant Technology Solutions Corp,1128,847000,M,1,B,49.12,100
+CTXS,Citrix Systems Inc,1229,155000,M,1,S,67.77,0
+DISCA,Discovery Communications Inc,3130,323000,M,3,B,37.17,0
+DISCK,Discovery Communications Inc,1131,149000,M,1,B,27.42,0
+DISH,DISH Network Corp,3232,579000,M,3,S,61.37,0
+DLTR,Dollar Tree Inc,2233,417000,M,2,S,76.57,0
+EA,Electronic Arts,2134,737000,M,2,B,83.07,0
+EBAY,eBay Inc,2135,866000,M,2,B,32.16,0
+ESRX,Express Scripts Holding Co,1236,113000,M,1,S,71.17,0
+EXPE,Expedia Inc,2137,279000,M,2,B,114.88,0
+FAST,Fastenal Co,1238,235000,M,1,S,55.82,0
+FB,Facebook,1239,341000,M,1,S,133.39,0
+FISV,Fiserv Inc,1240,318000,M,1,S,99.44,0
+FOX,21st Century Fox Class B,1141,490000,M,1,B,31.47,100
+FOXA,21st Century Fox Class A,2142,887000,M,2,B,31.84,100
+GILD,Gilead Sciences Inc,2243,964000,M,2,S,78.9,0
+GOOG,Alphabet Class C,3144,899000,M,3,B,792.8,0
+GOOGL,Alphabet Class A,2145,830000,M,2,B,815.68,100
+HSIC,Henry Schein Inc,1146,816000,M,1,B,159.88,0
+ILMN,Illumina Inc,2147,792000,M,2,B,161.76,0
+INCY,Incyte Corp,2248,732000,M,2,S,124.57,100
+INTC,Intel Corp,3149,101000,M,3,B,36.25,0
+INTU,Intuit Inc,1150,984000,M,1,B,117.64,0
+ISRG,Intuitive Surgical Inc,3151,811000,M,3,B,697.22,50
+AAL,American Airlines Group Inc,1201,338000,M,1,S,44.27,0
+AAPL,Apple Inc,1102,984000,M,1,B,129.04,0
+ADBE,Adobe Systems Inc,1103,964000,M,1,B,113.39,50
+ADI,Analog Devices Inc,2204,512000,M,2,S,76.36,100
+ADP,Automatic Data Processing Inc,2105,143000,M,2,B,95.34,100
+ADSK,Autodesk Inc,1206,474000,M,1,S,81.32,100
+AKAM,Akamai Technologies Inc,2207,186000,M,2,S,68.84,0
+ALXN,Alexion Pharmaceuticals Inc,1208,895000,M,1,S,132.27,0
+AMAT,Applied Materials Inc,1209,408000,M,1,S,31.54,50
+AMGN,Amgen Inc,2210,137000,M,2,S,159.7,50
+AMZN,Amazon.com Inc,3211,604000,M,3,S,832.48,0
+ATVI,Activision Blizzard Inc,3212,153000,M,3,S,36.09,0
+AVGO,Broadcom Ltd,2113,211000,M,2,B,213.62,0
+BBBY,Bed Bath & Beyond Inc,3214,311000,M,3,S,39.93,0
+BIDU,Baidu Inc,3115,100000,M,3,B,173.75,0
+BIIB,Biogen Inc,3216,125000,M,3,S,281.91,0
+BMRN,Biomarin Pharmaceutical Inc,1217,975000,M,1,S,88.87,100
+CA,CA Inc,1218,883000,M,1,S,31.1,0
+CELG,Celgene Corp,3219,422000,M,3,S,117.22,0
+CERN,Cerner Corp,1120,233000,M,1,B,53.83,0
+CHKP,Check Point Software Technologies Ltd,1121,175000,M,1,B,98.04,0
+CHTR,Charter Communications Inc,3222,473000,M,3,S,327.08,0
+CMCSA,Comcast Corp,1123,253000,M,1,B,75.75,0
+COST,Costco Wholesale Corp,3224,579000,M,3,S,161.97,50
+CSCO,Cisco Systems Inc,3125,648000,M,3,B,30.67,100
+CSX,CSX Corp,2126,451000,M,2,B,47.48,0
+CTRP,Ctrip.Com International Ltd,1127,204000,M,1,B,48.05,0
+CTSH,Cognizant Technology Solutions Corp,1128,382000,M,1,B,45.62,0
+CTXS,Citrix Systems Inc,3129,994000,M,3,B,71.27,0
+DISCA,Discovery Communications Inc,1130,578000,M,1,B,28.16,0
+DISCK,Discovery Communications Inc,2231,452000,M,2,S,27.57,50
+DISH,DISH Network Corp,2132,104000,M,2,B,61.32,0
+DLTR,Dollar Tree Inc,2133,139000,M,2,B,76.49,50
+EA,Electronic Arts,1234,413000,M,1,S,83.15,0
+EBAY,eBay Inc,2135,387000,M,2,B,32.21,0
+ESRX,Express Scripts Holding Co,2136,307000,M,2,B,69.09,100
+EXPE,Expedia Inc,2137,387000,M,2,B,120.86,50
+FAST,Fastenal Co,2138,762000,M,2,B,49.7,0
+FB,Facebook,3139,522000,M,3,B,133.37,0
+FISV,Fiserv Inc,2140,827000,M,2,B,105.26,0
+FOX,21st Century Fox Class B,3141,112000,M,3,B,24.45,0
+FOXA,21st Century Fox Class A,2242,472000,M,2,S,23.94,50
+GILD,Gilead Sciences Inc,1143,550000,M,1,B,72.87,0
+GOOG,Alphabet Class C,2244,795000,M,2,S,795.91,0
+GOOGL,Alphabet Class A,2145,771000,M,2,B,816.16,50
+HSIC,Henry Schein Inc,3146,937000,M,3,B,159.86,0
+ILMN,Illumina Inc,1247,442000,M,1,S,161.84,50
+INCY,Incyte Corp,2248,914000,M,2,S,134.56,100
+INTC,Intel Corp,2249,242000,M,2,S,36.44,0
+INTU,Intuit Inc,1150,422000,M,1,B,117.6,50
+ISRG,Intuitive Surgical Inc,2151,124000,M,2,B,695.74,0
+AAL,American Airlines Group Inc,2101,725000,M,2,B,44.18,100
+AAPL,Apple Inc,3202,805000,M,3,S,129.17,0
+ADBE,Adobe Systems Inc,1103,231000,M,1,B,109.94,0
+ADI,Analog Devices Inc,1104,432000,M,1,B,73.18,100
+ADP,Automatic Data Processing Inc,2105,463000,M,2,B,104.3,0
+ADSK,Autodesk Inc,2106,402000,M,2,B,81.17,0
+AKAM,Akamai Technologies Inc,1207,345000,M,1,S,68.84,0
+ALXN,Alexion Pharmaceuticals Inc,2108,175000,M,2,B,132.26,0
+AMAT,Applied Materials Inc,3109,173000,M,3,B,31.51,0
+AMGN,Amgen Inc,1210,959000,M,1,S,160.17,0
+AMZN,Amazon.com Inc,3211,951000,M,3,S,832.39,0
+ATVI,Activision Blizzard Inc,1212,241000,M,1,S,40.62,50
+AVGO,Broadcom Ltd,2113,293000,M,2,B,203.66,0
+BBBY,Bed Bath & Beyond Inc,2214,963000,M,2,S,40.1,0
+BIDU,Baidu Inc,1115,603000,M,1,B,173.75,0
+BIIB,Biogen Inc,1116,202000,M,1,B,281.87,0
+BMRN,Biomarin Pharmaceutical Inc,2117,903000,M,2,B,88.87,0
+CA,CA Inc,2218,215000,M,2,S,31.1,0
+CELG,Celgene Corp,2119,764000,M,2,B,117.2,0
+CERN,Cerner Corp,1120,277000,M,1,B,53.83,100
+CHKP,Check Point Software Technologies Ltd,3221,852000,M,3,S,98.21,0
+CHTR,Charter Communications Inc,1122,147000,M,1,B,326.98,0
+CMCSA,Comcast Corp,1223,996000,M,1,S,75.83,0
+COST,Costco Wholesale Corp,1224,116000,M,1,S,165.51,0
+CSCO,Cisco Systems Inc,2225,729000,M,2,S,37.72,0
+CSX,CSX Corp,2226,905000,M,2,S,47.47,0
+CTRP,Ctrip.Com International Ltd,2227,613000,M,2,S,43.27,100
+CTSH,Cognizant Technology Solutions Corp,3228,666000,M,3,S,52.72,0
+CTXS,Citrix Systems Inc,3229,271000,M,3,S,71.33,50
+DISCA,Discovery Communications Inc,2230,566000,M,2,S,28.34,50
+DISCK,Discovery Communications Inc,2131,840000,M,2,B,26.92,0
+DISH,DISH Network Corp,1232,387000,M,1,S,61.46,0
+DLTR,Dollar Tree Inc,2233,337000,M,2,S,72.07,0
+EA,Electronic Arts,3234,265000,M,3,S,83.22,0
+EBAY,eBay Inc,2135,731000,M,2,B,32.22,0
+ESRX,Express Scripts Holding Co,1136,890000,M,1,B,71.04,100
+EXPE,Expedia Inc,1237,467000,M,1,S,118.05,0
+FAST,Fastenal Co,3138,991000,M,3,B,49.74,0
+FB,Facebook,2239,779000,M,2,S,133.43,50
+FISV,Fiserv Inc,3240,344000,M,3,S,105.29,0
+FOX,21st Century Fox Class B,2241,498000,M,2,S,31.54,0
+FOXA,21st Century Fox Class A,1242,909000,M,1,S,27.93,0
+GILD,Gilead Sciences Inc,3243,454000,M,3,S,73.03,0
+GOOG,Alphabet Class C,2144,275000,M,2,B,795.83,0
+GOOGL,Alphabet Class A,1145,367000,M,1,B,815.64,0
+HSIC,Henry Schein Inc,3146,536000,M,3,B,159.83,0
+ILMN,Illumina Inc,1147,368000,M,1,B,162.82,0
+INCY,Incyte Corp,1248,918000,M,1,S,134.66,0
+INTC,Intel Corp,2149,462000,M,2,B,36.25,0
+INTU,Intuit Inc,3250,226000,M,3,S,121.3,100
+ISRG,Intuitive Surgical Inc,3251,643000,M,3,S,697.22,0
+AAL,American Airlines Group Inc,3201,318000,M,3,S,37.37,100
+AAPL,Apple Inc,3102,820000,M,3,B,129.1,0
+ADBE,Adobe Systems Inc,1203,900000,M,1,S,113.55,0
+ADI,Analog Devices Inc,2104,127000,M,2,B,73.22,0
+ADP,Automatic Data Processing Inc,3205,856000,M,3,S,95.48,0
+ADSK,Autodesk Inc,1206,929000,M,1,S,81.2,50
+AKAM,Akamai Technologies Inc,1207,771000,M,1,S,69.02,0
+ALXN,Alexion Pharmaceuticals Inc,2208,892000,M,2,S,132.29,0
+AMAT,Applied Materials Inc,1209,566000,M,1,S,35.12,100
+AMGN,Amgen Inc,2210,587000,M,2,S,159.59,0
+AMZN,Amazon.com Inc,2111,532000,M,2,B,832.25,50
+ATVI,Activision Blizzard Inc,3112,555000,M,3,B,35.99,0
+AVGO,Broadcom Ltd,2213,938000,M,2,S,203.89,0
+BBBY,Bed Bath & Beyond Inc,2214,981000,M,2,S,40.06,100
+BIDU,Baidu Inc,1115,756000,M,1,B,173.8,0
+BIIB,Biogen Inc,3216,356000,M,3,S,282.07,0
+BMRN,Biomarin Pharmaceutical Inc,2117,405000,M,2,B,88.85,50
+CA,CA Inc,2218,916000,M,2,S,31.2,0
+CELG,Celgene Corp,3219,145000,M,3,S,117.27,0
+CERN,Cerner Corp,3220,416000,M,3,S,61.87,0
+CHKP,Check Point Software Technologies Ltd,3121,968000,M,3,B,98.09,0
+CHTR,Charter Communications Inc,1122,506000,M,1,B,326.98,0
+CMCSA,Comcast Corp,1223,505000,M,1,S,75.9,100
+COST,Costco Wholesale Corp,2224,227000,M,2,S,162.06,0
+CSCO,Cisco Systems Inc,2225,145000,M,2,S,30.83,0
+CSX,CSX Corp,2226,981000,M,2,S,47.53,0
+CTRP,Ctrip.Com International Ltd,2127,628000,M,2,B,53.11,0
+CTSH,Cognizant Technology Solutions Corp,3228,720000,M,3,S,52.74,0
+CTXS,Citrix Systems Inc,2229,977000,M,2,S,67.92,0
+DISCA,Discovery Communications Inc,2230,714000,M,2,S,32.74,50
+DISCK,Discovery Communications Inc,1131,380000,M,1,B,27.42,0
+DISH,DISH Network Corp,1132,765000,M,1,B,61.33,0
+DLTR,Dollar Tree Inc,2233,754000,M,2,S,76.51,0
+EA,Electronic Arts,3134,645000,M,3,B,83.15,0
+EBAY,eBay Inc,1235,864000,M,1,S,32.31,50
+ESRX,Express Scripts Holding Co,2136,829000,M,2,B,71,0
+EXPE,Expedia Inc,1137,824000,M,1,B,120.91,0
+FAST,Fastenal Co,1138,203000,M,1,B,49.73,0
+FB,Facebook,3139,261000,M,3,B,133.39,0
+FISV,Fiserv Inc,1240,701000,M,1,S,105.42,0
+FOX,21st Century Fox Class B,3141,748000,M,3,B,31.43,0
+FOXA,21st Century Fox Class A,1142,946000,M,1,B,31.87,0
+GILD,Gilead Sciences Inc,2243,437000,M,2,S,72.98,0
+GOOG,Alphabet Class C,3144,836000,M,3,B,795.84,0
+GOOGL,Alphabet Class A,1245,943000,M,1,S,815.17,0
+HSIC,Henry Schein Inc,3146,470000,M,3,B,159.87,0
+ILMN,Illumina Inc,1247,902000,M,1,S,161.88,100
+INCY,Incyte Corp,3148,553000,M,3,B,124.49,0
+INTC,Intel Corp,2249,502000,M,2,S,36.38,0
+INTU,Intuit Inc,3250,542000,M,3,S,124.84,100
+ISRG,Intuitive Surgical Inc,3151,956000,M,3,B,697.27,0
+AAL,American Airlines Group Inc,2101,815000,M,2,B,37.18,50
+AAPL,Apple Inc,2202,354000,M,2,S,129.14,0
+ADBE,Adobe Systems Inc,3103,899000,M,3,B,113.42,0
+ADI,Analog Devices Inc,1104,193000,M,1,B,76.25,0
+ADP,Automatic Data Processing Inc,3105,638000,M,3,B,95.29,0
+ADSK,Autodesk Inc,2106,739000,M,2,B,81.11,50
+AKAM,Akamai Technologies Inc,3207,475000,M,3,S,69.05,0
+ALXN,Alexion Pharmaceuticals Inc,3208,442000,M,3,S,132.46,0
+AMAT,Applied Materials Inc,2209,657000,M,2,S,28.2,0
+AMGN,Amgen Inc,3110,721000,M,3,B,159.54,0
+AMZN,Amazon.com Inc,2211,234000,M,2,S,829.28,0
+ATVI,Activision Blizzard Inc,3212,501000,M,3,S,40.57,0
+AVGO,Broadcom Ltd,3213,799000,M,3,S,203.78,50
+BBBY,Bed Bath & Beyond Inc,2114,452000,M,2,B,41.96,50
+BIDU,Baidu Inc,2115,960000,M,2,B,173.83,0
+BIIB,Biogen Inc,3116,429000,M,3,B,281.87,50
+BMRN,Biomarin Pharmaceutical Inc,2117,441000,M,2,B,88.86,0
+CA,CA Inc,2218,205000,M,2,S,31.25,50
+CELG,Celgene Corp,3119,742000,M,3,B,117.27,0
+CERN,Cerner Corp,1220,703000,M,1,S,53.97,0
+CHKP,Check Point Software Technologies Ltd,1221,771000,M,1,S,98.28,0
+CHTR,Charter Communications Inc,2222,199000,M,2,S,326.97,0
+CMCSA,Comcast Corp,1223,823000,M,1,S,81.88,0
+COST,Costco Wholesale Corp,1124,908000,M,1,B,161.93,0
+CSCO,Cisco Systems Inc,3225,697000,M,3,S,30.72,0
+CSX,CSX Corp,2226,721000,M,2,S,47.56,50
+CTRP,Ctrip.Com International Ltd,1127,944000,M,1,B,43.09,0
+CTSH,Cognizant Technology Solutions Corp,3128,843000,M,3,B,52.72,0
+CTXS,Citrix Systems Inc,2229,875000,M,2,S,71.32,100
+DISCA,Discovery Communications Inc,1130,447000,M,1,B,32.63,0
+DISCK,Discovery Communications Inc,3131,650000,M,3,B,27.41,0
+DISH,DISH Network Corp,2232,266000,M,2,S,61.54,50
+DLTR,Dollar Tree Inc,3133,924000,M,3,B,76.5,0
+EA,Electronic Arts,3234,236000,M,3,S,83.34,0
+EBAY,eBay Inc,2135,913000,M,2,B,28.22,0
+ESRX,Express Scripts Holding Co,2136,675000,M,2,B,69.05,0
+EXPE,Expedia Inc,3237,849000,M,3,S,121.06,0
+FAST,Fastenal Co,3138,495000,M,3,B,49.71,100
+FB,Facebook,2139,687000,M,2,B,133.38,100
+FISV,Fiserv Inc,1140,825000,M,1,B,105.36,0
+FOX,21st Century Fox Class B,2141,403000,M,2,B,31.44,0
+FOXA,21st Century Fox Class A,2242,627000,M,2,S,31.87,0
+GILD,Gilead Sciences Inc,3143,113000,M,3,B,72.78,50
+GOOG,Alphabet Class C,2144,716000,M,2,B,795.81,100
+GOOGL,Alphabet Class A,3245,885000,M,3,S,815.1,0
+HSIC,Henry Schein Inc,1146,182000,M,1,B,159.88,100
+ILMN,Illumina Inc,2247,181000,M,2,S,163.86,50
+INCY,Incyte Corp,2248,898000,M,2,S,124.61,0
+INTC,Intel Corp,2249,276000,M,2,S,36.31,50
+INTU,Intuit Inc,3150,767000,M,3,B,124.73,0
+ISRG,Intuitive Surgical Inc,1251,730000,M,1,S,697.33,0
+AAL,American Airlines Group Inc,1201,156000,M,1,S,40.69,0
+AAPL,Apple Inc,1102,694000,M,1,B,129.01,0
+ADBE,Adobe Systems Inc,2103,672000,M,2,B,113.38,50
+ADI,Analog Devices Inc,1104,944000,M,1,B,76.3,100
+ADP,Automatic Data Processing Inc,3205,864000,M,3,S,95.39,0
+ADSK,Autodesk Inc,3206,396000,M,3,S,81.13,0
+AKAM,Akamai Technologies Inc,3107,367000,M,3,B,68.97,0
+ALXN,Alexion Pharmaceuticals Inc,2108,795000,M,2,B,132.33,0
+AMAT,Applied Materials Inc,3109,611000,M,3,B,35.04,0
+AMGN,Amgen Inc,3210,990000,M,3,S,159.66,0
+AMZN,Amazon.com Inc,1211,455000,M,1,S,832.22,0
+ATVI,Activision Blizzard Inc,1112,482000,M,1,B,40.48,0
+AVGO,Broadcom Ltd,1213,617000,M,1,S,208.75,100
+BBBY,Bed Bath & Beyond Inc,3114,906000,M,3,B,40.93,0
+BIDU,Baidu Inc,1115,853000,M,1,B,173.87,0
+BIIB,Biogen Inc,3116,380000,M,3,B,285.4,0
+BMRN,Biomarin Pharmaceutical Inc,2217,450000,M,2,S,89.08,0
+CA,CA Inc,1218,117000,M,1,S,34.61,100
+CELG,Celgene Corp,3119,220000,M,3,B,117.25,0
+CERN,Cerner Corp,2220,127000,M,2,S,53.97,0
+CHKP,Check Point Software Technologies Ltd,1121,871000,M,1,B,98.1,0
+CHTR,Charter Communications Inc,2222,291000,M,2,S,326.96,50
+CMCSA,Comcast Corp,2123,657000,M,2,B,75.75,0
+COST,Costco Wholesale Corp,1124,624000,M,1,B,161.95,0
+CSCO,Cisco Systems Inc,2125,942000,M,2,B,30.75,0
+CSX,CSX Corp,1226,668000,M,1,S,42.98,0
+CTRP,Ctrip.Com International Ltd,3127,280000,M,3,B,43.09,0
+CTSH,Cognizant Technology Solutions Corp,2228,133000,M,2,S,52.79,0
+CTXS,Citrix Systems Inc,2229,819000,M,2,S,64.54,0
+DISCA,Discovery Communications Inc,1230,228000,M,1,S,28.25,0
+DISCK,Discovery Communications Inc,2131,687000,M,2,B,27.38,0
+DISH,DISH Network Corp,3132,175000,M,3,B,66.42,0
+DLTR,Dollar Tree Inc,2133,318000,M,2,B,76.51,0
+EA,Electronic Arts,1134,479000,M,1,B,83.22,100
+EBAY,eBay Inc,1135,494000,M,1,B,32.23,0
+ESRX,Express Scripts Holding Co,1236,390000,M,1,S,69.21,0
+EXPE,Expedia Inc,1137,289000,M,1,B,120.88,0
+FAST,Fastenal Co,3138,342000,M,3,B,55.74,0
+FB,Facebook,1139,213000,M,1,B,133.41,50
+FISV,Fiserv Inc,3140,250000,M,3,B,105.36,0
+FOX,21st Century Fox Class B,2141,660000,M,2,B,31.44,100
+FOXA,21st Century Fox Class A,1142,212000,M,1,B,31.92,0
+GILD,Gilead Sciences Inc,2243,767000,M,2,S,75.88,0
+GOOG,Alphabet Class C,2144,625000,M,2,B,789.79,0
+GOOGL,Alphabet Class A,2245,157000,M,2,S,815.2,0
+HSIC,Henry Schein Inc,2246,918000,M,2,S,160.95,50
+ILMN,Illumina Inc,2247,377000,M,2,S,162.98,100
+INCY,Incyte Corp,3148,707000,M,3,B,124.47,0
+INTC,Intel Corp,3149,537000,M,3,B,33.77,0
+INTU,Intuit Inc,3250,562000,M,3,S,117.89,50
+ISRG,Intuitive Surgical Inc,2151,712000,M,2,B,697.25,0
+AAL,American Airlines Group Inc,2101,938000,M,2,B,44.13,0
+AAPL,Apple Inc,2202,216000,M,2,S,129.11,0
+ADBE,Adobe Systems Inc,1103,224000,M,1,B,109.88,50
+ADI,Analog Devices Inc,3104,918000,M,3,B,73.32,50
+ADP,Automatic Data Processing Inc,1205,662000,M,1,S,95.34,0
+ADSK,Autodesk Inc,2206,305000,M,2,S,81.18,0
+AKAM,Akamai Technologies Inc,2107,204000,M,2,B,68.96,0
+ALXN,Alexion Pharmaceuticals Inc,3108,526000,M,3,B,132.35,50
+AMAT,Applied Materials Inc,3209,469000,M,3,S,35.23,50
+AMGN,Amgen Inc,3110,144000,M,3,B,159.52,0
+AMZN,Amazon.com Inc,3211,748000,M,3,S,832.36,0
+ATVI,Activision Blizzard Inc,3212,334000,M,3,S,40.66,0
+AVGO,Broadcom Ltd,3113,561000,M,3,B,213.7,0
+BBBY,Bed Bath & Beyond Inc,1214,887000,M,1,S,40.05,0
+BIDU,Baidu Inc,3215,806000,M,3,S,173.94,0
+BIIB,Biogen Inc,2216,798000,M,2,S,281.98,0
+BMRN,Biomarin Pharmaceutical Inc,1117,663000,M,1,B,88.93,0
+CA,CA Inc,2218,915000,M,2,S,38.25,0
+CELG,Celgene Corp,2119,670000,M,2,B,117.25,100
+CERN,Cerner Corp,3120,793000,M,3,B,53.92,50
+CHKP,Check Point Software Technologies Ltd,3121,700000,M,3,B,98.14,0
+CHTR,Charter Communications Inc,2222,156000,M,2,S,322,0
+CMCSA,Comcast Corp,3223,650000,M,3,S,75.85,100
+COST,Costco Wholesale Corp,2124,590000,M,2,B,161.91,0
+CSCO,Cisco Systems Inc,2125,746000,M,2,B,30.77,50
+CSX,CSX Corp,3226,500000,M,3,S,47.51,0
+CTRP,Ctrip.Com International Ltd,2227,826000,M,2,S,43.16,0
+CTSH,Cognizant Technology Solutions Corp,1128,484000,M,1,B,52.67,50
+CTXS,Citrix Systems Inc,2129,129000,M,2,B,71.34,0
+DISCA,Discovery Communications Inc,2130,522000,M,2,B,28.05,0
+DISCK,Discovery Communications Inc,1131,609000,M,1,B,27.43,0
+DISH,DISH Network Corp,3132,907000,M,3,B,61.39,0
+DLTR,Dollar Tree Inc,1233,603000,M,1,S,76.68,0
+EA,Electronic Arts,2234,392000,M,2,S,86.17,50
+EBAY,eBay Inc,2235,663000,M,2,S,32.46,0
+ESRX,Express Scripts Holding Co,3136,583000,M,3,B,69.05,0
+EXPE,Expedia Inc,2237,295000,M,2,S,121,0
+FAST,Fastenal Co,2138,460000,M,2,B,49.79,0
+FB,Facebook,2239,1000000,M,2,S,133.52,100
+FISV,Fiserv Inc,3140,773000,M,3,B,105.39,0
+FOX,21st Century Fox Class B,2141,805000,M,2,B,24.39,0
+FOXA,21st Century Fox Class A,3142,618000,M,3,B,31.91,0
+GILD,Gilead Sciences Inc,2243,694000,M,2,S,72.87,100
+GOOG,Alphabet Class C,1244,889000,M,1,S,795.94,0
+GOOGL,Alphabet Class A,3245,337000,M,3,S,815.18,100
+HSIC,Henry Schein Inc,3146,333000,M,3,B,160.38,100
+ILMN,Illumina Inc,3247,288000,M,3,S,164,0
+INCY,Incyte Corp,3148,276000,M,3,B,124.42,0
+INTC,Intel Corp,2249,635000,M,2,S,36.42,0
+INTU,Intuit Inc,3250,236000,M,3,S,121.42,0
+ISRG,Intuitive Surgical Inc,1151,199000,M,1,B,697.28,0
+AAL,American Airlines Group Inc,2201,994000,M,2,S,44.17,50
+AAPL,Apple Inc,1202,979000,M,1,S,129.06,0
+ADBE,Adobe Systems Inc,3103,172000,M,3,B,109.93,50
+ADI,Analog Devices Inc,2204,733000,M,2,S,74.84,0
+ADP,Automatic Data Processing Inc,1105,644000,M,1,B,95.29,50
+ADSK,Autodesk Inc,3206,846000,M,3,S,81.11,50
+AKAM,Akamai Technologies Inc,3207,922000,M,3,S,68.98,0
+ALXN,Alexion Pharmaceuticals Inc,3208,365000,M,3,S,136.9,0
+AMAT,Applied Materials Inc,2209,499000,M,2,S,31.77,0
+AMGN,Amgen Inc,1110,461000,M,1,B,159.54,0
+AMZN,Amazon.com Inc,2211,578000,M,2,S,832.38,0
+ATVI,Activision Blizzard Inc,2112,219000,M,2,B,40.44,50
+AVGO,Broadcom Ltd,3213,583000,M,3,S,203.73,0
+BBBY,Bed Bath & Beyond Inc,2214,837000,M,2,S,40.1,100
+BIDU,Baidu Inc,1215,151000,M,1,S,173.91,0
+BIIB,Biogen Inc,2216,729000,M,2,S,282.03,0
+BMRN,Biomarin Pharmaceutical Inc,1217,540000,M,1,S,88.95,0
+CA,CA Inc,2218,738000,M,2,S,31.09,0
+CELG,Celgene Corp,1119,741000,M,1,B,121.21,0
+CERN,Cerner Corp,3120,948000,M,3,B,57.96,0
+CHKP,Check Point Software Technologies Ltd,3221,907000,M,3,S,98.18,0
+CHTR,Charter Communications Inc,2122,609000,M,2,B,326.95,0
+CMCSA,Comcast Corp,3223,414000,M,3,S,81.85,0
+COST,Costco Wholesale Corp,2224,281000,M,2,S,161.88,0
+CSCO,Cisco Systems Inc,2125,633000,M,2,B,34.26,0
+CSX,CSX Corp,1126,880000,M,1,B,47.47,100
+CTRP,Ctrip.Com International Ltd,1227,386000,M,1,S,43.24,0
+CTSH,Cognizant Technology Solutions Corp,1128,799000,M,1,B,49.13,0
+CTXS,Citrix Systems Inc,1129,883000,M,1,B,71.37,50
+DISCA,Discovery Communications Inc,1130,205000,M,1,B,28.05,0
+DISCK,Discovery Communications Inc,1131,337000,M,1,B,27.4,0
+DISH,DISH Network Corp,2132,463000,M,2,B,61.39,0
+DLTR,Dollar Tree Inc,2233,988000,M,2,S,76.57,0
+EA,Electronic Arts,3134,772000,M,3,B,84.66,0
+EBAY,eBay Inc,1135,549000,M,1,B,32.29,0
+ESRX,Express Scripts Holding Co,2136,490000,M,2,B,69.06,0
+EXPE,Expedia Inc,3137,681000,M,3,B,120.92,0
+FAST,Fastenal Co,3138,508000,M,3,B,49.83,0
+FB,Facebook,3239,451000,M,3,S,133.64,100
+FISV,Fiserv Inc,2140,515000,M,2,B,105.39,50
+FOX,21st Century Fox Class B,1141,921000,M,1,B,31.34,0
+FOXA,21st Century Fox Class A,3242,975000,M,3,S,31.97,0
+GILD,Gilead Sciences Inc,3243,773000,M,3,S,78.8,0
+GOOG,Alphabet Class C,1144,642000,M,1,B,795.79,100
+GOOGL,Alphabet Class A,2145,547000,M,2,B,816.13,0
+HSIC,Henry Schein Inc,3246,512000,M,3,S,161.03,50
+ILMN,Illumina Inc,1247,305000,M,1,S,162.04,100
+INCY,Incyte Corp,3148,444000,M,3,B,124.43,0
+INTC,Intel Corp,2249,830000,M,2,S,36.37,0
+INTU,Intuit Inc,3250,216000,M,3,S,117.75,0
+ISRG,Intuitive Surgical Inc,3251,953000,M,3,S,697.43,0
+AAL,American Airlines Group Inc,1101,953000,M,1,B,40.7,0
+AAPL,Apple Inc,3202,663000,M,3,S,129.09,0
+ADBE,Adobe Systems Inc,2103,710000,M,2,B,109.96,0
+ADI,Analog Devices Inc,2104,796000,M,2,B,76.38,0
+ADP,Automatic Data Processing Inc,3205,813000,M,3,S,99.81,100
+ADSK,Autodesk Inc,3206,268000,M,3,S,81.18,0
+AKAM,Akamai Technologies Inc,1207,451000,M,1,S,68.95,0
+ALXN,Alexion Pharmaceuticals Inc,2208,702000,M,2,S,132.41,0
+AMAT,Applied Materials Inc,1109,849000,M,1,B,35.05,0
+AMGN,Amgen Inc,2210,446000,M,2,S,159.6,0
+AMZN,Amazon.com Inc,2111,109000,M,2,B,832.26,0
+ATVI,Activision Blizzard Inc,3112,159000,M,3,B,35.94,0
+AVGO,Broadcom Ltd,1113,574000,M,1,B,203.68,0
+BBBY,Bed Bath & Beyond Inc,3114,429000,M,3,B,41.91,0
+BIDU,Baidu Inc,3215,786000,M,3,S,173.95,0
+BIIB,Biogen Inc,3116,802000,M,3,B,281.86,100
+BMRN,Biomarin Pharmaceutical Inc,3117,484000,M,3,B,88.93,100
+CA,CA Inc,3118,446000,M,3,B,31.1,0
+CELG,Celgene Corp,1119,355000,M,1,B,117.18,0
+CERN,Cerner Corp,1220,940000,M,1,S,54.07,50
+CHKP,Check Point Software Technologies Ltd,1221,643000,M,1,S,98.23,100
+CHTR,Charter Communications Inc,2122,621000,M,2,B,326.92,0
+CMCSA,Comcast Corp,2223,260000,M,2,S,75.85,0
+COST,Costco Wholesale Corp,1224,268000,M,1,S,161.9,50
+CSCO,Cisco Systems Inc,2225,249000,M,2,S,30.87,50
+CSX,CSX Corp,3226,164000,M,3,S,38.47,0
+CTRP,Ctrip.Com International Ltd,3227,619000,M,3,S,43.22,0
+CTSH,Cognizant Technology Solutions Corp,1128,260000,M,1,B,52.63,0
+CTXS,Citrix Systems Inc,1129,167000,M,1,B,67.88,0
+DISCA,Discovery Communications Inc,3230,937000,M,3,S,28.1,0
+DISCK,Discovery Communications Inc,1131,456000,M,1,B,27.4,0
+DISH,DISH Network Corp,3132,640000,M,3,B,61.41,0
+DLTR,Dollar Tree Inc,3233,499000,M,3,S,76.65,0
+EA,Electronic Arts,1134,394000,M,1,B,83.11,100
+EBAY,eBay Inc,1135,227000,M,1,B,32.34,0
+ESRX,Express Scripts Holding Co,3236,785000,M,3,S,69.23,0
+EXPE,Expedia Inc,2237,382000,M,2,S,121.04,0
+FAST,Fastenal Co,1138,210000,M,1,B,49.87,0
+FB,Facebook,1239,586000,M,1,S,133.61,0
+FISV,Fiserv Inc,3240,761000,M,3,S,102.44,0
+FOX,21st Century Fox Class B,3141,122000,M,3,B,31.39,0
+FOXA,21st Century Fox Class A,2142,648000,M,2,B,31.89,100
+GILD,Gilead Sciences Inc,2143,685000,M,2,B,72.71,0
+GOOG,Alphabet Class C,1244,699000,M,1,S,789.8,0
+GOOGL,Alphabet Class A,1145,651000,M,1,B,815.13,50
+HSIC,Henry Schein Inc,2146,102000,M,2,B,160.35,0
+ILMN,Illumina Inc,3147,694000,M,3,B,163.91,50
+INCY,Incyte Corp,3148,318000,M,3,B,124.38,0
+INTC,Intel Corp,3149,832000,M,3,B,36.2,0
+INTU,Intuit Inc,3250,408000,M,3,S,117.84,50
+ISRG,Intuitive Surgical Inc,2251,896000,M,2,S,697.33,0
+AAL,American Airlines Group Inc,3201,448000,M,3,S,44.27,0
+AAPL,Apple Inc,2202,608000,M,2,S,129,0
+ADBE,Adobe Systems Inc,1203,256000,M,1,S,113.63,50
+ADI,Analog Devices Inc,1204,463000,M,1,S,76.39,0
+ADP,Automatic Data Processing Inc,1105,727000,M,1,B,104.32,100
+ADSK,Autodesk Inc,1206,430000,M,1,S,81.31,50
+AKAM,Akamai Technologies Inc,2107,251000,M,2,B,68.88,50
+ALXN,Alexion Pharmaceuticals Inc,3208,946000,M,3,S,132.47,0
+AMAT,Applied Materials Inc,3109,444000,M,3,B,35.01,0
+AMGN,Amgen Inc,3210,747000,M,3,S,159.61,0
+AMZN,Amazon.com Inc,3111,423000,M,3,B,832.29,0
+ATVI,Activision Blizzard Inc,1112,121000,M,1,B,40.39,50
+AVGO,Broadcom Ltd,2213,742000,M,2,S,203.89,0
+BBBY,Bed Bath & Beyond Inc,3214,973000,M,3,S,39.98,100
+BIDU,Baidu Inc,3115,612000,M,3,B,173.87,0
+BIIB,Biogen Inc,2216,287000,M,2,S,288.89,0
+BMRN,Biomarin Pharmaceutical Inc,1117,868000,M,1,B,88.95,50
+CA,CA Inc,2118,359000,M,2,B,31.07,0
+CELG,Celgene Corp,3119,175000,M,3,B,117.22,0
+CERN,Cerner Corp,2120,600000,M,2,B,57.93,100
+CHKP,Check Point Software Technologies Ltd,2221,572000,M,2,S,101.13,0
+CHTR,Charter Communications Inc,3122,775000,M,3,B,326.89,50
+CMCSA,Comcast Corp,1223,821000,M,1,S,75.86,50
+COST,Costco Wholesale Corp,2224,792000,M,2,S,165.51,0
+CSCO,Cisco Systems Inc,3225,632000,M,3,S,34.38,0
+CSX,CSX Corp,2226,955000,M,2,S,47.62,0
+CTRP,Ctrip.Com International Ltd,2127,323000,M,2,B,43.04,0
+CTSH,Cognizant Technology Solutions Corp,1128,632000,M,1,B,52.68,0
+CTXS,Citrix Systems Inc,1229,404000,M,1,S,71.41,0
+DISCA,Discovery Communications Inc,2130,878000,M,2,B,28.06,50
+DISCK,Discovery Communications Inc,1131,148000,M,1,B,27.37,0
+DISH,DISH Network Corp,1132,484000,M,1,B,61.37,0
+DLTR,Dollar Tree Inc,3133,269000,M,3,B,76.55,0
+EA,Electronic Arts,1234,711000,M,1,S,86.25,50
+EBAY,eBay Inc,1235,567000,M,1,S,32.48,0
+ESRX,Express Scripts Holding Co,3136,895000,M,3,B,69.04,0
+EXPE,Expedia Inc,1237,546000,M,1,S,120.99,50
+FAST,Fastenal Co,2138,979000,M,2,B,49.88,0
+FB,Facebook,3139,145000,M,3,B,133.43,100
+FISV,Fiserv Inc,3140,268000,M,3,B,105.4,0
+FOX,21st Century Fox Class B,3141,927000,M,3,B,31.39,0
+FOXA,21st Century Fox Class A,2242,116000,M,2,S,24.1,0
+GILD,Gilead Sciences Inc,3243,312000,M,3,S,72.76,0
+GOOG,Alphabet Class C,2144,731000,M,2,B,795.78,100
+GOOGL,Alphabet Class A,3245,316000,M,3,S,815.74,100
+HSIC,Henry Schein Inc,1246,764000,M,1,S,159.99,50
+ILMN,Illumina Inc,1147,827000,M,1,B,162.9,100
+INCY,Incyte Corp,3148,228000,M,3,B,124.34,100
+INTC,Intel Corp,3249,475000,M,3,S,36.2,0
+INTU,Intuit Inc,1150,876000,M,1,B,121.17,0
+ISRG,Intuitive Surgical Inc,2151,893000,M,2,B,697.27,0
+AAL,American Airlines Group Inc,2201,908000,M,2,S,44.26,100
+AAPL,Apple Inc,2202,286000,M,2,S,129.15,100
+ADBE,Adobe Systems Inc,2103,887000,M,2,B,109.94,0
+ADI,Analog Devices Inc,3104,207000,M,3,B,76.34,0
+ADP,Automatic Data Processing Inc,2205,809000,M,2,S,104.51,50
+ADSK,Autodesk Inc,3106,634000,M,3,B,81.16,0
+AKAM,Akamai Technologies Inc,3107,756000,M,3,B,71.85,100
+ALXN,Alexion Pharmaceuticals Inc,3208,567000,M,3,S,132.44,100
+AMAT,Applied Materials Inc,3109,504000,M,3,B,34.99,0
+AMGN,Amgen Inc,3210,513000,M,3,S,159.62,100
+AMZN,Amazon.com Inc,3211,888000,M,3,S,832.3,0
+ATVI,Activision Blizzard Inc,3112,211000,M,3,B,35.92,0
+AVGO,Broadcom Ltd,1113,667000,M,1,B,203.78,0
+BBBY,Bed Bath & Beyond Inc,2214,935000,M,2,S,42.04,0
+BIDU,Baidu Inc,1215,573000,M,1,S,173.85,0
+BIIB,Biogen Inc,3216,184000,M,3,S,282.05,50
+BMRN,Biomarin Pharmaceutical Inc,2117,196000,M,2,B,88.93,50
+CA,CA Inc,3218,854000,M,3,S,31.15,0
+CELG,Celgene Corp,2219,554000,M,2,S,117.33,0
+CERN,Cerner Corp,2220,994000,M,2,S,62.11,50
+CHKP,Check Point Software Technologies Ltd,1221,452000,M,1,S,98.18,0
+CHTR,Charter Communications Inc,3222,819000,M,3,S,322.05,50
+CMCSA,Comcast Corp,2223,782000,M,2,S,78.88,0
+COST,Costco Wholesale Corp,1224,818000,M,1,S,161.97,0
+CSCO,Cisco Systems Inc,2225,352000,M,2,S,30.93,0
+CSX,CSX Corp,1226,955000,M,1,S,47.5,50
+CTRP,Ctrip.Com International Ltd,1127,387000,M,1,B,43.07,0
+CTSH,Cognizant Technology Solutions Corp,2228,839000,M,2,S,52.91,0
+CTXS,Citrix Systems Inc,1129,425000,M,1,B,71.4,0
+DISCA,Discovery Communications Inc,3230,495000,M,3,S,32.61,0
+DISCK,Discovery Communications Inc,3131,916000,M,3,B,27.42,0
+DISH,DISH Network Corp,1132,540000,M,1,B,61.34,0
+DLTR,Dollar Tree Inc,2233,757000,M,2,S,76.58,0
+EA,Electronic Arts,3134,791000,M,3,B,84.63,0
+EBAY,eBay Inc,3135,948000,M,3,B,32.34,0
+ESRX,Express Scripts Holding Co,3236,632000,M,3,S,69.13,0
+EXPE,Expedia Inc,2237,677000,M,2,S,118.05,50
+FAST,Fastenal Co,3138,381000,M,3,B,49.85,0
+FB,Facebook,3239,816000,M,3,S,133.43,50
+FISV,Fiserv Inc,3240,968000,M,3,S,105.47,0
+FOX,21st Century Fox Class B,3141,795000,M,3,B,31.37,0
+FOXA,21st Century Fox Class A,3242,262000,M,3,S,32.13,0
+GILD,Gilead Sciences Inc,3243,726000,M,3,S,72.69,0
+GOOG,Alphabet Class C,2144,359000,M,2,B,789.77,0
+GOOGL,Alphabet Class A,2145,523000,M,2,B,816.16,0
+HSIC,Henry Schein Inc,2246,709000,M,2,S,160.41,0
+ILMN,Illumina Inc,3147,127000,M,3,B,163.91,0
+INCY,Incyte Corp,2248,987000,M,2,S,134.44,0
+INTC,Intel Corp,2249,648000,M,2,S,36.32,0
+INTU,Intuit Inc,1250,945000,M,1,S,117.83,100
+ISRG,Intuitive Surgical Inc,3151,741000,M,3,B,697.23,100
+AAL,American Airlines Group Inc,3201,186000,M,3,S,37.22,0
+AAPL,Apple Inc,1102,804000,M,1,B,120.99,0
+ADBE,Adobe Systems Inc,2103,488000,M,2,B,113.45,100
+ADI,Analog Devices Inc,2204,473000,M,2,S,76.45,0
+ADP,Automatic Data Processing Inc,3105,926000,M,3,B,99.8,0
+ADSK,Autodesk Inc,1206,203000,M,1,S,81.15,0
+AKAM,Akamai Technologies Inc,3107,668000,M,3,B,74.84,0
+ALXN,Alexion Pharmaceuticals Inc,3108,624000,M,3,B,141.4,100
+AMAT,Applied Materials Inc,3109,577000,M,3,B,35.04,0
+AMGN,Amgen Inc,3110,128000,M,3,B,160.55,0
+AMZN,Amazon.com Inc,2111,301000,M,2,B,832.28,0
+ATVI,Activision Blizzard Inc,2212,183000,M,2,S,40.56,50
+AVGO,Broadcom Ltd,1113,532000,M,1,B,203.82,0
+BBBY,Bed Bath & Beyond Inc,2214,439000,M,2,S,39.97,0
+BIDU,Baidu Inc,1115,1000000,M,1,B,173.85,0
+BIIB,Biogen Inc,1116,995000,M,1,B,285.44,50
+BMRN,Biomarin Pharmaceutical Inc,3117,485000,M,3,B,88.93,0
+CA,CA Inc,2218,326000,M,2,S,31.12,0
+CELG,Celgene Corp,1119,798000,M,1,B,117.15,0
+CERN,Cerner Corp,1220,855000,M,1,S,57.98,0
+CHKP,Check Point Software Technologies Ltd,3221,342000,M,3,S,98.19,0
+CHTR,Charter Communications Inc,2122,810000,M,2,B,321.89,50
+CMCSA,Comcast Corp,1123,728000,M,1,B,75.82,0
+COST,Costco Wholesale Corp,1124,342000,M,1,B,161.81,0
+CSCO,Cisco Systems Inc,1125,710000,M,1,B,30.74,0
+CSX,CSX Corp,1226,952000,M,1,S,43.06,100
+CTRP,Ctrip.Com International Ltd,3227,204000,M,3,S,43.23,100
+CTSH,Cognizant Technology Solutions Corp,1128,530000,M,1,B,52.75,100
+CTXS,Citrix Systems Inc,3129,173000,M,3,B,71.36,0
+DISCA,Discovery Communications Inc,1130,998000,M,1,B,28.06,0
+DISCK,Discovery Communications Inc,2131,236000,M,2,B,27.47,50
+DISH,DISH Network Corp,2132,987000,M,2,B,61.35,0
+DLTR,Dollar Tree Inc,2133,337000,M,2,B,76.52,100
+EA,Electronic Arts,3234,156000,M,3,S,83.21,0
+EBAY,eBay Inc,2235,620000,M,2,S,32.54,0
+ESRX,Express Scripts Holding Co,3236,239000,M,3,S,69.2,100
+EXPE,Expedia Inc,1237,519000,M,1,S,117.96,0
+FAST,Fastenal Co,2238,976000,M,2,S,50.02,0
+FB,Facebook,3139,593000,M,3,B,133.38,0
+FISV,Fiserv Inc,2240,519000,M,2,S,105.45,0
+FOX,21st Century Fox Class B,1141,968000,M,1,B,31.39,100
+FOXA,21st Century Fox Class A,3242,861000,M,3,S,32,0
+GILD,Gilead Sciences Inc,3143,464000,M,3,B,72.71,50
+GOOG,Alphabet Class C,1244,443000,M,1,S,795.92,0
+GOOGL,Alphabet Class A,2145,604000,M,2,B,815.12,50
+HSIC,Henry Schein Inc,2146,286000,M,2,B,159.85,0
+ILMN,Illumina Inc,2147,881000,M,2,B,161.89,0
+INCY,Incyte Corp,3148,689000,M,3,B,124.37,0
+INTC,Intel Corp,3249,251000,M,3,S,36.37,0
+INTU,Intuit Inc,2150,187000,M,2,B,124.68,0
+ISRG,Intuitive Surgical Inc,3251,794000,M,3,S,694.28,0
+AAL,American Airlines Group Inc,3101,411000,M,3,B,44.18,0
+AAPL,Apple Inc,3102,774000,M,3,B,128.97,0
+ADBE,Adobe Systems Inc,1203,612000,M,1,S,106.44,0
+ADI,Analog Devices Inc,3104,154000,M,3,B,76.27,100
+ADP,Automatic Data Processing Inc,2205,444000,M,2,S,95.33,100
+ADSK,Autodesk Inc,1206,267000,M,1,S,81.31,0
+AKAM,Akamai Technologies Inc,3107,753000,M,3,B,68.79,0
+ALXN,Alexion Pharmaceuticals Inc,2208,335000,M,2,S,141.6,50
+AMAT,Applied Materials Inc,2209,959000,M,2,S,35.21,0
+AMGN,Amgen Inc,1110,450000,M,1,B,159.55,0
+AMZN,Amazon.com Inc,3111,872000,M,3,B,832.24,0
+ATVI,Activision Blizzard Inc,2112,802000,M,2,B,35.94,0
+AVGO,Broadcom Ltd,3113,560000,M,3,B,203.79,0
+BBBY,Bed Bath & Beyond Inc,1114,466000,M,1,B,39.97,0
+BIDU,Baidu Inc,1215,420000,M,1,S,174.05,50
+BIIB,Biogen Inc,1216,935000,M,1,S,285.62,0
+BMRN,Biomarin Pharmaceutical Inc,2117,351000,M,2,B,88.94,50
+CA,CA Inc,3218,948000,M,3,S,31.13,0
+CELG,Celgene Corp,3119,646000,M,3,B,117.19,0
+CERN,Cerner Corp,2120,882000,M,2,B,53.88,0
+CHKP,Check Point Software Technologies Ltd,1121,338000,M,1,B,98.15,0
+CHTR,Charter Communications Inc,1222,658000,M,1,S,322.05,50
+CMCSA,Comcast Corp,3123,497000,M,3,B,75.79,0
+COST,Costco Wholesale Corp,2224,380000,M,2,S,162.02,0
+CSCO,Cisco Systems Inc,1225,966000,M,1,S,30.78,0
+CSX,CSX Corp,2226,796000,M,2,S,38.49,0
+CTRP,Ctrip.Com International Ltd,1227,622000,M,1,S,53.26,50
+CTSH,Cognizant Technology Solutions Corp,3228,968000,M,3,S,45.72,0
+CTXS,Citrix Systems Inc,2229,271000,M,2,S,71.5,0
+DISCA,Discovery Communications Inc,3230,527000,M,3,S,28.13,0
+DISCK,Discovery Communications Inc,1231,288000,M,1,S,27.09,0
+DISH,DISH Network Corp,3132,513000,M,3,B,61.33,100
+DLTR,Dollar Tree Inc,1233,122000,M,1,S,67.71,0
+EA,Electronic Arts,1234,381000,M,1,S,83.2,0
+EBAY,eBay Inc,3135,265000,M,3,B,32.38,0
+ESRX,Express Scripts Holding Co,2236,792000,M,2,S,71.13,0
+EXPE,Expedia Inc,1237,558000,M,1,S,121,0
+FAST,Fastenal Co,2238,247000,M,2,S,50.04,0
+FB,Facebook,1239,173000,M,1,S,133.54,0
+FISV,Fiserv Inc,3140,674000,M,3,B,105.45,0
+FOX,21st Century Fox Class B,2241,203000,M,2,S,24.55,100
+FOXA,21st Century Fox Class A,3142,326000,M,3,B,31.91,0
+GILD,Gilead Sciences Inc,1143,340000,M,1,B,75.73,0
+GOOG,Alphabet Class C,1244,611000,M,1,S,795.92,0
+GOOGL,Alphabet Class A,2245,654000,M,2,S,815.67,0
+HSIC,Henry Schein Inc,1246,846000,M,1,S,159.88,50
+ILMN,Illumina Inc,3147,584000,M,3,B,161.86,100
+INCY,Incyte Corp,2148,227000,M,2,B,124.42,0
+INTC,Intel Corp,1249,474000,M,1,S,36.27,0
+INTU,Intuit Inc,2150,814000,M,2,B,117.69,0
+ISRG,Intuitive Surgical Inc,3151,442000,M,3,B,697.23,0
+AAL,American Airlines Group Inc,1101,650000,M,1,B,44.14,50
+AAPL,Apple Inc,2202,243000,M,2,S,129.05,0
+ADBE,Adobe Systems Inc,3103,559000,M,3,B,113.37,0
+ADI,Analog Devices Inc,3204,677000,M,3,S,73.44,100
+ADP,Automatic Data Processing Inc,3205,492000,M,3,S,104.34,0
+ADSK,Autodesk Inc,3106,848000,M,3,B,81.18,100
+AKAM,Akamai Technologies Inc,1207,938000,M,1,S,69,0
+ALXN,Alexion Pharmaceuticals Inc,1108,918000,M,1,B,136.91,0
+AMAT,Applied Materials Inc,2109,528000,M,2,B,35.02,0
+AMGN,Amgen Inc,2110,594000,M,2,B,159.57,0
+AMZN,Amazon.com Inc,3211,591000,M,3,S,832.4,0
+ATVI,Activision Blizzard Inc,2212,454000,M,2,S,40.44,0
+AVGO,Broadcom Ltd,2113,924000,M,2,B,203.84,0
+BBBY,Bed Bath & Beyond Inc,2114,261000,M,2,B,39.94,100
+BIDU,Baidu Inc,2115,360000,M,2,B,172.9,0
+BIIB,Biogen Inc,3116,576000,M,3,B,281.98,0
+BMRN,Biomarin Pharmaceutical Inc,1217,192000,M,1,S,88.99,0
+CA,CA Inc,2218,282000,M,2,S,31.14,0
+CELG,Celgene Corp,2219,292000,M,2,S,117.29,0
+CERN,Cerner Corp,3220,393000,M,3,S,53.85,0
+CHKP,Check Point Software Technologies Ltd,3221,844000,M,3,S,98.39,0
+CHTR,Charter Communications Inc,3222,311000,M,3,S,322.04,50
+CMCSA,Comcast Corp,3223,906000,M,3,S,75.94,0
+COST,Costco Wholesale Corp,3224,101000,M,3,S,161.83,0
+CSCO,Cisco Systems Inc,1225,712000,M,1,S,30.79,0
+CSX,CSX Corp,1226,924000,M,1,S,47.61,0
+CTRP,Ctrip.Com International Ltd,3127,305000,M,3,B,48.17,50
+CTSH,Cognizant Technology Solutions Corp,3128,751000,M,3,B,52.75,0
+CTXS,Citrix Systems Inc,1229,783000,M,1,S,71.44,100
+DISCA,Discovery Communications Inc,2230,868000,M,2,S,28.1,0
+DISCK,Discovery Communications Inc,1131,175000,M,1,B,27.5,100
+DISH,DISH Network Corp,3232,376000,M,3,S,71.44,0
+DLTR,Dollar Tree Inc,2133,650000,M,2,B,76.51,0
+EA,Electronic Arts,2234,226000,M,2,S,83.17,50
+EBAY,eBay Inc,2235,149000,M,2,S,32.45,100
+ESRX,Express Scripts Holding Co,2236,502000,M,2,S,69.25,0
+EXPE,Expedia Inc,1237,215000,M,1,S,120.96,0
+FAST,Fastenal Co,2238,903000,M,2,S,50.06,0
+FB,Facebook,1239,452000,M,1,S,133.45,0
+FISV,Fiserv Inc,1240,861000,M,1,S,105.68,0
+FOX,21st Century Fox Class B,2141,866000,M,2,B,24.42,50
+FOXA,21st Century Fox Class A,2142,371000,M,2,B,31.92,0
+GILD,Gilead Sciences Inc,1243,872000,M,1,S,72.88,100
+GOOG,Alphabet Class C,3144,822000,M,3,B,795.78,100
+GOOGL,Alphabet Class A,1145,400000,M,1,B,815.08,0
+HSIC,Henry Schein Inc,2146,408000,M,2,B,160.32,0
+ILMN,Illumina Inc,1247,113000,M,1,S,163.89,0
+INCY,Incyte Corp,3148,385000,M,3,B,124.39,0
+INTC,Intel Corp,1149,783000,M,1,B,36.14,100
+INTU,Intuit Inc,3250,538000,M,3,S,117.86,0
+ISRG,Intuitive Surgical Inc,3251,486000,M,3,S,697.33,0
+AAL,American Airlines Group Inc,3201,959000,M,3,S,40.75,100
+AAPL,Apple Inc,2102,110000,M,2,B,128.93,0
+ADBE,Adobe Systems Inc,3203,502000,M,3,S,113.5,100
+ADI,Analog Devices Inc,2204,550000,M,2,S,73.25,0
+ADP,Automatic Data Processing Inc,1205,449000,M,1,S,95.36,100
+ADSK,Autodesk Inc,2106,313000,M,2,B,81.21,0
+AKAM,Akamai Technologies Inc,2107,352000,M,2,B,68.77,100
+ALXN,Alexion Pharmaceuticals Inc,2108,693000,M,2,B,132.42,50
+AMAT,Applied Materials Inc,3209,136000,M,3,S,35.01,0
+AMGN,Amgen Inc,1210,868000,M,1,S,159.74,0
+AMZN,Amazon.com Inc,3111,755000,M,3,B,832.3,0
+ATVI,Activision Blizzard Inc,3212,389000,M,3,S,40.56,100
+AVGO,Broadcom Ltd,2213,242000,M,2,S,203.85,0
+BBBY,Bed Bath & Beyond Inc,3214,947000,M,3,S,42.11,100
+BIDU,Baidu Inc,3215,434000,M,3,S,173.96,0
+BIIB,Biogen Inc,2116,173000,M,2,B,282.03,0
+BMRN,Biomarin Pharmaceutical Inc,2217,884000,M,2,S,89.01,0
+CA,CA Inc,2218,491000,M,2,S,31.19,0
+CELG,Celgene Corp,1219,535000,M,1,S,117.36,0
+CERN,Cerner Corp,3120,684000,M,3,B,53.89,0
+CHKP,Check Point Software Technologies Ltd,2221,578000,M,2,S,98.31,0
+CHTR,Charter Communications Inc,2222,672000,M,2,S,321.98,0
+CMCSA,Comcast Corp,3123,253000,M,3,B,75.81,0
+COST,Costco Wholesale Corp,3224,934000,M,3,S,161.85,0
+CSCO,Cisco Systems Inc,1125,534000,M,1,B,30.77,0
+CSX,CSX Corp,1126,525000,M,1,B,47.39,50
+CTRP,Ctrip.Com International Ltd,2227,722000,M,2,S,48.32,100
+CTSH,Cognizant Technology Solutions Corp,1228,573000,M,1,S,52.95,0
+CTXS,Citrix Systems Inc,1229,300000,M,1,S,64.42,0
+DISCA,Discovery Communications Inc,2130,466000,M,2,B,28.02,100
+DISCK,Discovery Communications Inc,1131,573000,M,1,B,26.5,0
+DISH,DISH Network Corp,1132,579000,M,1,B,61.39,0
+DLTR,Dollar Tree Inc,1133,492000,M,1,B,76.53,0
+EA,Electronic Arts,1234,833000,M,1,S,84.82,0
+EBAY,eBay Inc,1135,454000,M,1,B,24.36,0
+ESRX,Express Scripts Holding Co,3236,641000,M,3,S,69.11,0
+EXPE,Expedia Inc,1137,137000,M,1,B,120.84,100
+FAST,Fastenal Co,1238,535000,M,1,S,50.03,0
+FB,Facebook,2139,789000,M,2,B,133.39,0
+FISV,Fiserv Inc,2240,935000,M,2,S,105.52,0
+FOX,21st Century Fox Class B,1141,760000,M,1,B,27.94,0
+FOXA,21st Century Fox Class A,1242,677000,M,1,S,31.99,0
+GILD,Gilead Sciences Inc,1243,710000,M,1,S,78.71,0
+GOOG,Alphabet Class C,1144,562000,M,1,B,789.77,0
+GOOGL,Alphabet Class A,1145,747000,M,1,B,815.05,0
+HSIC,Henry Schein Inc,3246,879000,M,3,S,159.9,0
+ILMN,Illumina Inc,1147,329000,M,1,B,161.8,100
+INCY,Incyte Corp,3148,595000,M,3,B,124.39,0
+INTC,Intel Corp,3149,814000,M,3,B,31.19,0
+INTU,Intuit Inc,2250,323000,M,2,S,117.84,0
+ISRG,Intuitive Surgical Inc,3251,591000,M,3,S,697.32,0
+AAL,American Airlines Group Inc,2101,636000,M,2,B,37.09,0
+AAPL,Apple Inc,1202,766000,M,1,S,129.17,0
+ADBE,Adobe Systems Inc,3103,300000,M,3,B,106.45,0
+ADI,Analog Devices Inc,3104,574000,M,3,B,76.26,0
+ADP,Automatic Data Processing Inc,1105,270000,M,1,B,104.25,100
+ADSK,Autodesk Inc,3106,239000,M,3,B,81.16,0
+AKAM,Akamai Technologies Inc,3107,550000,M,3,B,74.79,0
+ALXN,Alexion Pharmaceuticals Inc,2208,173000,M,2,S,137.01,0
+AMAT,Applied Materials Inc,1109,580000,M,1,B,35.04,0
+AMGN,Amgen Inc,3110,775000,M,3,B,159.55,100
+AMZN,Amazon.com Inc,3211,576000,M,3,S,832.37,0
+ATVI,Activision Blizzard Inc,3112,186000,M,3,B,31.42,0
+AVGO,Broadcom Ltd,2213,859000,M,2,S,203.88,0
+BBBY,Bed Bath & Beyond Inc,1214,436000,M,1,S,42,0
+BIDU,Baidu Inc,2115,149000,M,2,B,173.86,100
+BIIB,Biogen Inc,1116,403000,M,1,B,282.02,0
+BMRN,Biomarin Pharmaceutical Inc,3217,201000,M,3,S,89.09,0
+CA,CA Inc,3218,690000,M,3,S,31.29,0
+CELG,Celgene Corp,3119,382000,M,3,B,117.27,0
+CERN,Cerner Corp,3120,912000,M,3,B,53.88,0
+CHKP,Check Point Software Technologies Ltd,3121,590000,M,3,B,98.22,50
+CHTR,Charter Communications Inc,1222,746000,M,1,S,327.18,0
+CMCSA,Comcast Corp,1223,711000,M,1,S,75.97,0
+COST,Costco Wholesale Corp,3124,581000,M,3,B,161.76,0
+CSCO,Cisco Systems Inc,2125,241000,M,2,B,30.81,100
+CSX,CSX Corp,1226,221000,M,1,S,42.96,0
+CTRP,Ctrip.Com International Ltd,1127,265000,M,1,B,53.19,0
+CTSH,Cognizant Technology Solutions Corp,1228,179000,M,1,S,52.91,0
+CTXS,Citrix Systems Inc,1229,222000,M,1,S,71.4,0
+DISCA,Discovery Communications Inc,1130,276000,M,1,B,36.99,0
+DISCK,Discovery Communications Inc,1231,590000,M,1,S,27.56,0
+DISH,DISH Network Corp,3132,632000,M,3,B,61.39,0
+DLTR,Dollar Tree Inc,3233,332000,M,3,S,76.63,0
+EA,Electronic Arts,2234,277000,M,2,S,83.19,100
+EBAY,eBay Inc,3135,621000,M,3,B,32.32,0
+ESRX,Express Scripts Holding Co,2236,441000,M,2,S,69.18,0
+EXPE,Expedia Inc,1137,397000,M,1,B,114.88,0
+FAST,Fastenal Co,1138,833000,M,1,B,49.88,0
+FB,Facebook,2139,434000,M,2,B,133.43,0
+FISV,Fiserv Inc,2140,965000,M,2,B,105.48,0
+FOX,21st Century Fox Class B,1141,532000,M,1,B,31.49,0
+FOXA,21st Century Fox Class A,1242,602000,M,1,S,32.09,100
+GILD,Gilead Sciences Inc,2143,415000,M,2,B,72.69,0
+GOOG,Alphabet Class C,1244,128000,M,1,S,795.77,0
+GOOGL,Alphabet Class A,3145,845000,M,3,B,815.04,50
+HSIC,Henry Schein Inc,2246,528000,M,2,S,159.85,0
+ILMN,Illumina Inc,1247,673000,M,1,S,163.95,0
+INCY,Incyte Corp,3148,537000,M,3,B,124.43,0
+INTC,Intel Corp,1249,460000,M,1,S,36.24,0
+INTU,Intuit Inc,3150,631000,M,3,B,117.68,0
+ISRG,Intuitive Surgical Inc,1151,475000,M,1,B,697.22,0
+AAL,American Airlines Group Inc,2201,903000,M,2,S,44.29,100
+AAPL,Apple Inc,3202,486000,M,3,S,129.17,0
+ADBE,Adobe Systems Inc,3203,535000,M,3,S,113.46,50
+ADI,Analog Devices Inc,1204,180000,M,1,S,76.45,0
+ADP,Automatic Data Processing Inc,3105,387000,M,3,B,104.27,0
+ADSK,Autodesk Inc,3106,852000,M,3,B,81.19,0
+AKAM,Akamai Technologies Inc,1107,839000,M,1,B,68.82,50
+ALXN,Alexion Pharmaceuticals Inc,1208,980000,M,1,S,132.47,100
+AMAT,Applied Materials Inc,1109,825000,M,1,B,35.03,0
+AMGN,Amgen Inc,3210,845000,M,3,S,160.67,0
+AMZN,Amazon.com Inc,1211,590000,M,1,S,832.41,0
+ATVI,Activision Blizzard Inc,2112,177000,M,2,B,40.37,0
+AVGO,Broadcom Ltd,2213,631000,M,2,S,204.01,0
+BBBY,Bed Bath & Beyond Inc,3114,968000,M,3,B,39.89,50
+BIDU,Baidu Inc,3215,120000,M,3,S,172.05,0
+BIIB,Biogen Inc,1116,720000,M,1,B,282.02,0
+BMRN,Biomarin Pharmaceutical Inc,1217,701000,M,1,S,89.06,0
+CA,CA Inc,2118,131000,M,2,B,31.09,100
+CELG,Celgene Corp,3219,977000,M,3,S,117.45,0
+CERN,Cerner Corp,1120,388000,M,1,B,53.93,0
+CHKP,Check Point Software Technologies Ltd,3121,465000,M,3,B,99.75,0
+CHTR,Charter Communications Inc,3222,533000,M,3,S,327.12,100
+CMCSA,Comcast Corp,2223,291000,M,2,S,75.99,0
+COST,Costco Wholesale Corp,2224,927000,M,2,S,161.9,0
+CSCO,Cisco Systems Inc,1225,233000,M,1,S,37.78,50
+CSX,CSX Corp,3126,534000,M,3,B,47.35,0
+CTRP,Ctrip.Com International Ltd,2127,112000,M,2,B,43.17,50
+CTSH,Cognizant Technology Solutions Corp,2128,447000,M,2,B,52.72,100
+CTXS,Citrix Systems Inc,3129,844000,M,3,B,71.31,0
+DISCA,Discovery Communications Inc,1130,850000,M,1,B,28,0
+DISCK,Discovery Communications Inc,1231,556000,M,1,S,27.73,0
+DISH,DISH Network Corp,3232,554000,M,3,S,61.54,0
+DLTR,Dollar Tree Inc,3233,418000,M,3,S,76.49,0
+EA,Electronic Arts,3134,956000,M,3,B,86.21,0
+EBAY,eBay Inc,2135,643000,M,2,B,32.33,0
+ESRX,Express Scripts Holding Co,2236,860000,M,2,S,69.22,0
+EXPE,Expedia Inc,3237,944000,M,3,S,120.95,0
+FAST,Fastenal Co,1238,904000,M,1,S,50.02,100
+FB,Facebook,1139,413000,M,1,B,133.45,0
+FISV,Fiserv Inc,3140,653000,M,3,B,105.44,100
+FOX,21st Century Fox Class B,1141,834000,M,1,B,31.47,0
+FOXA,21st Century Fox Class A,3142,677000,M,3,B,23.87,0
+GILD,Gilead Sciences Inc,3143,1000000,M,3,B,72.69,100
+GOOG,Alphabet Class C,2244,991000,M,2,S,795.89,100
+GOOGL,Alphabet Class A,3245,770000,M,3,S,815.71,0
+HSIC,Henry Schein Inc,2146,631000,M,2,B,159.82,0
+ILMN,Illumina Inc,3147,836000,M,3,B,161.78,50
+INCY,Incyte Corp,2248,283000,M,2,S,124.47,0
+INTC,Intel Corp,2149,681000,M,2,B,36.18,0
+INTU,Intuit Inc,3250,621000,M,3,S,117.67,0
+ISRG,Intuitive Surgical Inc,2251,298000,M,2,S,697.39,0
+AAL,American Airlines Group Inc,1201,795000,M,1,S,37.3,100
+AAPL,Apple Inc,3102,551000,M,3,B,128.96,0
+ADBE,Adobe Systems Inc,1103,487000,M,1,B,109.93,0
+ADI,Analog Devices Inc,1204,413000,M,1,S,76.5,0
+ADP,Automatic Data Processing Inc,2205,920000,M,2,S,95.45,0
+ADSK,Autodesk Inc,1106,809000,M,1,B,81.21,100
+AKAM,Akamai Technologies Inc,1207,249000,M,1,S,71.96,0
+ALXN,Alexion Pharmaceuticals Inc,3208,991000,M,3,S,141.45,0
+AMAT,Applied Materials Inc,3109,131000,M,3,B,35.02,0
+AMGN,Amgen Inc,3210,878000,M,3,S,159.74,0
+AMZN,Amazon.com Inc,2111,507000,M,2,B,832.34,0
+ATVI,Activision Blizzard Inc,1212,340000,M,1,S,40.49,0
+AVGO,Broadcom Ltd,1113,903000,M,1,B,203.91,100
+BBBY,Bed Bath & Beyond Inc,1214,452000,M,1,S,41.05,50
+BIDU,Baidu Inc,1215,572000,M,1,S,174.04,0
+BIIB,Biogen Inc,1216,646000,M,1,S,282.01,0
+BMRN,Biomarin Pharmaceutical Inc,2117,895000,M,2,B,88.95,100
+CA,CA Inc,1218,160000,M,1,S,38.11,50
+CELG,Celgene Corp,2119,820000,M,2,B,117.25,0
+CERN,Cerner Corp,2120,365000,M,2,B,53.92,0
+CHKP,Check Point Software Technologies Ltd,1221,902000,M,1,S,98.27,0
+CHTR,Charter Communications Inc,2222,922000,M,2,S,317.19,0
+CMCSA,Comcast Corp,2223,686000,M,2,S,76,50
+COST,Costco Wholesale Corp,1124,260000,M,1,B,161.74,0
+CSCO,Cisco Systems Inc,2125,638000,M,2,B,34.32,50
+CSX,CSX Corp,1226,207000,M,1,S,47.49,0
+CTRP,Ctrip.Com International Ltd,3127,684000,M,3,B,48.13,0
+CTSH,Cognizant Technology Solutions Corp,1128,241000,M,1,B,45.7,0
+CTXS,Citrix Systems Inc,2129,424000,M,2,B,71.32,100
+DISCA,Discovery Communications Inc,3230,165000,M,3,S,28.03,0
+DISCK,Discovery Communications Inc,3131,605000,M,3,B,27.53,0
+DISH,DISH Network Corp,1232,858000,M,1,S,61.37,0
+DLTR,Dollar Tree Inc,1233,373000,M,1,S,76.54,0
+EA,Electronic Arts,1134,316000,M,1,B,83.24,50
+EBAY,eBay Inc,1135,683000,M,1,B,32.28,0
+ESRX,Express Scripts Holding Co,1136,306000,M,1,B,69.01,100
+EXPE,Expedia Inc,3237,703000,M,3,S,121.05,50
+FAST,Fastenal Co,1238,459000,M,1,S,56.01,50
+FB,Facebook,1239,568000,M,1,S,133.42,100
+FISV,Fiserv Inc,1240,837000,M,1,S,99.56,0
+FOX,21st Century Fox Class B,2241,710000,M,2,S,31.61,100
+FOXA,21st Century Fox Class A,1242,185000,M,1,S,31.87,100
+GILD,Gilead Sciences Inc,3143,788000,M,3,B,78.66,0
+GOOG,Alphabet Class C,1244,445000,M,1,S,789.67,50
+GOOGL,Alphabet Class A,3145,880000,M,3,B,815.06,0
+HSIC,Henry Schein Inc,2246,305000,M,2,S,159.93,0
+ILMN,Illumina Inc,2147,492000,M,2,B,162.83,100
+INCY,Incyte Corp,2248,994000,M,2,S,124.6,0
+INTC,Intel Corp,3249,572000,M,3,S,36.18,0
+INTU,Intuit Inc,3150,324000,M,3,B,117.65,0
+ISRG,Intuitive Surgical Inc,2151,329000,M,2,B,697.24,0
+AAL,American Airlines Group Inc,2101,282000,M,2,B,37.19,100
+AAPL,Apple Inc,3202,928000,M,3,S,129.13,0
+ADBE,Adobe Systems Inc,1203,329000,M,1,S,113.45,0
+ADI,Analog Devices Inc,1204,684000,M,1,S,76.33,50
+ADP,Automatic Data Processing Inc,3205,643000,M,3,S,95.44,0
+ADSK,Autodesk Inc,3206,306000,M,3,S,81.43,0
+AKAM,Akamai Technologies Inc,2207,246000,M,2,S,68.86,0
+ALXN,Alexion Pharmaceuticals Inc,1108,473000,M,1,B,132.4,0
+AMAT,Applied Materials Inc,2209,821000,M,2,S,35.09,0
+AMGN,Amgen Inc,2110,232000,M,2,B,159.59,50
+AMZN,Amazon.com Inc,1111,623000,M,1,B,832.39,0
+ATVI,Activision Blizzard Inc,3212,474000,M,3,S,40.51,0
+AVGO,Broadcom Ltd,1113,332000,M,1,B,213.87,0
+BBBY,Bed Bath & Beyond Inc,1114,422000,M,1,B,40.91,0
+BIDU,Baidu Inc,1115,861000,M,1,B,173.89,0
+BIIB,Biogen Inc,1216,592000,M,1,S,282.05,0
+BMRN,Biomarin Pharmaceutical Inc,2117,683000,M,2,B,88.95,0
+CA,CA Inc,3218,292000,M,3,S,34.62,0
+CELG,Celgene Corp,3119,589000,M,3,B,117.29,50
+CERN,Cerner Corp,2220,614000,M,2,S,53.99,0
+CHKP,Check Point Software Technologies Ltd,1221,516000,M,1,S,98.49,0
+CHTR,Charter Communications Inc,1122,873000,M,1,B,327.01,0
+CMCSA,Comcast Corp,2223,376000,M,2,S,78.99,100
+COST,Costco Wholesale Corp,2224,359000,M,2,S,161.79,0
+CSCO,Cisco Systems Inc,1125,290000,M,1,B,34.29,0
+CSX,CSX Corp,2126,530000,M,2,B,47.38,0
+CTRP,Ctrip.Com International Ltd,1127,225000,M,1,B,43.1,0
+CTSH,Cognizant Technology Solutions Corp,2128,553000,M,2,B,52.75,0
+CTXS,Citrix Systems Inc,3129,230000,M,3,B,64.3,50
+DISCA,Discovery Communications Inc,2130,895000,M,2,B,27.96,50
+DISCK,Discovery Communications Inc,2131,151000,M,2,B,27.57,50
+DISH,DISH Network Corp,3132,422000,M,3,B,61.37,0
+DLTR,Dollar Tree Inc,3233,803000,M,3,S,76.48,0
+EA,Electronic Arts,1234,589000,M,1,S,84.92,0
+EBAY,eBay Inc,1135,828000,M,1,B,32.25,0
+ESRX,Express Scripts Holding Co,1236,114000,M,1,S,71.23,0
+EXPE,Expedia Inc,3237,202000,M,3,S,117.89,50
+FAST,Fastenal Co,1238,360000,M,1,S,52.83,0
+FB,Facebook,2239,131000,M,2,S,133.53,50
+FISV,Fiserv Inc,1240,435000,M,1,S,105.66,0
+FOX,21st Century Fox Class B,1241,416000,M,1,S,24.69,0
+FOXA,21st Century Fox Class A,1142,546000,M,1,B,23.78,0
+GILD,Gilead Sciences Inc,1243,383000,M,1,S,72.65,0
+GOOG,Alphabet Class C,2244,523000,M,2,S,792.73,100
+GOOGL,Alphabet Class A,1245,848000,M,1,S,815.17,0
+HSIC,Henry Schein Inc,2146,855000,M,2,B,159.79,0
+ILMN,Illumina Inc,2247,678000,M,2,S,163.96,0
+INCY,Incyte Corp,2148,674000,M,2,B,124.5,0
+INTC,Intel Corp,1249,245000,M,1,S,36.22,0
+INTU,Intuit Inc,1250,388000,M,1,S,117.65,100
+ISRG,Intuitive Surgical Inc,1251,890000,M,1,S,697.23,0
+AAL,American Airlines Group Inc,3101,843000,M,3,B,37.24,100
+AAPL,Apple Inc,3202,513000,M,3,S,129.19,0
+ADBE,Adobe Systems Inc,2103,649000,M,2,B,113.42,100
+ADI,Analog Devices Inc,3204,891000,M,3,S,75.03,0
+ADP,Automatic Data Processing Inc,2205,189000,M,2,S,95.35,0
+ADSK,Autodesk Inc,3206,527000,M,3,S,81.38,100
+AKAM,Akamai Technologies Inc,3207,756000,M,3,S,68.87,0
+ALXN,Alexion Pharmaceuticals Inc,1108,489000,M,1,B,132.37,0
+AMAT,Applied Materials Inc,2209,918000,M,2,S,35.07,0
+AMGN,Amgen Inc,3210,908000,M,3,S,160.23,0
+AMZN,Amazon.com Inc,3111,805000,M,3,B,832.43,0
+ATVI,Activision Blizzard Inc,1212,515000,M,1,S,40.46,0
+AVGO,Broadcom Ltd,3213,513000,M,3,S,203.94,0
+BBBY,Bed Bath & Beyond Inc,1114,453000,M,1,B,39.92,0
+BIDU,Baidu Inc,2215,491000,M,2,S,173.93,0
+BIIB,Biogen Inc,2216,841000,M,2,S,282.09,0
+BMRN,Biomarin Pharmaceutical Inc,3117,216000,M,3,B,88.91,100
+CA,CA Inc,1218,378000,M,1,S,31.2,0
+CELG,Celgene Corp,1119,941000,M,1,B,119.33,0
+CERN,Cerner Corp,2220,963000,M,2,S,53.95,0
+CHKP,Check Point Software Technologies Ltd,2221,335000,M,2,S,98.34,100
+CHTR,Charter Communications Inc,1122,333000,M,1,B,327.06,100
+CMCSA,Comcast Corp,3223,662000,M,3,S,82.03,0
+COST,Costco Wholesale Corp,1224,671000,M,1,S,161.97,100
+CSCO,Cisco Systems Inc,1225,499000,M,1,S,30.96,0
+CSX,CSX Corp,2126,352000,M,2,B,47.38,50
+CTRP,Ctrip.Com International Ltd,2127,469000,M,2,B,43.1,0
+CTSH,Cognizant Technology Solutions Corp,2128,745000,M,2,B,52.77,0
+CTXS,Citrix Systems Inc,1129,223000,M,1,B,67.83,0
+DISCA,Discovery Communications Inc,1130,113000,M,1,B,32.46,0
+DISCK,Discovery Communications Inc,2231,676000,M,2,S,27.15,0
+DISH,DISH Network Corp,3232,430000,M,3,S,61.39,0
+DLTR,Dollar Tree Inc,1133,199000,M,1,B,76.44,50
+EA,Electronic Arts,3134,286000,M,3,B,83.25,50
+EBAY,eBay Inc,1235,823000,M,1,S,32.37,0
+ESRX,Express Scripts Holding Co,2136,763000,M,2,B,69.05,0
+EXPE,Expedia Inc,1137,461000,M,1,B,117.91,0
+FAST,Fastenal Co,1138,885000,M,1,B,49.73,0
+FB,Facebook,2239,148000,M,2,S,133.43,50
+FISV,Fiserv Inc,3140,419000,M,3,B,105.5,0
+FOX,21st Century Fox Class B,1141,917000,M,1,B,31.48,50
+FOXA,21st Century Fox Class A,2142,637000,M,2,B,31.75,0
+GILD,Gilead Sciences Inc,1143,666000,M,1,B,72.57,0
+GOOG,Alphabet Class C,2244,437000,M,2,S,789.71,0
+GOOGL,Alphabet Class A,2245,174000,M,2,S,815.12,0
+HSIC,Henry Schein Inc,1246,669000,M,1,S,159.8,0
+ILMN,Illumina Inc,3247,345000,M,3,S,162.03,100
+INCY,Incyte Corp,3148,342000,M,3,B,124.52,50
+INTC,Intel Corp,1249,498000,M,1,S,36.23,0
+INTU,Intuit Inc,1250,247000,M,1,S,124.7,0
+ISRG,Intuitive Surgical Inc,3151,541000,M,3,B,697.2,0
+AAL,American Airlines Group Inc,1201,507000,M,1,S,37.45,0
+AAPL,Apple Inc,1202,886000,M,1,S,129.08,0
+ADBE,Adobe Systems Inc,3203,193000,M,3,S,106.52,0
+ADI,Analog Devices Inc,3204,223000,M,3,S,76.43,0
+ADP,Automatic Data Processing Inc,2205,595000,M,2,S,95.34,0
+ADSK,Autodesk Inc,3206,989000,M,3,S,81.54,0
+AKAM,Akamai Technologies Inc,3207,658000,M,3,S,68.92,0
+ALXN,Alexion Pharmaceuticals Inc,1208,707000,M,1,S,132.42,100
+AMAT,Applied Materials Inc,2209,566000,M,2,S,35.23,0
+AMGN,Amgen Inc,3210,907000,M,3,S,159.66,0
+AMZN,Amazon.com Inc,2211,540000,M,2,S,832.56,0
+ATVI,Activision Blizzard Inc,3112,653000,M,3,B,40.37,0
+AVGO,Broadcom Ltd,2213,264000,M,2,S,203.86,0
+BBBY,Bed Bath & Beyond Inc,3214,578000,M,3,S,39.93,100
+BIDU,Baidu Inc,1215,364000,M,1,S,173.88,0
+BIIB,Biogen Inc,1116,592000,M,1,B,282.04,0
+BMRN,Biomarin Pharmaceutical Inc,1117,672000,M,1,B,88.93,50
+CA,CA Inc,1218,648000,M,1,S,31.3,0
+CELG,Celgene Corp,3219,434000,M,3,S,117.55,0
+CERN,Cerner Corp,3120,700000,M,3,B,53.93,0
+CHKP,Check Point Software Technologies Ltd,1121,555000,M,1,B,101.23,0
+CHTR,Charter Communications Inc,3122,925000,M,3,B,317.05,100
+CMCSA,Comcast Corp,3123,136000,M,3,B,75.96,50
+COST,Costco Wholesale Corp,3224,167000,M,3,S,168.97,0
+CSCO,Cisco Systems Inc,1225,585000,M,1,S,30.83,50
+CSX,CSX Corp,2226,122000,M,2,S,42.96,0
+CTRP,Ctrip.Com International Ltd,2227,616000,M,2,S,43.26,0
+CTSH,Cognizant Technology Solutions Corp,3128,316000,M,3,B,52.73,0
+CTXS,Citrix Systems Inc,3229,170000,M,3,S,71.54,0
+DISCA,Discovery Communications Inc,1130,888000,M,1,B,28,0
+DISCK,Discovery Communications Inc,3131,874000,M,3,B,27.51,50
+DISH,DISH Network Corp,1232,826000,M,1,S,61.44,0
+DLTR,Dollar Tree Inc,3133,742000,M,3,B,71.94,50
+EA,Electronic Arts,1134,280000,M,1,B,84.71,0
+EBAY,eBay Inc,2235,317000,M,2,S,32.35,50
+ESRX,Express Scripts Holding Co,2136,443000,M,2,B,69.05,0
+EXPE,Expedia Inc,3237,643000,M,3,S,120.87,0
+FAST,Fastenal Co,2138,942000,M,2,B,49.69,0
+FB,Facebook,1239,411000,M,1,S,133.46,0
+FISV,Fiserv Inc,1140,536000,M,1,B,105.48,0
+FOX,21st Century Fox Class B,1241,461000,M,1,S,28.03,100
+FOXA,21st Century Fox Class A,3142,726000,M,3,B,31.73,0
+GILD,Gilead Sciences Inc,2243,899000,M,2,S,72.58,0
+GOOG,Alphabet Class C,2244,697000,M,2,S,795.74,0
+GOOGL,Alphabet Class A,1145,249000,M,1,B,815.1,0
+HSIC,Henry Schein Inc,1146,712000,M,1,B,159.77,0
+ILMN,Illumina Inc,1247,671000,M,1,S,164.06,0
+INCY,Incyte Corp,3148,580000,M,3,B,129.57,0
+INTC,Intel Corp,2149,281000,M,2,B,36.12,0
+INTU,Intuit Inc,2150,432000,M,2,B,117.63,100
+ISRG,Intuitive Surgical Inc,1151,731000,M,1,B,697.16,0
+AAL,American Airlines Group Inc,3201,717000,M,3,S,44.41,0
+AAPL,Apple Inc,3202,139000,M,3,S,128.96,0
+ADBE,Adobe Systems Inc,2103,347000,M,2,B,113.5,0
+ADI,Analog Devices Inc,2204,655000,M,2,S,76.46,0
+ADP,Automatic Data Processing Inc,2105,622000,M,2,B,95.37,0
+ADSK,Autodesk Inc,2206,258000,M,2,S,81.45,0
+AKAM,Akamai Technologies Inc,1207,966000,M,1,S,68.98,0
+ALXN,Alexion Pharmaceuticals Inc,3108,372000,M,3,B,141.35,100
+AMAT,Applied Materials Inc,2109,603000,M,2,B,35.1,100
+AMGN,Amgen Inc,3110,789000,M,3,B,159.62,0
+AMZN,Amazon.com Inc,1211,524000,M,1,S,832.48,50
+ATVI,Activision Blizzard Inc,2212,194000,M,2,S,40.57,100
+AVGO,Broadcom Ltd,3213,600000,M,3,S,203.92,0
+BBBY,Bed Bath & Beyond Inc,1114,256000,M,1,B,41.89,0
+BIDU,Baidu Inc,1215,559000,M,1,S,173.99,0
+BIIB,Biogen Inc,3116,651000,M,3,B,282.04,0
+BMRN,Biomarin Pharmaceutical Inc,1217,535000,M,1,S,89.09,50
+CA,CA Inc,2118,995000,M,2,B,31.15,0
+CELG,Celgene Corp,1119,648000,M,1,B,117.34,0
+CERN,Cerner Corp,2220,654000,M,2,S,54.12,0
+CHKP,Check Point Software Technologies Ltd,2221,309000,M,2,S,98.32,50
+CHTR,Charter Communications Inc,3122,871000,M,3,B,317.05,0
+CMCSA,Comcast Corp,2223,975000,M,2,S,79.11,0
+COST,Costco Wholesale Corp,2124,491000,M,2,B,161.87,100
+CSCO,Cisco Systems Inc,3125,296000,M,3,B,34.28,0
+CSX,CSX Corp,3226,875000,M,3,S,47.54,0
+CTRP,Ctrip.Com International Ltd,2127,249000,M,2,B,43.09,0
+CTSH,Cognizant Technology Solutions Corp,2128,948000,M,2,B,52.78,0
+CTXS,Citrix Systems Inc,2229,994000,M,2,S,71.54,0
+DISCA,Discovery Communications Inc,3230,262000,M,3,S,28.16,0
+DISCK,Discovery Communications Inc,1131,939000,M,1,B,27.02,0
+DISH,DISH Network Corp,1132,562000,M,1,B,61.35,50
+DLTR,Dollar Tree Inc,1233,842000,M,1,S,71.89,0
+EA,Electronic Arts,3134,139000,M,3,B,83.26,50
+EBAY,eBay Inc,3235,571000,M,3,S,28.34,0
+ESRX,Express Scripts Holding Co,2236,110000,M,2,S,69.28,100
+EXPE,Expedia Inc,3237,893000,M,3,S,120.94,100
+FAST,Fastenal Co,1138,273000,M,1,B,49.7,100
+FB,Facebook,3139,257000,M,3,B,133.43,0
+FISV,Fiserv Inc,1140,734000,M,1,B,105.53,100
+FOX,21st Century Fox Class B,2141,105000,M,2,B,24.56,0
+FOXA,21st Century Fox Class A,3242,921000,M,3,S,31.73,0
+GILD,Gilead Sciences Inc,3243,318000,M,3,S,72.72,0
+GOOG,Alphabet Class C,1244,863000,M,1,S,795.91,0
+GOOGL,Alphabet Class A,2245,995000,M,2,S,815.21,0
+HSIC,Henry Schein Inc,3246,839000,M,3,S,159.97,0
+ILMN,Illumina Inc,2147,634000,M,2,B,161.83,0
+INCY,Incyte Corp,2148,472000,M,2,B,124.59,100
+INTC,Intel Corp,2149,833000,M,2,B,36.13,0
+INTU,Intuit Inc,1150,810000,M,1,B,124.67,0
+ISRG,Intuitive Surgical Inc,2151,537000,M,2,B,697.21,0
+AAL,American Airlines Group Inc,2101,974000,M,2,B,44.35,0
+AAPL,Apple Inc,2202,820000,M,2,S,129.01,50
+ADBE,Adobe Systems Inc,3103,279000,M,3,B,113.49,50
+ADI,Analog Devices Inc,3104,724000,M,3,B,76.42,0
+ADP,Automatic Data Processing Inc,1205,221000,M,1,S,95.38,0
+ADSK,Autodesk Inc,2206,154000,M,2,S,81.37,0
+AKAM,Akamai Technologies Inc,2107,357000,M,2,B,68.82,100
+ALXN,Alexion Pharmaceuticals Inc,1108,540000,M,1,B,141.36,0
+AMAT,Applied Materials Inc,2209,568000,M,2,S,28.25,0
+AMGN,Amgen Inc,2210,497000,M,2,S,159.64,0
+AMZN,Amazon.com Inc,3211,349000,M,3,S,829.45,0
+ATVI,Activision Blizzard Inc,3212,717000,M,3,S,31.6,0
+AVGO,Broadcom Ltd,3113,343000,M,3,B,203.74,0
+BBBY,Bed Bath & Beyond Inc,2214,105000,M,2,S,39.93,50
+BIDU,Baidu Inc,1115,568000,M,1,B,173.95,0
+BIIB,Biogen Inc,3216,184000,M,3,S,282.16,0
+BMRN,Biomarin Pharmaceutical Inc,1217,789000,M,1,S,88.97,50
+CA,CA Inc,1118,666000,M,1,B,31.2,0
+CELG,Celgene Corp,1219,505000,M,1,S,117.56,100
+CERN,Cerner Corp,3120,749000,M,3,B,53.92,50
+CHKP,Check Point Software Technologies Ltd,1221,886000,M,1,S,99.78,0
+CHTR,Charter Communications Inc,3122,649000,M,3,B,327.02,0
+CMCSA,Comcast Corp,3123,866000,M,3,B,75.94,100
+COST,Costco Wholesale Corp,1224,292000,M,1,S,168.91,50
+CSCO,Cisco Systems Inc,3125,942000,M,3,B,30.77,0
+CSX,CSX Corp,1126,383000,M,1,B,47.36,0
+CTRP,Ctrip.Com International Ltd,2227,537000,M,2,S,43.14,0
+CTSH,Cognizant Technology Solutions Corp,2128,584000,M,2,B,52.74,0
+CTXS,Citrix Systems Inc,3229,117000,M,3,S,71.5,0
+DISCA,Discovery Communications Inc,3130,139000,M,3,B,28.01,0
+DISCK,Discovery Communications Inc,2131,213000,M,2,B,27.52,0
+DISH,DISH Network Corp,1132,633000,M,1,B,66.35,50
+DLTR,Dollar Tree Inc,1233,567000,M,1,S,76.5,0
+EA,Electronic Arts,3134,561000,M,3,B,84.76,0
+EBAY,eBay Inc,1235,478000,M,1,S,32.23,0
+ESRX,Express Scripts Holding Co,2236,725000,M,2,S,71.14,0
+EXPE,Expedia Inc,1137,644000,M,1,B,114.92,0
+FAST,Fastenal Co,1238,591000,M,1,S,55.9,0
+FB,Facebook,1139,672000,M,1,B,133.4,0
+FISV,Fiserv Inc,1140,673000,M,1,B,99.56,0
+FOX,21st Century Fox Class B,1241,908000,M,1,S,31.66,0
+FOXA,21st Century Fox Class A,3142,793000,M,3,B,31.71,50
+GILD,Gilead Sciences Inc,3143,606000,M,3,B,72.57,0
+GOOG,Alphabet Class C,1144,681000,M,1,B,795.7,0
+GOOGL,Alphabet Class A,2245,321000,M,2,S,815.18,0
+HSIC,Henry Schein Inc,3246,896000,M,3,S,159.85,100
+ILMN,Illumina Inc,2147,305000,M,2,B,161.85,100
+INCY,Incyte Corp,2248,896000,M,2,S,134.69,0
+INTC,Intel Corp,3249,399000,M,3,S,36.18,0
+INTU,Intuit Inc,1250,662000,M,1,S,117.86,50
+ISRG,Intuitive Surgical Inc,3151,635000,M,3,B,697.18,0
+AAL,American Airlines Group Inc,1201,352000,M,1,S,44.48,100
+AAPL,Apple Inc,1202,504000,M,1,S,124.98,0
+ADBE,Adobe Systems Inc,2103,296000,M,2,B,110.02,0
+ADI,Analog Devices Inc,3104,690000,M,3,B,76.43,0
+ADP,Automatic Data Processing Inc,2105,406000,M,2,B,95.38,100
+ADSK,Autodesk Inc,3106,739000,M,3,B,81.34,0
+AKAM,Akamai Technologies Inc,1207,169000,M,1,S,74.93,0
+ALXN,Alexion Pharmaceuticals Inc,2208,877000,M,2,S,132.38,0
+AMAT,Applied Materials Inc,3109,128000,M,3,B,35.1,100
+AMGN,Amgen Inc,2110,520000,M,2,B,159.6,0
+AMZN,Amazon.com Inc,3111,228000,M,3,B,832.4,0
+ATVI,Activision Blizzard Inc,2212,626000,M,2,S,40.49,0
+AVGO,Broadcom Ltd,1213,915000,M,1,S,203.9,0
+BBBY,Bed Bath & Beyond Inc,3114,352000,M,3,B,40.81,0
+BIDU,Baidu Inc,3215,139000,M,3,S,173.98,50
+BIIB,Biogen Inc,2116,963000,M,2,B,282.06,0
+BMRN,Biomarin Pharmaceutical Inc,3117,341000,M,3,B,88.91,50
+CA,CA Inc,2118,520000,M,2,B,31.21,100
+CELG,Celgene Corp,3219,789000,M,3,S,121.54,0
+CERN,Cerner Corp,1120,118000,M,1,B,57.95,0
+CHKP,Check Point Software Technologies Ltd,2121,379000,M,2,B,98.21,0
+CHTR,Charter Communications Inc,3122,321000,M,3,B,326.99,0
+CMCSA,Comcast Corp,3223,950000,M,3,S,81.99,0
+COST,Costco Wholesale Corp,3124,483000,M,3,B,165.41,0
+CSCO,Cisco Systems Inc,3125,785000,M,3,B,30.76,100
+CSX,CSX Corp,1226,698000,M,1,S,47.48,0
+CTRP,Ctrip.Com International Ltd,2127,287000,M,2,B,43.14,0
+CTSH,Cognizant Technology Solutions Corp,3228,118000,M,3,S,52.87,0
+CTXS,Citrix Systems Inc,3229,770000,M,3,S,71.56,0
+DISCA,Discovery Communications Inc,2230,668000,M,2,S,28.12,50
+DISCK,Discovery Communications Inc,2131,299000,M,2,B,27.49,0
+DISH,DISH Network Corp,2132,109000,M,2,B,66.37,0
+DLTR,Dollar Tree Inc,1133,673000,M,1,B,76.33,0
+EA,Electronic Arts,1134,419000,M,1,B,83.31,0
+EBAY,eBay Inc,2135,980000,M,2,B,32.18,0
+ESRX,Express Scripts Holding Co,2236,700000,M,2,S,69.02,100
+EXPE,Expedia Inc,3237,250000,M,3,S,121.09,0
+FAST,Fastenal Co,1238,207000,M,1,S,49.81,0
+FB,Facebook,3239,549000,M,3,S,133.49,0
+FISV,Fiserv Inc,3140,344000,M,3,B,105.52,0
+FOX,21st Century Fox Class B,3141,553000,M,3,B,31.48,0
+FOXA,21st Century Fox Class A,3242,533000,M,3,S,27.85,0
+GILD,Gilead Sciences Inc,3243,858000,M,3,S,72.73,0
+GOOG,Alphabet Class C,3244,550000,M,3,S,795.84,0
+GOOGL,Alphabet Class A,1245,814000,M,1,S,815.28,0
+HSIC,Henry Schein Inc,2246,618000,M,2,S,160.8,0
+ILMN,Illumina Inc,2147,453000,M,2,B,163.87,100
+INCY,Incyte Corp,1248,672000,M,1,S,124.58,100
+INTC,Intel Corp,1149,731000,M,1,B,36.15,0
+INTU,Intuit Inc,3150,517000,M,3,B,121.18,0
+ISRG,Intuitive Surgical Inc,2251,408000,M,2,S,697.25,0
+AAL,American Airlines Group Inc,1201,621000,M,1,S,37.54,0
+AAPL,Apple Inc,3102,899000,M,3,B,128.97,0
+ADBE,Adobe Systems Inc,3203,441000,M,3,S,113.69,0
+ADI,Analog Devices Inc,1104,960000,M,1,B,76.45,0
+ADP,Automatic Data Processing Inc,2105,855000,M,2,B,104.41,0
+ADSK,Autodesk Inc,1106,622000,M,1,B,81.34,0
+AKAM,Akamai Technologies Inc,2107,570000,M,2,B,68.85,100
+ALXN,Alexion Pharmaceuticals Inc,1108,781000,M,1,B,132.32,0
+AMAT,Applied Materials Inc,1209,118000,M,1,S,28.12,0
+AMGN,Amgen Inc,2210,982000,M,2,S,159.61,100
+AMZN,Amazon.com Inc,1111,490000,M,1,B,832.38,0
+ATVI,Activision Blizzard Inc,1112,593000,M,1,B,40.44,50
+AVGO,Broadcom Ltd,2213,394000,M,2,S,203.9,0
+BBBY,Bed Bath & Beyond Inc,3214,662000,M,3,S,39.92,0
+BIDU,Baidu Inc,3115,773000,M,3,B,172.91,0
+BIIB,Biogen Inc,1116,583000,M,1,B,282.1,0
+BMRN,Biomarin Pharmaceutical Inc,3117,481000,M,3,B,88.88,0
+CA,CA Inc,3118,771000,M,3,B,38.23,0
+CELG,Celgene Corp,1219,301000,M,1,S,117.47,0
+CERN,Cerner Corp,2220,230000,M,2,S,54.04,0
+CHKP,Check Point Software Technologies Ltd,1121,203000,M,1,B,98.22,50
+CHTR,Charter Communications Inc,1122,479000,M,1,B,326.95,0
+CMCSA,Comcast Corp,3223,514000,M,3,S,76.08,0
+COST,Costco Wholesale Corp,1224,383000,M,1,S,161.88,0
+CSCO,Cisco Systems Inc,1225,678000,M,1,S,37.87,100
+CSX,CSX Corp,1226,383000,M,1,S,47.6,50
+CTRP,Ctrip.Com International Ltd,1127,599000,M,1,B,43.17,0
+CTSH,Cognizant Technology Solutions Corp,2128,169000,M,2,B,52.76,0
+CTXS,Citrix Systems Inc,3129,879000,M,3,B,71.37,0
+DISCA,Discovery Communications Inc,1130,819000,M,1,B,32.47,0
+DISCK,Discovery Communications Inc,1131,779000,M,1,B,27.48,0
+DISH,DISH Network Corp,2132,671000,M,2,B,61.42,50
+DLTR,Dollar Tree Inc,3233,419000,M,3,S,76.42,0
+EA,Electronic Arts,3134,221000,M,3,B,83.27,0
+EBAY,eBay Inc,2135,682000,M,2,B,32.19,0
+ESRX,Express Scripts Holding Co,2236,696000,M,2,S,71.1,0
+EXPE,Expedia Inc,3237,558000,M,3,S,121.1,0
+FAST,Fastenal Co,2238,229000,M,2,S,49.89,50
+FB,Facebook,2139,477000,M,2,B,133.44,0
+FISV,Fiserv Inc,3240,562000,M,3,S,105.56,0
+FOX,21st Century Fox Class B,1141,796000,M,1,B,31.46,100
+FOXA,21st Century Fox Class A,1142,850000,M,1,B,31.7,0
+GILD,Gilead Sciences Inc,1243,158000,M,1,S,72.76,0
+GOOG,Alphabet Class C,3244,618000,M,3,S,795.69,0
+GOOGL,Alphabet Class A,2145,458000,M,2,B,815.08,0
+HSIC,Henry Schein Inc,1246,387000,M,1,S,159.75,0
+ILMN,Illumina Inc,3147,656000,M,3,B,163.86,0
+INCY,Incyte Corp,2148,538000,M,2,B,134.57,0
+INTC,Intel Corp,1149,958000,M,1,B,36.14,0
+INTU,Intuit Inc,3150,361000,M,3,B,117.66,50
+ISRG,Intuitive Surgical Inc,3151,735000,M,3,B,697.17,0
+AAL,American Airlines Group Inc,2201,354000,M,2,S,44.43,50
+AAPL,Apple Inc,1202,982000,M,1,S,129.13,0
+ADBE,Adobe Systems Inc,3203,436000,M,3,S,113.72,0
+ADI,Analog Devices Inc,3204,875000,M,3,S,76.53,0
+ADP,Automatic Data Processing Inc,1205,616000,M,1,S,95.44,0
+ADSK,Autodesk Inc,2206,367000,M,2,S,81.38,50
+AKAM,Akamai Technologies Inc,1107,952000,M,1,B,74.9,0
+ALXN,Alexion Pharmaceuticals Inc,3108,301000,M,3,B,132.37,0
+AMAT,Applied Materials Inc,1209,310000,M,1,S,35.13,50
+AMGN,Amgen Inc,2210,392000,M,2,S,160.73,100
+AMZN,Amazon.com Inc,2111,195000,M,2,B,832.4,100
+ATVI,Activision Blizzard Inc,1212,240000,M,1,S,35.97,0
+AVGO,Broadcom Ltd,2113,414000,M,2,B,203.74,0
+BBBY,Bed Bath & Beyond Inc,3214,419000,M,3,S,39.83,0
+BIDU,Baidu Inc,3215,705000,M,3,S,173.97,50
+BIIB,Biogen Inc,2216,496000,M,2,S,282.21,0
+BMRN,Biomarin Pharmaceutical Inc,2117,195000,M,2,B,88.92,0
+CA,CA Inc,3118,746000,M,3,B,31.26,0
+CELG,Celgene Corp,2119,306000,M,2,B,117.33,50
+CERN,Cerner Corp,3120,124000,M,3,B,53.88,0
+CHKP,Check Point Software Technologies Ltd,1221,214000,M,1,S,99.89,0
+CHTR,Charter Communications Inc,1122,846000,M,1,B,326.95,100
+CMCSA,Comcast Corp,2123,763000,M,2,B,75.87,50
+COST,Costco Wholesale Corp,3124,1000000,M,3,B,161.89,0
+CSCO,Cisco Systems Inc,1225,690000,M,1,S,37.8,0
+CSX,CSX Corp,1126,702000,M,1,B,42.98,0
+CTRP,Ctrip.Com International Ltd,1227,598000,M,1,S,43.28,0
+CTSH,Cognizant Technology Solutions Corp,1128,886000,M,1,B,52.76,0
+CTXS,Citrix Systems Inc,3229,758000,M,3,S,71.36,100
+DISCA,Discovery Communications Inc,3130,215000,M,3,B,27.99,0
+DISCK,Discovery Communications Inc,3131,218000,M,3,B,27.46,0
+DISH,DISH Network Corp,3232,676000,M,3,S,66.57,0
+DLTR,Dollar Tree Inc,2133,948000,M,2,B,76.31,0
+EA,Electronic Arts,2134,745000,M,2,B,83.32,50
+EBAY,eBay Inc,2235,800000,M,2,S,32.15,0
+ESRX,Express Scripts Holding Co,3236,396000,M,3,S,69.08,0
+EXPE,Expedia Inc,2237,477000,M,2,S,120.97,0
+FAST,Fastenal Co,3238,928000,M,3,S,52.84,0
+FB,Facebook,2239,483000,M,2,S,133.49,0
+FISV,Fiserv Inc,2140,645000,M,2,B,105.5,0
+FOX,21st Century Fox Class B,2241,969000,M,2,S,24.66,100
+FOXA,21st Century Fox Class A,1242,320000,M,1,S,31.7,0
+GILD,Gilead Sciences Inc,2143,277000,M,2,B,72.55,0
+GOOG,Alphabet Class C,3244,241000,M,3,S,795.86,100
+GOOGL,Alphabet Class A,1245,367000,M,1,S,815.12,50
+HSIC,Henry Schein Inc,2146,682000,M,2,B,159.76,100
+ILMN,Illumina Inc,2147,541000,M,2,B,161.88,0
+INCY,Incyte Corp,1248,325000,M,1,S,124.75,0
+INTC,Intel Corp,1149,955000,M,1,B,36.13,0
+INTU,Intuit Inc,2150,432000,M,2,B,121.16,0
+ISRG,Intuitive Surgical Inc,2251,849000,M,2,S,697.24,0
+AAL,American Airlines Group Inc,2201,668000,M,2,S,41.02,0
+AAPL,Apple Inc,3102,667000,M,3,B,129.04,0
+ADBE,Adobe Systems Inc,3103,437000,M,3,B,113.52,100
+ADI,Analog Devices Inc,2204,710000,M,2,S,76.48,100
+ADP,Automatic Data Processing Inc,3105,251000,M,3,B,95.35,0
+ADSK,Autodesk Inc,1106,246000,M,1,B,81.38,50
+AKAM,Akamai Technologies Inc,1207,926000,M,1,S,68.87,0
+ALXN,Alexion Pharmaceuticals Inc,3108,366000,M,3,B,132.36,100
+AMAT,Applied Materials Inc,1109,928000,M,1,B,31.64,0
+AMGN,Amgen Inc,1210,644000,M,1,S,160.73,50
+AMZN,Amazon.com Inc,2111,565000,M,2,B,826.43,100
+ATVI,Activision Blizzard Inc,3212,879000,M,3,S,40.46,50
+AVGO,Broadcom Ltd,1113,570000,M,1,B,203.73,0
+BBBY,Bed Bath & Beyond Inc,1114,894000,M,1,B,39.74,0
+BIDU,Baidu Inc,2215,645000,M,2,S,173.05,0
+BIIB,Biogen Inc,2216,103000,M,2,S,282.05,0
+BMRN,Biomarin Pharmaceutical Inc,3117,805000,M,3,B,88.92,0
+CA,CA Inc,2118,424000,M,2,B,31.23,0
+CELG,Celgene Corp,1219,803000,M,1,S,119.41,0
+CERN,Cerner Corp,1120,357000,M,1,B,53.88,0
+CHKP,Check Point Software Technologies Ltd,2121,245000,M,2,B,98.19,0
+CHTR,Charter Communications Inc,3122,111000,M,3,B,317,100
+CMCSA,Comcast Corp,2223,967000,M,2,S,78.93,0
+COST,Costco Wholesale Corp,1224,293000,M,1,S,161.95,0
+CSCO,Cisco Systems Inc,3225,108000,M,3,S,30.92,0
+CSX,CSX Corp,1126,523000,M,1,B,47.52,0
+CTRP,Ctrip.Com International Ltd,3227,326000,M,3,S,43.17,50
+CTSH,Cognizant Technology Solutions Corp,3128,210000,M,3,B,52.76,50
+CTXS,Citrix Systems Inc,2129,104000,M,2,B,64.37,0
+DISCA,Discovery Communications Inc,3230,419000,M,3,S,28.15,100
+DISCK,Discovery Communications Inc,3131,804000,M,3,B,27.49,0
+DISH,DISH Network Corp,2232,351000,M,2,S,61.6,0
+DLTR,Dollar Tree Inc,2133,467000,M,2,B,76.31,0
+EA,Electronic Arts,1234,729000,M,1,S,85,0
+EBAY,eBay Inc,2235,429000,M,2,S,32.33,100
+ESRX,Express Scripts Holding Co,1236,863000,M,1,S,69.11,0
+EXPE,Expedia Inc,1137,980000,M,1,B,121.01,0
+FAST,Fastenal Co,2138,271000,M,2,B,49.74,100
+FB,Facebook,1139,827000,M,1,B,133.42,0
+FISV,Fiserv Inc,2240,630000,M,2,S,105.59,50
+FOX,21st Century Fox Class B,1141,419000,M,1,B,24.53,100
+FOXA,21st Century Fox Class A,1142,671000,M,1,B,31.68,0
+GILD,Gilead Sciences Inc,2243,858000,M,2,S,72.64,0
+GOOG,Alphabet Class C,3144,825000,M,3,B,789.62,0
+GOOGL,Alphabet Class A,3145,691000,M,3,B,815.59,0
+HSIC,Henry Schein Inc,1146,883000,M,1,B,160.81,0
+ILMN,Illumina Inc,2147,783000,M,2,B,161.85,50
+INCY,Incyte Corp,2148,962000,M,2,B,124.57,100
+INTC,Intel Corp,3149,426000,M,3,B,36.18,0
+INTU,Intuit Inc,3250,986000,M,3,S,117.75,0
+ISRG,Intuitive Surgical Inc,3151,857000,M,3,B,697.18,0
+AAL,American Airlines Group Inc,1101,796000,M,1,B,44.33,0
+AAPL,Apple Inc,1202,200000,M,1,S,129.22,50
+ADBE,Adobe Systems Inc,1203,127000,M,1,S,106.68,50
+ADI,Analog Devices Inc,2204,695000,M,2,S,73.44,0
+ADP,Automatic Data Processing Inc,3105,527000,M,3,B,95.4,0
+ADSK,Autodesk Inc,3106,851000,M,3,B,81.38,0
+AKAM,Akamai Technologies Inc,3207,396000,M,3,S,68.93,50
+ALXN,Alexion Pharmaceuticals Inc,3108,743000,M,3,B,141.37,0
+AMAT,Applied Materials Inc,3209,659000,M,3,S,35.21,0
+AMGN,Amgen Inc,2110,491000,M,2,B,160.12,0
+AMZN,Amazon.com Inc,2211,143000,M,2,S,826.5,0
+ATVI,Activision Blizzard Inc,3212,703000,M,3,S,35.98,0
+AVGO,Broadcom Ltd,1213,182000,M,1,S,203.8,100
+BBBY,Bed Bath & Beyond Inc,2114,429000,M,2,B,39.71,0
+BIDU,Baidu Inc,1215,373000,M,1,S,174.01,0
+BIIB,Biogen Inc,2116,219000,M,2,B,282.08,0
+BMRN,Biomarin Pharmaceutical Inc,3217,977000,M,3,S,89.04,0
+CA,CA Inc,3118,307000,M,3,B,31.19,100
+CELG,Celgene Corp,3119,614000,M,3,B,117.3,0
+CERN,Cerner Corp,3220,317000,M,3,S,54.05,100
+CHKP,Check Point Software Technologies Ltd,1221,707000,M,1,S,98.26,100
+CHTR,Charter Communications Inc,2122,658000,M,2,B,317.04,0
+CMCSA,Comcast Corp,2123,497000,M,2,B,75.84,0
+COST,Costco Wholesale Corp,3224,822000,M,3,S,161.96,0
+CSCO,Cisco Systems Inc,1125,566000,M,1,B,30.81,0
+CSX,CSX Corp,1226,728000,M,1,S,47.64,0
+CTRP,Ctrip.Com International Ltd,3227,990000,M,3,S,48.23,100
+CTSH,Cognizant Technology Solutions Corp,3128,141000,M,3,B,49.24,0
+CTXS,Citrix Systems Inc,2229,136000,M,2,S,71.54,0
+DISCA,Discovery Communications Inc,2130,957000,M,2,B,37.04,0
+DISCK,Discovery Communications Inc,1231,718000,M,1,S,27.7,0
+DISH,DISH Network Corp,3132,306000,M,3,B,61.52,0
+DLTR,Dollar Tree Inc,2233,403000,M,2,S,76.38,0
+EA,Electronic Arts,1234,952000,M,1,S,83.45,0
+EBAY,eBay Inc,2235,562000,M,2,S,24.25,0
+ESRX,Express Scripts Holding Co,1236,961000,M,1,S,68.99,0
+EXPE,Expedia Inc,1137,540000,M,1,B,121.02,0
+FAST,Fastenal Co,1138,381000,M,1,B,55.77,0
+FB,Facebook,2139,814000,M,2,B,133.37,50
+FISV,Fiserv Inc,2240,525000,M,2,S,102.51,0
+FOX,21st Century Fox Class B,2141,353000,M,2,B,24.52,0
+FOXA,21st Century Fox Class A,1242,684000,M,1,S,31.91,50
+GILD,Gilead Sciences Inc,2243,797000,M,2,S,72.77,100
+GOOG,Alphabet Class C,3244,753000,M,3,S,795.71,0
+GOOGL,Alphabet Class A,1145,147000,M,1,B,815.11,0
+HSIC,Henry Schein Inc,2146,238000,M,2,B,159.76,50
+ILMN,Illumina Inc,2247,307000,M,2,S,162.94,0
+INCY,Incyte Corp,3248,190000,M,3,S,134.62,0
+INTC,Intel Corp,3149,960000,M,3,B,36.23,0
+INTU,Intuit Inc,3150,219000,M,3,B,117.65,0
+ISRG,Intuitive Surgical Inc,1151,820000,M,1,B,697.16,100
+AAL,American Airlines Group Inc,3101,667000,M,3,B,44.35,0
+AAPL,Apple Inc,2102,588000,M,2,B,125.01,0
+ADBE,Adobe Systems Inc,1103,263000,M,1,B,110.01,0
+ADI,Analog Devices Inc,2204,289000,M,2,S,76.57,0
+ADP,Automatic Data Processing Inc,2105,437000,M,2,B,95.45,100
+ADSK,Autodesk Inc,3206,843000,M,3,S,81.36,100
+AKAM,Akamai Technologies Inc,1207,221000,M,1,S,72.11,100
+ALXN,Alexion Pharmaceuticals Inc,2108,871000,M,2,B,132.38,0
+AMAT,Applied Materials Inc,1209,246000,M,1,S,35.34,0
+AMGN,Amgen Inc,1210,973000,M,1,S,159.81,0
+AMZN,Amazon.com Inc,3211,978000,M,3,S,832.53,0
+ATVI,Activision Blizzard Inc,2212,755000,M,2,S,40.37,0
+AVGO,Broadcom Ltd,3213,645000,M,3,S,213.89,0
+BBBY,Bed Bath & Beyond Inc,3214,828000,M,3,S,39.85,0
+BIDU,Baidu Inc,1115,322000,M,1,B,173.93,0
+BIIB,Biogen Inc,2116,839000,M,2,B,282.06,100
+BMRN,Biomarin Pharmaceutical Inc,3117,321000,M,3,B,88.94,100
+CA,CA Inc,3218,364000,M,3,S,38.23,0
+CELG,Celgene Corp,1119,706000,M,1,B,117.27,0
+CERN,Cerner Corp,2220,544000,M,2,S,62.06,0
+CHKP,Check Point Software Technologies Ltd,1121,606000,M,1,B,101.15,100
+CHTR,Charter Communications Inc,1222,638000,M,1,S,327.08,0
+CMCSA,Comcast Corp,3123,764000,M,3,B,75.87,0
+COST,Costco Wholesale Corp,1124,170000,M,1,B,161.9,0
+CSCO,Cisco Systems Inc,2125,654000,M,2,B,30.82,0
+CSX,CSX Corp,2126,539000,M,2,B,47.52,0
+CTRP,Ctrip.Com International Ltd,1127,345000,M,1,B,53.17,100
+CTSH,Cognizant Technology Solutions Corp,3128,768000,M,3,B,52.71,100
+CTXS,Citrix Systems Inc,1129,868000,M,1,B,71.46,50
+DISCA,Discovery Communications Inc,2230,814000,M,2,S,28.21,50
+DISCK,Discovery Communications Inc,2131,736000,M,2,B,27.56,0
+DISH,DISH Network Corp,2132,886000,M,2,B,61.57,100
+DLTR,Dollar Tree Inc,1133,533000,M,1,B,76.3,0
+EA,Electronic Arts,1234,778000,M,1,S,83.4,0
+EBAY,eBay Inc,1235,919000,M,1,S,32.34,0
+ESRX,Express Scripts Holding Co,3236,824000,M,3,S,69.06,0
+EXPE,Expedia Inc,2237,319000,M,2,S,121.04,0
+FAST,Fastenal Co,2238,199000,M,2,S,49.94,0
+FB,Facebook,1239,563000,M,1,S,133.37,0
+FISV,Fiserv Inc,3240,804000,M,3,S,105.56,0
+FOX,21st Century Fox Class B,3241,270000,M,3,S,31.75,50
+FOXA,21st Century Fox Class A,2242,543000,M,2,S,27.93,50
+GILD,Gilead Sciences Inc,3143,618000,M,3,B,78.58,100
+GOOG,Alphabet Class C,3144,781000,M,3,B,795.61,0
+GOOGL,Alphabet Class A,2245,357000,M,2,S,815.29,0
+HSIC,Henry Schein Inc,2246,592000,M,2,S,160.42,50
+ILMN,Illumina Inc,2147,456000,M,2,B,161.83,0
+INCY,Incyte Corp,2248,499000,M,2,S,124.72,0
+INTC,Intel Corp,3249,218000,M,3,S,36.28,50
+INTU,Intuit Inc,3250,453000,M,3,S,117.64,0
+ISRG,Intuitive Surgical Inc,2251,122000,M,2,S,694.33,50
